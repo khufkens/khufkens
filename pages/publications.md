@@ -8,7 +8,7 @@ menu: true
 order: 3
 ---
 
-For the most recent list of publications including conference abstracts I refer to <a href="https://scholar.google.com/citations?hl=en&amp;user=3ZD7sagAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">my google scholar webpage</a>.</p>
+<p style="padding-left: 30px;">For the most recent list of publications including conference abstracts I refer to <a href="https://scholar.google.com/citations?hl=en&amp;user=3ZD7sagAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">my google scholar webpage</a>.</p>
 
 <em>2018</em>
 
@@ -64,4 +64,3 @@ For the most recent list of publications including conference abstracts I refer 
 <p style="padding-left: 30px;"><strong>2.</strong> <strong>Hufkens K.</strong>, Bogaert J., Dong Q.H., Lu L., Huang C.L., Ma M.G., Che T., Li X., Veroustraete F. and Ceulemans R. 2008. Impacts and uncertainties of upscaling of remote-sensing data validation for a semi-arid woodland. <strong>Journal of Arid Environments</strong>. 72: 1490-1505.</p>
 <em>2008</em>
 <p style="padding-left: 30px;"><strong>1.</strong> <strong>Hufkens K.</strong>, Ceulemans R. and Scheunders P. 2008. Estimating the ecotone width in patchy ecotones using a sigmoid wave approach. <strong>Ecological Informatics</strong> 3: 97-104.</p>
-<p style="padding-left: 30px;">
