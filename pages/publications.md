@@ -10,7 +10,10 @@ order: 3
 
 <em>2018</em>
 
-<p style="padding-left: 30px;"><strong>34.</strong> Bastin J-F, Rutishauser E, Kellner J R, ... Hufkens K. ... et al. (2018) Pan‐tropical prediction of forest structure from the largest trees.  <strong>Global Ecology & Biogeography</strong>. online early , 1-18</p>
+<p style="padding-left: 30px;"><strong>35.</strong>
+<strong>Hufkens K</strong>, Filippa G, Cremonese E et al. (2018) Assimilating phenology datasets automatically across ICOS ecosystem stations. International Agrophysics, 32, 1–11.</p>
+
+<p style="padding-left: 30px;"><strong>34.</strong> Bastin J-F, Rutishauser E, Kellner J R, ... Hufkens K. ... et al. (2018) Pan‐tropical prediction of forest structure from the largest trees.  <strong>Global Ecology & Biogeography</strong>. 27, 1366–1383</p>
 
 <p style="padding-left: 30px;"><strong>33.</strong> Richardson AD, <strong>Hufkens K</strong>, Aubrecht DM, Furze ME, Seyednasrollah B, Krassovski M, Latimer JM, Nettles R, Heiderman RR, Warren JM, Hanson PJ. (2018) Ecosystem warming extends vegetation activity but heightens vulnerability to cold temperatures. <strong>Nature</strong>. 560, 368–371.</p>
 
