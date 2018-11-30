@@ -8,6 +8,8 @@ menu: true
 order: 3
 ---
 
+For the most recent list of publications including conference abstracts I refer to <a href="https://scholar.google.com/citations?hl=en&amp;user=3ZD7sagAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">my google scholar webpage</a>.</p>
+
 <em>2018</em>
 
 <p style="padding-left: 30px;"><strong>35.</strong>
@@ -63,5 +65,3 @@ order: 3
 <em>2008</em>
 <p style="padding-left: 30px;"><strong>1.</strong> <strong>Hufkens K.</strong>, Ceulemans R. and Scheunders P. 2008. Estimating the ecotone width in patchy ecotones using a sigmoid wave approach. <strong>Ecological Informatics</strong> 3: 97-104.</p>
 <p style="padding-left: 30px;">
-
-For the most recent list of publications including conference abstracts I refer to <a href="https://scholar.google.com/citations?hl=en&amp;user=3ZD7sagAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">my google scholar webpage</a>.</p>
