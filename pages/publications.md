@@ -13,7 +13,7 @@ For the most recent list of publications including conference abstracts I refer 
 <em>2018</em>
 
 <p style="padding-left: 30px;"><strong>35.</strong>
-<strong>Hufkens K</strong>, Filippa G, Cremonese E et al. (2018) Assimilating phenology datasets automatically across ICOS ecosystem stations. International Agrophysics, 32, 1–11.</p>
+<strong>Hufkens K</strong>, Filippa G, Cremonese E et al. (2018) Assimilating phenology datasets automatically across ICOS ecosystem stations. <strong>International Agrophysics</strong>. 32, 1–11.</p>
 
 <p style="padding-left: 30px;"><strong>34.</strong> Bastin J-F, Rutishauser E, Kellner J R, ... Hufkens K. ... et al. (2018) Pan‐tropical prediction of forest structure from the largest trees.  <strong>Global Ecology & Biogeography</strong>. 27, 1366–1383</p>
 
