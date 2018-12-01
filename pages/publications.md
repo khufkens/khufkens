@@ -12,8 +12,16 @@ order: 3
 
 <em>2018</em>
 
+<p style="padding-left: 30px;"><strong>37.</strong>
+<strong>Hufkens K</strong>, Melaas EK, Mann ML, Foster T, Ceballos F, Robles M, Kramer B (2019) Agricultural and Forest Meteorology Monitoring crop phenology using a smartphone based near-surface remote sensing approach. <strong>Agricultural and Forest Meteorology</strong>, 265, 327–337. (open access <a href="https://www.sciencedirect.com/science/article/pii/S0168192318303484">PDF</a>)
+</p>
+
+<p style="padding-left: 30px;"><strong>36.</strong>
+Franz D, Acosta M, Altimir N, Arriga N, Arrouays D, Aubinet M, Aurela M ... Hufkens K ... et al. (2018) Towards long-term standardised carbon and greenhouse gas observations for monitoring Europe’s terrestrial ecosystems : a review. International Agrophysics. 32, 439–455. (open access <a href="http://www.international-agrophysics.org/en/artykul/1172">PDF</a>)
+</p>
+
 <p style="padding-left: 30px;"><strong>35.</strong>
-<strong>Hufkens K</strong>, Filippa G, Cremonese E et al. (2018) Assimilating phenology datasets automatically across ICOS ecosystem stations. <strong>International Agrophysics</strong>. 32, 1–11.</p>
+<strong>Hufkens K</strong>, Filippa G, Cremonese E et al. (2018) Assimilating phenology datasets automatically across ICOS ecosystem stations. <strong>International Agrophysics</strong>. 32, 1–11. (open access <a href="http://www.international-agrophysics.org/en/artykul/1158">PDF</a>)</p>
 
 <p style="padding-left: 30px;"><strong>34.</strong> Bastin J-F, Rutishauser E, Kellner J R, ... Hufkens K. ... et al. (2018) Pan‐tropical prediction of forest structure from the largest trees.  <strong>Global Ecology & Biogeography</strong>. 27, 1366–1383</p>
 
@@ -21,12 +29,15 @@ order: 3
 
 <p style="padding-left: 30px;"><strong>32.</strong> Klosterman S, <strong>Hufkens K</strong>, Milliman T, Frolking S (2018) Later springs green-up faster: the relation between onset and completion of green-up in deciduous forests of North America. <strong>International Journal of Biometeorology</strong>. https://doi.org/10.1007/s00484-018-1564-9.</p>
 
-<p style="padding-left: 30px;"><strong>31.</strong> Richardson AD, <strong>Hufkens K</strong>, Milliman T, Frolking S. (2018) Intercomparison of phenological transition dates derived from the PhenoCam Dataset V1.0 and MODIS satellite remote sensing. <strong>Scientific Reports</strong>. 8, 5679.</p>
+<p style="padding-left: 30px;"><strong>31.</strong> Richardson AD, <strong>Hufkens K</strong>, Milliman T, Frolking S. (2018) Intercomparison of phenological transition dates derived from the PhenoCam Dataset V1.0 and MODIS satellite remote sensing. <strong>Scientific Reports</strong>. 8, 5679. (open access <a href="https://www.nature.com/articles/s41598-018-23804-6">PDF</a>)</p>
 
 <p style="padding-left: 30px;"><strong>30.</strong> Bowling DR,  Logan BA, <strong>Hufkens K</strong>,  Aubrecht DM,  Richardson AD,  Burns SP,  Anderegg WRL, Blanken PD, Eiriksson D (2018) Limitations to winter and spring photosynthesis of a Rocky Mountain subalpine forest. <strong>Agricultural and Forest Meteorology</strong>. 252, <span class="size-m">241-255</span>.</p>
-<p style="padding-left: 30px;"><strong>29.</strong> <strong>Hufkens K.</strong>, Basler J. D., Milliman T. Melaas E., Richardson A.D. (2018) An integrated phenology modelling framework in R: Phenology modelling with phenor. <strong>Methods in Ecology &amp; Evolution.</strong> 9,  1 - 10.</p>
-<p style="padding-left: 30px;"><strong>28.</strong> Richardson, A.D., <strong>Hufkens, K.</strong>, Milliman, T., Aubrecht, D.M., Chen, M., Gray, J.M., Johnston, M.R., Keenan, T.F., Klosterman, S.T., Kosmala, M., Melaas, E.K., Friedl, M.A. Frolking, S. (2017) Tracking vegetation phenology across diverse North American biomes using PhenoCam imagery. <strong>Scientific Data</strong>. 5, 180028.</p>
+
+<p style="padding-left: 30px;"><strong>29.</strong> <strong>Hufkens K.</strong>, Basler J. D., Milliman T. Melaas E., Richardson A.D. (2018) An integrated phenology modelling framework in R: Phenology modelling with phenor. <strong>Methods in Ecology &amp; Evolution.</strong> 9,  1 - 10. (open access <a href="http://www.international-agrophysics.org/en/artykul/1158">PDF</a>)</p>
+
+<p style="padding-left: 30px;"><strong>28.</strong> Richardson, A.D., <strong>Hufkens, K.</strong>, Milliman, T., Aubrecht, D.M., Chen, M., Gray, J.M., Johnston, M.R., Keenan, T.F., Klosterman, S.T., Kosmala, M., Melaas, E.K., Friedl, M.A. Frolking, S. (2017) Tracking vegetation phenology across diverse North American biomes using PhenoCam imagery. <strong>Scientific Data</strong>. 5, 180028. (open access <a href="https://www.nature.com/articles/sdata201828">PDF</a>)</p>
 <em>2017</em>
+
 <p style="padding-left: 30px;"><strong> 27.</strong> Filippa, G., Cremonese, E., Galvagno, M., Migliavacca, M., Sonnentag, O., Humphreys, E., <strong>Hufkens, K.</strong>, Ryu, Y., Verfaillie, J., Mora di Cella, U., Richardson, A.D. (2017) NDVI derived from IR-enabled digital cameras : applicability across different plant functional types. <strong>Agricultural &amp; Forest Meteorology</strong>.</p>
 <p style="padding-left: 30px;"><strong>26.</strong> Liu Y., Hill M. J.,Zhang X., Wang Z.,Richardson A.D., <strong>Hufkens K.</strong>, Filippa G., Baldocchi D. D., Ma S., Verfaillie J., Schaaf C.B. (2017) Using data from Landsat, MODIS, VIIRS and PhenoCams to monitor the phenology of California oak/grass savanna and open grassland across spatial scales. <strong>Agricultural &amp; Forest Meteorology</strong>, 237, 311-325.</p>
 <em>2016</em>
