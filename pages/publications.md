@@ -12,6 +12,10 @@ order: 3
 
 <em>2018</em>
 
+<p style="padding-left: 30px;"><strong>38.</strong>
+Richardson A.D., <strong>Hufkens K</strong> Li X, Ault T.R. (2018) Testing the Hopkins Law of Bioclimatics with PhenoCam data. <strong>Applications in Plant Sciences</strong> (in press)
+</p>
+
 <p style="padding-left: 30px;"><strong>37.</strong>
 <strong>Hufkens K</strong>, Melaas EK, Mann ML, Foster T, Ceballos F, Robles M, Kramer B (2019) Agricultural and Forest Meteorology Monitoring crop phenology using a smartphone based near-surface remote sensing approach. <strong>Agricultural and Forest Meteorology</strong>, 265, 327–337. (open access <a href="https://www.sciencedirect.com/science/article/pii/S0168192318303484">PDF</a>)
 </p>
