@@ -2,10 +2,6 @@
 title: The Pareto-Kanban squeeze
 author: Koen Hufkens
 layout: post
-categories:
-  - time-management
-  - efficiency
-  - development
 tags:
   - development
   - efficiency
