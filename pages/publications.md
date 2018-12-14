@@ -8,9 +8,15 @@ menu: true
 order: 3
 ---
 
-<p style="padding-left: 30px;">For the most recent list of publications including conference abstracts I refer to <a href="https://scholar.google.com/citations?hl=en&amp;user=3ZD7sagAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">my google scholar webpage</a>.</p>
+<p style="padding-left: 30px;">For conference abstracts I refer to <a href="https://scholar.google.com/citations?hl=en&amp;user=3ZD7sagAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">my google scholar webpage</a>.</p>
 
 <em>2018</em>
+
+<p style="padding-left: 30px;"><strong>40.</strong>
+Kosmala M., <strong>Hufkens K.</strong>, Richardson A.D. (2018) Integrating camera imagery, crowdsourcing, and deep learning to improve high-frequency automated monitoring of snow at continental-to-global scales. <strong>Plos ONE</strong> (in press)
+
+<p style="padding-left: 30px;"><strong>39.</strong>
+Kearsley E., <strong>Hufkens K.</strong>, Verbeeck H., Bauters M., Beeckman H., Boeckx P., Huygens D. (2018) Large-sized rare tree species contribute disproportionately to functional diversity in resource acquisition in African tropical forest. <strong>Ecology and Evolution</strong> (in press)
 
 <p style="padding-left: 30px;"><strong>38.</strong>
 Richardson A.D., <strong>Hufkens K</strong> Li X, Ault T.R. (2018) Testing the Hopkins Law of Bioclimatics with PhenoCam data. <strong>Applications in Plant Sciences</strong> (in press)
