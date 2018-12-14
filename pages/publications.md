@@ -8,15 +8,15 @@ menu: true
 order: 3
 ---
 
-<p style="padding-left: 30px;">For conference abstracts I refer to <a href="https://scholar.google.com/citations?hl=en&amp;user=3ZD7sagAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">my google scholar webpage</a>.</p>
-
 <em>2018</em>
 
 <p style="padding-left: 30px;"><strong>40.</strong>
 Kosmala M., <strong>Hufkens K.</strong>, Richardson A.D. (2018) Integrating camera imagery, crowdsourcing, and deep learning to improve high-frequency automated monitoring of snow at continental-to-global scales. <strong>Plos ONE</strong> (in press)
+</p>
 
 <p style="padding-left: 30px;"><strong>39.</strong>
 Kearsley E., <strong>Hufkens K.</strong>, Verbeeck H., Bauters M., Beeckman H., Boeckx P., Huygens D. (2018) Large-sized rare tree species contribute disproportionately to functional diversity in resource acquisition in African tropical forest. <strong>Ecology and Evolution</strong> (in press)
+</p>
 
 <p style="padding-left: 30px;"><strong>38.</strong>
 Richardson A.D., <strong>Hufkens K</strong> Li X, Ault T.R. (2018) Testing the Hopkins Law of Bioclimatics with PhenoCam data. <strong>Applications in Plant Sciences</strong> (in press)
@@ -85,3 +85,5 @@ Franz D, Acosta M, Altimir N, Arriga N, Arrouays D, Aubinet M, Aurela M ... Hufk
 <p style="padding-left: 30px;"><strong>2.</strong> <strong>Hufkens K.</strong>, Bogaert J., Dong Q.H., Lu L., Huang C.L., Ma M.G., Che T., Li X., Veroustraete F. and Ceulemans R. 2008. Impacts and uncertainties of upscaling of remote-sensing data validation for a semi-arid woodland. <strong>Journal of Arid Environments</strong>. 72: 1490-1505.</p>
 <em>2008</em>
 <p style="padding-left: 30px;"><strong>1.</strong> <strong>Hufkens K.</strong>, Ceulemans R. and Scheunders P. 2008. Estimating the ecotone width in patchy ecotones using a sigmoid wave approach. <strong>Ecological Informatics</strong> 3: 97-104.</p>
+
+<p style="padding-left: 30px;">For conference abstracts I refer to <a href="https://scholar.google.com/citations?hl=en&amp;user=3ZD7sagAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">my google scholar webpage</a>.</p>
