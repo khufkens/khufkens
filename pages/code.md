@@ -7,13 +7,13 @@ menu: true
 order: 4
 ---
 
-Below you find a list of my most mature scientific software, which at times is deposited at official (peer-reviewed) repositories. A full list of all my projects can be found on [my github page](https://github.com/khufkens). Additional small code snippets are indexed as [gists](https://gist.github.com/khufkens). If you like my software please consider to <a href="https://www.buymeacoffee.com/H2wlgqCLO" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="21px" ></a> in support.
+Below you find a list of my most mature scientific software, which at times is deposited at official (peer-reviewed) repositories. A full list of all my projects can be found on [my github page](https://github.com/khufkens). Additional small code snippets are indexed as [gists](https://gist.github.com/khufkens). If you like my software please consider to <a href="https://www.buymeacoffee.com/H2wlgqCLO" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="21px"></a> in support.
 
 # R packages
 
 ## [daymetr](https://github.com/khufkens/daymetr)
 
-![](https://travis-ci.org/khufkens/daymetr.svg)![](https://codecov.io/gh/khufkens/daymetr/branch/master/graph/badge.svg)![](https://www.r-pkg.org/badges/version/daymetr)![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr)
+![](https://www.r-pkg.org/badges/version/daymetr)![](https://cranlogs.r-pkg.org/badges/grand-total/daymetr)
 
 A programmatic interface to the [Daymet web services](http://daymet.ornl.gov). Allows for easy downloads of Daymet climate data directly to your R workspace or your computer. Routines for both single pixel data downloads and gridded (netCDF) data are provided. Please use the below references when using Daymet data and the package.
 
@@ -26,7 +26,7 @@ library("daymetr")
 
 ## [phenocamr](https://github.com/khufkens/phenocamr)
 
-![Build Status](https://travis-ci.org/khufkens/phenocamr.svg?branch=master)![codecov](https://codecov.io/gh/khufkens/phenocamr/branch/master/graph/badge.svg)![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/phenocamr)![CRAN\_Downloads](https://cranlogs.r-pkg.org/badges/grand-total/phenocamr)
+![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/phenocamr)![CRAN\_Downloads](https://cranlogs.r-pkg.org/badges/grand-total/phenocamr)
 
 Facilitates the retrieval and post-processing of PhenoCam time series. The post-processing of PhenoCam data includes outlier removal and the generation of data products such as phenological transition dates. If requested complementary [Daymet climate data](https://daymet.ornl.gov/) will be downloaded and merged with the PhenoCam data for modelling purposes. For a detailed overview of the assumptions made during post-processing I refer publications by Hufkens et al. (2018) and Richardson et al. (2018). Please cite the Hufkens et al. (2018) paper when using the package. A worked example is included below and in the package vignette.
 
@@ -38,8 +38,6 @@ library(phenocamr)
 ```
 
 ## [phenor](https://github.com/khufkens/phenor)
-
-![Build Status](https://travis-ci.org/khufkens/phenor.svg?branch=master)![codecov](https://codecov.io/gh/khufkens/phenor/branch/master/graph/badge.svg)
 
 The phenor R package is a phenology modelling framework in R. The framework leverages measurements of vegetation phenology from four common phenology observation datasets combined with (global) retrospective and projected climate data.
 
@@ -56,9 +54,6 @@ library(phenor)
 	
 ## [MODISTools](https://github.com/khufkens/MODISTools)
 
-[![Build
-Status](https://travis-ci.org/khufkens/MODISTools.svg)](https://travis-ci.org/khufkens/MODISTools)
-[![codecov](https://codecov.io/gh/khufkens/MODISTools/branch/master/graph/badge.svg)](https://codecov.io/gh/khufkens/MODISTools)
 ![Status](https://www.r-pkg.org/badges/version/MODISTools)
 ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools)
 
@@ -73,9 +68,6 @@ library("MODISTools")
 
 ## [ecmwfr]()
 
-[![Build Status](https://travis-ci.org/khufkens/ecmwfr.svg?branch=master)](https://travis-ci.org/khufkens/ecmwfr)
-[![codecov](https://codecov.io/gh/khufkens/ecmwfr/branch/master/graph/badge.svg)](https://codecov.io/gh/khufkens/ecmwfr)
-
 Programmatic interface to the ['ECMWF' web API services](https://confluence.ecmwf.int/display/WEBAPI/ECMWF+Web+API+Home). Allows for easy downloads of ECMWF [public data](http://apps.ecmwf.int/datasets/).
 
 To install the toolbox in R run the following commands in a R terminal
@@ -87,8 +79,6 @@ library("ecmwfr")
 ```
 
 ## [snotelr](https://github.com/khufkens/snotelr)
-
-![Build Status](https://travis-ci.org/khufkens/snotelr.svg?branch=master)![codecov](https://codecov.io/gh/khufkens/snotelr/branch/master/graph/badge.svg)
 
 SnotelR is a R toolbox to facilitate easy SNOTEL data exploration and downloads through a convenient R [shiny](http://shiny.rstudio.com/) based GUI. In addition it provides a routine to extract basic snow phenology metrics.
 
