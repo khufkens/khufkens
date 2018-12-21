@@ -3,8 +3,6 @@ title: Plan S: on academic integrity and values
 author: Koen Hufkens
 layout: post
 tags:
-  - oa
-  - OSS
   - open-access
   - open-science
 ---
