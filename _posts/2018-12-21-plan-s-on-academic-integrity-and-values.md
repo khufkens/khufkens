@@ -1,5 +1,5 @@
 ---
-title: Plan S: on academic integrity and values
+title: Plan S - on academic integrity and values
 author: Koen Hufkens
 layout: post
 tags:
