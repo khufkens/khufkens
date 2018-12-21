@@ -7,7 +7,7 @@ tags:
   - open-science
 ---
 
-Plan S, introduced in September 2018, pushes for a fast transition to open access across the European Union. From the moment Plan S was put forward objections to the plan came flooding in. Most prominently there was the [open letter by Dr. Lynn Kamerlin](https://sites.google.com/view/plansopenletter/open-letter) and many researchers coming out of the woodwork, suddenly, very concerned about open access and open science.
+Plan S, introduced in September 2018, pushes for a fast transition to open access across the European Union. From the moment Plan S was put forward objections to the plan came flooding in. Most prominently there was the [open letter by Dr. Lynn Kamerlin](https://sites.google.com/view/plansopenletter/open-letter) and many other researchers suddenly coming out of the woodwork, all very concerned about open access and open science.
 
 In the discussions that followed in the public sphere, twitter and elsewhere many arguments were provided why Plan S was certainly a bad idea or at least needed bespoke fixes to the requirement of a CC-BY license on all published material.
 
