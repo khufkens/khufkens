@@ -8,7 +8,6 @@ tags:
   - open-access
   - open-science
 ---
-# Plan S: on academic integrity and values
 
 	It is surprising that instead of questioning how we assess academic work we question the license under which it will be distributed.
 
