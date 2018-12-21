@@ -12,7 +12,7 @@ Plan S, introduced in September 2018, pushes for a fast transition to open acces
 In the discussions that followed in the public sphere, twitter and elsewhere many arguments were provided why Plan S was certainly a bad idea or at least needed bespoke fixes to the requirement of a CC-BY license on all published material.
 
 
-	It is surprising that instead of questioning how we assess academic work we question the license under which it will be distributed.
+> It is surprising that instead of questioning how we assess academic work we question the license under which it will be distributed.
 
 
 ## Objections
