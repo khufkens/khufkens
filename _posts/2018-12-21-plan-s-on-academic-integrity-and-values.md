@@ -1,5 +1,5 @@
 ---
-title: The Pareto-Kanban squeeze
+title: Plan S: on academic integrity and values
 author: Koen Hufkens
 layout: post
 tags:
