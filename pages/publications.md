@@ -11,7 +11,7 @@ order: 3
 <em>2018</em>
 
 <p style="padding-left: 30px;"><strong>40.</strong>
-Kosmala M., <strong>Hufkens K.</strong>, Richardson A.D. (2018) Integrating camera imagery, crowdsourcing, and deep learning to improve high-frequency automated monitoring of snow at continental-to-global scales. <strong>Plos ONE</strong> (in press)
+Kosmala M., <strong>Hufkens K.</strong>, Richardson A.D. (2018) Integrating camera imagery, crowdsourcing, and deep learning to improve high-frequency automated monitoring of snow at continental-to-global scales. <strong>PloS ONE</strong>. 13, e0209649. (open access <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209649">PDF</a>)
 </p>
 
 <p style="padding-left: 30px;"><strong>39.</strong>
