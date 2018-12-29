@@ -1,5 +1,5 @@
 ---
-title: MODIS hdf data extraction in r (part 2)
+title: MODIS hdf data extraction in R (part 2)
 author: Koen Hufkens
 layout: post
 tags:
@@ -8,7 +8,7 @@ tags:
   - data-processing
 ---
 
-In a previous [blog post]((https://khufkens.com/2016/04/20/modis-hdf-data-extraction-in-r/ ) I describe how to subset MODIS hdf data. However, this was a rather simple example. Today, a graduate student emailed me to help her out with a subsetting problem she had when running the code, or better the lack of an option to extract a region of interest (rather than point data) in the previous example I gave.
+In a previous [blog post](https://khufkens.com/2016/04/20/modis-hdf-data-extraction-in-r/) I describe how to subset MODIS hdf data. However, this was a rather simple example. Today, a graduate student emailed me to help her out with a subsetting problem she had when running the code, or better the lack of an option to extract a region of interest (rather than point data) in the previous example I gave.
 
 You can find the final code (below) to help her define a region of interest using a bounding box and calculate summary statistics (mean) for this region on a file-by-file basis. The data output is tidy, so you can throw in any number of files (from multiple tiles) if you subset the final output properly. I hope this will help others in dealing with custom MODIS data subsets as well.
 
