@@ -13,7 +13,7 @@ As a lead on the Belgian Science Policy Office funded “Congo basin eco-climato
 
 ## [COBADIM](http://cobadim.org)
 
-The Marie Skłodowska-Curie Action "Congo Basin Drought resilience: an Integrative Modelling approach" will combine eco-physiological and dendrochronological research with a model based approach to increase our understanding of the response of African tropical tree species under changing climatological conditions across the central Congo Basin (173K EURO).
+The Marie Skłodowska-Curie Action "Congo Basin Drought resilience: an Integrative Modelling approach" (COBADIM) will combine eco-physiological and dendrochronological research with a model based approach to increase our understanding of the response of African tropical tree species under changing climatological conditions across the central Congo Basin (173K EURO).
 
 ## [Jungle Rhythms](http://junglerhythms.org)
 
