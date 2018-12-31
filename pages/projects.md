@@ -19,7 +19,7 @@ The Marie Skłodowska-Curie Action "Congo Basin Drought resilience: an Integrati
 
 <img src="/assets/img/docs/millettia_laurentii.png" style="float: right;" width="60%">
 
-The Jungle Rhythms project successfully transcribe hand-drawn observations of the life cycle events of more than 2,000 trees (of more than 500 different species!) between 1937 and 1958 in the tropical rainforest of the Democratic Republic of the Congo. Long-term observations of tropical trees are rare. The Jungle Rhythms observations comprise three decades of data on the central African tropical forest, and are therefore an extraordinary source of information on the life cycles of tropical trees. Recovered data is visualized on the [project website](http://junglerhythms.org/data/visual/).
+The Jungle Rhythms project successfully transcribe hand-drawn observations of the life cycle events of more than 2,000 trees (of more than 500 different species!) between 1937 and 1958 in the tropical rainforest of the Democratic Republic of the Congo. Long-term observations of tropical trees are rare. The Jungle Rhythms observations comprise three decades of data on the central African tropical forest, and are therefore an extraordinary source of information on the life cycles of tropical trees. Recovered data is visualized on the [project website](http://junglerhythms.org/data/visual/). This project ran on a budget of $100, my personal time and the help of 6000 dedicated volunteers on the [Zooniverse citizen science platform](https://www.zooniverse.org/).
 
 ## [Wood cellulose extraction](/cellulose/)
 
