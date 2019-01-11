@@ -90,8 +90,8 @@ SnotelR is a R toolbox to facilitate easy SNOTEL data exploration and downloads 
 You can quick install the package with the following commands:
 
 ``` r
-if(!require(devtools)){install.package(devtools)}
-devtools::install_github("khufkens/snotelr")
+install.packages("snotelr")
+library("snotelr")
 ```
 
 # Python packages & code
