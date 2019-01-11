@@ -82,6 +82,9 @@ library("ecmwfr")
 
 ## [snotelr](https://github.com/khufkens/snotelr)
 
+![](https://www.r-pkg.org/badges/version/snotelr)
+![](https://cranlogs.r-pkg.org/badges/grand-total/snotelr)
+
 SnotelR is a R toolbox to facilitate easy SNOTEL data exploration and downloads through a convenient R [shiny](http://shiny.rstudio.com/) based GUI. In addition it provides a routine to extract basic snow phenology metrics.
 
 You can quick install the package with the following commands:
@@ -94,6 +97,9 @@ devtools::install_github("khufkens/snotelr")
 # Python packages & code
 
 ## [daymetpy](https://github.com/khufkens/daymetpy)
+
+![status](https://img.shields.io/pypi/status/daymetpy.svg)
+![version number](https://img.shields.io/pypi/v/daymetpy.svg)
 
 daymetpy attempts to fill the need for easy, integrated access to gridded daily Daymet weather data. The data are hosted by the Oak Ridge National Laboratories DAAC and accessed from [their web service](https://daymet.ornl.gov/web_services.html).
 
