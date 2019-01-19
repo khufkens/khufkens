@@ -70,6 +70,9 @@ library("MODISTools")
 
 ## [ecmwfr]()
 
+![](https://www.r-pkg.org/badges/version/ecmwfr)
+![](https://cranlogs.r-pkg.org/badges/grand-total/ecmwfr)
+
 Programmatic interface to the ['ECMWF' web API services](https://confluence.ecmwf.int/display/WEBAPI/ECMWF+Web+API+Home). Allows for easy downloads of ECMWF [public data](http://apps.ecmwf.int/datasets/).
 
 To install the toolbox in R run the following commands in a R terminal
@@ -92,6 +95,21 @@ You can quick install the package with the following commands:
 ``` r
 install.packages("snotelr")
 library("snotelr")
+```
+
+## [foto](https://github.com/khufkens/foto)
+
+![](https://www.r-pkg.org/badges/version/foto)
+![](https://cranlogs.r-pkg.org/badges/grand-total/foto)
+
+The FOTO (Fourier Transform Textural Ordination) method uses a principal component analysis (PCA) on radially averaged 2D Fourier spectra to characterize (grayscale) image texture. The FOTO method was described by [Couteron et al. 2005](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2664.2005.01097.x/abstract;jsessionid=359DD0662C272A59AF94FAEF3F213156.f02t04) to quantify canopy stucture in relation to biomass and biodiversity. More recently, the code base of this package was used in a similar study by [Solorzano et al. 2018](http://spie.org/Publications/Journal/10.1117/1.JRS.12.036006?SSO=1). Although the techiques as presented in these papers is applied on a canopy level, the principle works on images of all types.
+
+
+To install the current stable release use a CRAN repository.
+
+``` r
+install.packages("foto")
+library("foto")
 ```
 
 # Python packages & code
