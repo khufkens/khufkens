@@ -36,7 +36,7 @@ To install the current stable release use a CRAN repository:
 
 ``` r
 install.packages("phenocamr")
-library(phenocamr)
+library("phenocamr")
 ```
 
 ## [phenor](https://github.com/khufkens/phenor)
@@ -51,7 +51,7 @@ To install the toolbox in R run the following commands in a R terminal
 ``` r
 if(!require(devtools)){install.packages(devtools)}
 devtools::install_github("khufkens/phenor")
-library(phenor)
+library("phenor")
 ```
 	
 ## [MODISTools](https://github.com/khufkens/MODISTools)
@@ -78,8 +78,7 @@ Programmatic interface to the ['ECMWF' web API services](https://confluence.ecmw
 To install the toolbox in R run the following commands in a R terminal
 
 ```R
-if(!require(devtools)){install.packages(devtools)}
-devtools::install_github("khufkens/ecmwfr")
+install.packages("ecmwfr")
 library("ecmwfr")
 ```
 
