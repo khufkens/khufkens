@@ -53,13 +53,8 @@ This is the list of the things you would need to run a full scale cellulose extr
 <td align="RIGHT">6240</td>
 </tr>
 <tr>
-<td align="LEFT" height="16">* technical drawings can be found <a title="here" href="/data/glass_filter_holder_technical_drawing.pdf">here</a>, as well as the <a href="/data/Cellulose_extraction_protocol_ISOFYS.pdf">protocol</a> (specific for this setup)</td>
+<td align="LEFT" height="16">* technical drawings can be found <a title="here" href="/assets/data/glass_filter_holder_technical_drawing.pdf">here</a>, as well as the <a href="/assets/data/Cellulose_extraction_protocol_ISOFYS.pdf">protocol</a> (specific for this setup)</td>
 <td align="LEFT"></td>
 </tr>
 </tbody>
 </table>
-&nbsp;
-
-[caption id="" align="aligncenter" width="432"]<img class=" " style="margin: 10px;" src="http://farm8.staticflickr.com/7458/9555536942_3fec5f6702.jpg" alt="" width="432" height="307" /> Technical drawing of the custom Teflon glass filter holders.[/caption]
-
-&nbsp;
