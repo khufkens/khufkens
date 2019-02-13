@@ -9,8 +9,6 @@ categories:
     - blog
 ---
 
-## Big tables, big problems
-
 With all images scanned and [sorted](http://cobecore.org/blog/sorting-data/) the next step involves the transcription of the images into meaningful, machine readable, data. Due to the complexity of the data, such as various handwriting styles in faded or runny ink, automating this process is very difficult. We will therefore aim to crowdsource the transcription of the data. Yet, large tables are difficult to transcribe as the location within a table is of importance, and not only the values. As such, mistakes are more easily made when transcribing tables as a whole.
 
 ## Template matching
