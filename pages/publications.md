@@ -8,18 +8,24 @@ menu: true
 order: 3
 ---
 
-<em>2018</em>
+<em>2019</em>
+
+<p style="padding-left: 30px;"><strong>41.</strong>
+Tarelkin Y, <strong>Hufkens K.</strong>, Hahn S. , Van den Bulcke J. , Bastin J-F, Debeir O., Van Acker J., Beeckman H., De Cannière C. (2019) Wood anatomy variability under contrasted environmental conditions of common deciduous and evergreen species from central African forests. <strong>Trees</strong> (in press)
+</p>
 
 <p style="padding-left: 30px;"><strong>40.</strong>
-Kosmala M., <strong>Hufkens K.</strong>, Richardson A.D. (2018) Integrating camera imagery, crowdsourcing, and deep learning to improve high-frequency automated monitoring of snow at continental-to-global scales. <strong>PloS ONE</strong>. 13, e0209649. (open access <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209649">PDF</a>)
+Kearsley E., <strong>Hufkens K.</strong>, Verbeeck H., Bauters M., Beeckman H., Boeckx P., Huygens D. (2019) Large-sized rare tree species contribute disproportionately to functional diversity in resource acquisition in African tropical forest. <strong>Ecology and Evolution</strong> (in press)
 </p>
 
 <p style="padding-left: 30px;"><strong>39.</strong>
-Kearsley E., <strong>Hufkens K.</strong>, Verbeeck H., Bauters M., Beeckman H., Boeckx P., Huygens D. (2018) Large-sized rare tree species contribute disproportionately to functional diversity in resource acquisition in African tropical forest. <strong>Ecology and Evolution</strong> (in press)
+Richardson A.D., <strong>Hufkens K</strong> Li X, Ault T.R. (2018) Testing the Hopkins Law of Bioclimatics with PhenoCam data. <strong>Applications in Plant Sciences</strong> (in press)
 </p>
 
+<em>2018</em>
+
 <p style="padding-left: 30px;"><strong>38.</strong>
-Richardson A.D., <strong>Hufkens K</strong> Li X, Ault T.R. (2018) Testing the Hopkins Law of Bioclimatics with PhenoCam data. <strong>Applications in Plant Sciences</strong> (in press)
+Kosmala M., <strong>Hufkens K.</strong>, Richardson A.D. (2018) Integrating camera imagery, crowdsourcing, and deep learning to improve high-frequency automated monitoring of snow at continental-to-global scales. <strong>PloS ONE</strong>. 13, e0209649. (open access <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209649">PDF</a>)
 </p>
 
 <p style="padding-left: 30px;"><strong>37.</strong>
