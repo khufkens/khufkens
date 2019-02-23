@@ -18,3 +18,7 @@ I'm interested in understanding the influence of drought on the productivity and
 ## Applied science
 
 I collaborate with the [International Food Policy Research Institute (IFPRI)](http://www.ifpri.org/about) where I designed the protocols for a cellphone camera based methodology to track crop growth and disturbance in the fields of smallholder farmers. This research supports [index-based micro-insurance](http://techcropinsurance.org/), to alleviate income variability for these farmers. The protocols and intermediate results have been published as an open access [paper in Agricultural & Forest Meteorology](https://www.sciencedirect.com/science/article/pii/S0168192318303484).
+
+## Research infrastructure
+
+I build robust research infrastructure as a software and hardware developer, to serve open and reproducibile scientific practices. My [peer-reviewed scientific software](https://khufkens.com/code/), including R packages dealing with (remote sensing) data retrieval and model development, supports thousands of researchers. Furthermore I develop hardware protocols in support of large scale research activities such as the [European Integrated Carbon Observation System (ICOS) network](http://www.international-agrophysics.org/Assimilating-phenology-datasets-automatically-across-ICOS-ecosystem-stations,104353,0,2.html) and the [International Food Policy Research Institute](https://www.sciencedirect.com/science/article/pii/S0168192318303484).
