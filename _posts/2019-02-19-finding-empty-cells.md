@@ -12,7 +12,7 @@ categories:
 
 I previously outlined how dealing with +70K scans in the COBECORE project presents an inssue when it comes to processing and extracting data. Due to template matching a large part of these issues have been automated away. Yet, even when the data can be extracted one hurdles remains, empty cells in table.
 
-Yet the digitized tables are sparse. This means that the bulk of the data in the tables consists of empty table cells, while the remaining part is true valuable data. Since transcription will rely on a pair of human eyes evaluating every single cell of data it is obviously a waste of time to review what are empty cells. A solution has to be found to quickly and accurately screen these empty cells, and remove them from the final data set to limit the workload (not wasting time of volunteers).
+The COBECORE tables are sparse. This means that the bulk of the data in the tables consists of empty table cells, while the remaining part is true valuable data. Since transcription will rely on a pair of human eyes evaluating every single cell of data it is obviously a waste of time to review what are empty cells. A solution has to be found to quickly and accurately screen these empty cells, and remove them from the final data set to limit the workload (not wasting time of volunteers).
 
 ## Tensorflow transfer learning
 
