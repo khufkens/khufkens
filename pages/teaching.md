@@ -11,7 +11,7 @@ order: 4
 
 Spread across my blog you will find small tutorials to resolve problems in scientific computing I come across. These deal with [subsetting of remote sensing data](https://khufkens.com/2018/12/29/MODIS-hdf-subsets-part-2/), over [visualization of data](https://khufkens.com/2018/09/19/github-tile-server/) to [advanced remote sensing processing](https://khufkens.com/2017/07/22/google-earth-engine-time-series-subset-tool/). Larger code snippets can be found on my [github gists page](https://gist.github.com/khufkens/).
 
-More formalized teaching material is provided through my [github page](https://github.com/khufkens) or disseminated through dedicated teaching portals. You can find my recent introduction to phenology modelling using phenocamr and phenor R packages on the "National Ecological Observatory Network" [data tutorial portal](https://www.neonscience.org/phenocam-intro-series#scrollNav-5).
+More formalized teaching material is provided through my [github page](https://github.com/khufkens) or disseminated through dedicated teaching portals. You can find my recent introduction to phenology modelling using phenocamr and phenor R packages on the "National Ecological Observatory Network" [data tutorial portal](https://www.neonscience.org/phenocam-intro-series#scrollNav-5). Code contributions have also been adapted by others to teach their courses. In particular Prof. Verbesselt uses my [MODISTools - BFAST example](https://github.com/khufkens/MODISTools_bfast_tutorial/blob/master/tutorial.md) tailored to his particular locale in [his time series analysis course](https://verbe039.github.io/BFASTforAEO/). While Prof. Heskel uses my phenocamr in her [Plant Ecophysiology class (BIOL 368)](https://github.com/mheskel/PhenoCam-Lab-368)
 
 > Keep an eye on this page, my github or twitter account for links to new teaching material.
 
@@ -20,6 +20,6 @@ More formalized teaching material is provided through my [github page](https://g
 
 Academic writing is a difficult skill to acquire, as graduates focus on the science rather than science communication. This leaves many students unprepared to write their first manuscript. In order to help streamline a first publication I provide some academic writing advice and tools.
 
-- This [R markdown template ](https://github.com/khufkens/paper_writing_template) makes it easier to structure a paper in R markdown and render it as a nicely formatted pdf (to be submitted to a journal).
+- This [R markdown template ](https://github.com/khufkens/paper_writing_template) makes it easier to structure a paper in R markdown and render it as a nicely formatted pdf (to be submitted to a journal). This template has however been surpassed by the templates provided in the [rticles](https://github.com/rstudio/rticles) package.
 
 - My [paper writing checklist](https://github.com/khufkens/paper_writing_checklist) can be used as a writing style guide or during peer-review.
