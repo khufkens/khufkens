@@ -10,7 +10,7 @@ categories:
 
 I got a lot of flack on Twitter these days for stating that you better skip post-doc positions when possible. With that I meant that you better start planning ahead, when considering unstable research employment, and aiming for more stable employment of any kind (tenure track or otherwise).
 
-Using UK data it [has been shown](https://royalsociety.org/~/media/Royal_Society_Content/policy/publications/2010/4294970126.pdf) (figure below) that less than 1% of the PhD candidates find employment as tenured researchers. A minority flows back to permanent research positions (less than 5%) while the rest has to look for work in industry, or outside the sciences altogether. When embarking on or applying for post-doc positions this is not stressed enough. There is this rosy feeling that yes, you will make it, while all statistics point in the opposite direction. Statistically you are more likely to fail than to succeed.
+Using UK data it [has been shown](https://royalsociety.org/~/media/Royal_Society_Content/policy/publications/2010/4294970126.pdf) (figure below) that less than 1% of the PhD candidates find employment as tenured researchers. A minority flows back to permanent research positions (less than 5%) while the rest has to look for work in industry, or outside the sciences altogether. When embarking on or applying for post-doc positions this is not stressed enough. There is this rosy feeling that, yes, you will make it, while all statistics point in the opposite direction. Statistically you are more likely to fail than to succeed.
 
 ![](/assets/img/docs/careers.png)
 
