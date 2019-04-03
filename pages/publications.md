@@ -16,7 +16,7 @@ Tarelkin Y, <strong>Hufkens K.</strong>, Hahn S. , Van den Bulcke J. , Bastin J-
 </p>
 
 <p style="padding-left: 30px;"><strong>40.</strong>
-Kearsley E., <strong>Hufkens K.</strong>, Verbeeck H., Bauters M., Beeckman H., Boeckx P., Huygens D. (2019) Large-sized rare tree species contribute disproportionately to functional diversity in resource acquisition in African tropical forest. <strong>Ecology and Evolution</strong> (in press)
+Kearsley E., <strong>Hufkens K.</strong>, Verbeeck H., Bauters M., Beeckman H., Boeckx P., Huygens D. (2019) Large-sized rare tree species contribute disproportionately to functional diversity in resource acquisition in African tropical forest. <strong>Ecology and Evolution</strong> (open access <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4836">PDF</a>)
 </p>
 
 <p style="padding-left: 30px;"><strong>39.</strong>
