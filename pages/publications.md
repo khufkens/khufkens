@@ -12,7 +12,7 @@ order: 3
 
 <p style="padding-left: 30px;"><strong>41.</strong>
 Tarelkin Y, <strong>Hufkens K.</strong>, Hahn S. , Van den Bulcke J. , Bastin J-F, Debeir O., Van Acker J., Beeckman H., De Cannière C. (2019) Wood anatomy variability under contrasted environmental conditions of common deciduous and evergreen species from central African forests. <strong>Trees</strong> (
-<a href="https://link.springer.com/article/10.1007/s00468-019-01826-5">early online</a>)
+<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.4836">PDF</a>)
 </p>
 
 <p style="padding-left: 30px;"><strong>40.</strong>
