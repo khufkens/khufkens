@@ -7,9 +7,7 @@ menu: true
 order: 4
 ---
 
-Below you find a list of my most mature scientific software, which at times is deposited at official (peer-reviewed) repositories. A full list of all my projects can be found on [my github page](https://github.com/khufkens). Additional small code snippets are indexed as [gists](https://gist.github.com/khufkens). If you like my software please consider to buy me coffee in support.
-
-<a href="https://www.buymeacoffee.com/H2wlgqCLO" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="21px"></a> 
+Below you find a list of my most mature scientific software, which at times is deposited at official (peer-reviewed) repositories. A full list of all my projects can be found on [my github page](https://github.com/khufkens). Additional small code snippets are indexed as [gists](https://gist.github.com/khufkens).
 
 # R packages
 
