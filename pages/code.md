@@ -56,6 +56,7 @@ library("phenor")
 
 ![Status](https://www.r-pkg.org/badges/version/MODISTools)
 ![Downloads](https://cranlogs.r-pkg.org/badges/grand-total/MODISTools)
+[![rOpenSci Peer Review](https://badges.ropensci.org/246_status.svg)](https://github.com/ropensci/software-review/issues/246)
 
 Programmatic interface to the ['MODIS Land Products Subsets' web services](https://modis.ornl.gov/data/modis_webservice.html). Allows for easy downloads of ['MODIS'](http://modis.gsfc.nasa.gov/) time series directly to your R workspace or your computer.
 
