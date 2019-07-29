@@ -10,6 +10,10 @@ order: 3
 
 <em>2019</em>
 
+<p style="padding-left: 30px;"><strong>42.</strong>
+Fan, L., Wigneron, J.-P., Ciais, P., Chave, J., Brandt, M., Fensholt, R., Saatchi, S., Bastos, A., Al-Yaari, A., <strong>Hufkens K.</strong>, Yuanwei, Q., Xiao, X., Chen, C., Myneni, R., Fernandez-Moran, R., Mialon, A., Rodriguez-Fernandez, N., Kerr, Y., Tian, F., Penuelas, J., (2019) Satellite-observed pantropical carbon dynamics. <strong>Nature Plants </strong> (<a href="https://www.nature.com/articles/s41477-019-0478-9">early online</a>)
+</p>
+
 <p style="padding-left: 30px;"><strong>41.</strong>
 Tarelkin Y, <strong>Hufkens K.</strong>, Hahn S. , Van den Bulcke J. , Bastin J-F, Debeir O., Van Acker J., Beeckman H., De Cannière C. (2019) Wood anatomy variability under contrasted environmental conditions of common deciduous and evergreen species from central African forests. <strong>Trees</strong> (
 <a href="https://link.springer.com/article/10.1007/s00468-019-01826-5">PDF</a>)
