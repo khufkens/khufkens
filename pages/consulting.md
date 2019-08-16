@@ -7,7 +7,7 @@ menu: true
 order: 7
 ---
 
-Through many of my [open science contributions](https://khufkens.com/code/) I serve the scientific community where I can. However, my time is limited and requests for help are frequent. In order to protect my own work and my mental well-being, I need credit for consultancy.
+Through many of my [open science contributions](https://khufkens.com/code/) I serve the scientific community where I can. However, my time is limited and requests for help are frequent. In order to protect my own work, and my mental well-being, I need credit for consultancy.
 
 For simple questions regarding the functioning of my open source software, or previously published work, I do not apply my external consultancy policy. These are contributions which will flow back to the community as better (documented) software or new insights. In these cases a simple acknowledgement and properly cited software or literature would suffice.
 
