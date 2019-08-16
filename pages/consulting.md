@@ -4,7 +4,7 @@ layout: page
 title: Consulting
 permalink: /consulting/
 menu: true
-order: 8
+order: 7
 ---
 
 Through many of my [open science contributions](https://khufkens.com/code/) I serve the scientific community where I can. However, my time is limited and requests for help are frequent. In order to protect my own work and my mental well-being, I need credit for consultancy.
