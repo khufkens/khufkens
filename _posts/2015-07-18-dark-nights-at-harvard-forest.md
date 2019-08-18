@@ -16,6 +16,6 @@ The past two days I was out at Harvard Forest to help collect samples for Morgan
 
 &nbsp;
 
-[caption id="attachment_743" align="aligncenter" width="406"]<a href="https://flic.kr/p/vS4EGj"><img class="wp-image-743 size-full" src="/uploads/2015/07/19600886578_ac55497646_z.jpg" alt="Coathanger to Sagittarius" width="406" height="640" /></a> Coathanger to Sagittarius[/caption]
+<a href="https://flic.kr/p/vS4EGj"><img class="wp-image-743 size-full" src="/uploads/2015/07/19600886578_ac55497646_z.jpg" alt="Coathanger to Sagittarius" width="406" height="640" /></a> 
 
 &nbsp;

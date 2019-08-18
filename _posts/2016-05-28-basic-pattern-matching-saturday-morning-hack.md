@@ -28,9 +28,9 @@ A few conclusions can be drawn from this:
 </ol>
 Further exploration of these patterns can done with a <a href="https://en.wikipedia.org/wiki/Principal_component_analysis">principal component analysis (PCA)</a> on the features as calculated for each pixel. The first PC-score would indicated which pixels cause the majority of the variability across maps 1-6 relative to the reference (if differences are taken first). This indicate regions which are more stable or variable under different model scenarios. Furthermore, the project design lends itself to a <a href="https://en.wikipedia.org/wiki/Generalized_linear_mixed_model">generalized mixed model approach</a>, with more statistical power than a simple PCA. This could provide insights in potential drivers of this behaviour (either due to model structure errors or ecological / hydrological processes). A code snippet of the image analysis written in R using the <a href="http://azvoleff.com/articles/calculating-image-textures-with-glcm/">GLCM package</a> is attached below (slow but functional).
 
-[caption id="attachment_1282" align="aligncenter" width="512"]<img class="wp-image-1282 size-large" src="/uploads/2016/05/map_comparison-512x1024.png" alt="map_comparison" width="512" height="1024" /> <strong>Fig 1.</strong> An image comparison based upon all GLCM features.[/caption]
+<img class="wp-image-1282 size-large" src="/uploads/2016/05/map_comparison-512x1024.png" alt="map_comparison" width="512" height="1024" /> <strong>Fig 1.</strong> An image comparison based upon all GLCM features.[/caption]
 
-[caption id="attachment_1283" align="aligncenter" width="512"]<a href="http://www.khufkens.com/?attachment_id=1283" target="_blank"><img class="wp-image-1283 size-large" src="/uploads/2016/05/map_comparison_homogeneity-512x1024.png" alt="map_comparison_homogeneity" width="512" height="1024" /></a> <strong>Fig 2.</strong> An image comparison based upon the homogeneity GLCM feature.[/caption]
+<a href="http://www.khufkens.com/?attachment_id=1283" target="_blank"><img class="wp-image-1283 size-large" src="/uploads/2016/05/map_comparison_homogeneity-512x1024.png" alt="map_comparison_homogeneity" width="512" height="1024" /></a> 
 <pre class="lang:r decode:true crayon-selected"># load required libs
 require(raster)
 require(glcm)

@@ -16,7 +16,7 @@ tags:
 
 Below you see a composite image I made of the upward looking Harvard Forest Barn Tower camera. The top half of the composite was taken at the beginning of May while the bottom half was taken at the end of May, after leaf out. This split image not only shows leaf unfolding throughout the month of May, it also illustrates how this affects other canopy properties during spring.
 
-[caption id="attachment_749" align="aligncenter" width="640"]<a href="https://flic.kr/p/vT8rRA"><img class="wp-image-749 size-full" src="/uploads/2015/07/19612940328_0642f0a8a4_z.jpg" alt="canopy closure" width="640" height="474" /></a> A change in canopy transparency[/caption]
+<a href="https://flic.kr/p/vT8rRA"><img class="wp-image-749 size-full" src="/uploads/2015/07/19612940328_0642f0a8a4_z.jpg" alt="canopy closure" width="640" height="474" /></a> 
 
 One of these canopy properties is the transparency of the canopy, in part determined by canopy gaps. In the top half the canopy is more or less wide open and the sky can be seen fairly easily. In the bottom half, after leaf out, very little of the sky is still visible and all space is taken up by emerging leaves crowding out the sky.
 

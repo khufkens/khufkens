@@ -14,7 +14,7 @@ Today the Rosetta satellite reached comet 67P. It's the first time in history a 
 
 Below you find one of the latest images taken by the Rosetta satellite. Considering that the satellite has travelled 6 billion kilometres, taking 10 years to do so, I consider this a major scientific and technological feat.
 
-[caption id="" align="alignnone" width="480"]<img src="https://farm4.staticflickr.com/3917/14657163397_a2f49a5d87_o.png" alt="" width="480" height="480" /> Comet 67P close-up - OSIRIS, Credit: ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA[/caption]
+<img src="https://farm4.staticflickr.com/3917/14657163397_a2f49a5d87_o.png" alt="" width="480" height="480" /> Comet 67P close-up - OSIRIS, Credit: ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA[/caption]
 
 I commend ESA for supporting such long term / high risk missions. I hope such wonderful pictures, after this amazing journey, can inspire future engineers and scientists all over the world.
 

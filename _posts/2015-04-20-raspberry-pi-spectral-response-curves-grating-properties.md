@@ -34,6 +34,6 @@ Using this relationship we can calculate the incident angle at which the the exi
 
 Using the above equation I ran an analysis for a set number of incident angles and wavelengths to extract the overall diffraction properties for a 300 lines/mm and 1351 lines/mm grating (a professional Thorlabs grating and DVD grooves respectively). Optimal grating angles, where the diffracted light exits orthogonal to the grating (going straight into a sensor) is calculated to be ~12 and ~67 degrees for (300 and 1351 lines/mm respectively). I'll be using a 300 lines/mm grating at a 12 degree angle.
 
-[caption id="attachment_621" align="alignnone" width="832"]<a href="/uploads/2015/04/300_lines_mm.png"><img class=" wp-image-621" src="/uploads/2015/04/300_lines_mm.png" alt="300 lines/mm grating" width="832" height="687" /></a> 300 lines/mm grating[/caption]
+<a href="/uploads/2015/04/300_lines_mm.png"><img class=" wp-image-621" src="/uploads/2015/04/300_lines_mm.png" alt="300 lines/mm grating" width="832" height="687" /></a> 
 
-[caption id="attachment_622" align="alignnone" width="832"]<a href="/uploads/2015/04/1351_lines_mm.png"><img class=" wp-image-622" src="/uploads/2015/04/1351_lines_mm.png" alt="1351 lines/mm grating" width="832" height="688" /></a> 1351 lines/mm grating[/caption]
+<a href="/uploads/2015/04/1351_lines_mm.png"><img class=" wp-image-622" src="/uploads/2015/04/1351_lines_mm.png" alt="1351 lines/mm grating" width="832" height="688" /></a> 

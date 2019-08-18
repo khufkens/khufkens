@@ -19,4 +19,4 @@ Although the Internet of Things (IoT) has reached the “Peak of Inflated Expect
 
 Details aside, the electronics came in the mail today and I look forward to piecing something together and logging some data by the time I will give the actual workshop at the beginning of November. Once completed I'll put the full workshop online.
 
-[caption id="" align="alignnone" width="640"]<img class="" src="https://farm1.staticflickr.com/655/21856810520_8cf2ef966a_z_d.jpg" alt="" width="640" height="589" /> The Particle Photon arrived![/caption]
+<img class="" src="https://farm1.staticflickr.com/655/21856810520_8cf2ef966a_z_d.jpg" alt="" width="640" height="589" /> The Particle Photon arrived![/caption]

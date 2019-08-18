@@ -13,7 +13,7 @@ tags:
   - trial
   - wood
 ---
-[caption id="" align="alignright" width="320"]<a href="https://secure.flickr.com/photos/koenhufkens/9503405569/"><img class="  " style="margin: 10px;" alt="" src="https://farm8.staticflickr.com/7337/9503405569_e417e90e12_n.jpg" width="320" height="320" /></a> NaOH treatment of wood samples[/caption]
+<a href="https://secure.flickr.com/photos/koenhufkens/9503405569/"><img class="  " style="margin: 10px;" alt="" src="https://farm8.staticflickr.com/7337/9503405569_e417e90e12_n.jpg" width="320" height="320" /></a> 
 
 This week I started with a first -trial- cellulose extraction for my wood core stable isotope experiment. I have one plate to test the routine and look for possible flaws in the setup before ordering the final batch - money permitting. The setup has been running for a two days now. The picture in this posts shows the small wood samples submerged in NaOH to remove all resins, tannins etc. In a next step you add a strong acid to eat away the lignin and leave the cellulose behind.
 

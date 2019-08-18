@@ -29,9 +29,9 @@ For my concept two conditions need to be met:
 <h5>Hardware</h5>
 Designing the housing, either as a sled design to be mounted in a standard outdoor security camera housing and a fully independent camera has been fairly straightforward. Below you see the design of a camera sled which fits a <a href="http://www.amazon.com/Vitek-VT-EH10-Indoor-Outdoor-Enclosure/dp/B002L16NUC/ref=sr_1_1?ie=UTF8&amp;qid=1431971696&amp;sr=8-1&amp;keywords=vitek+housing">VITEK security camera housing</a>, as well as the stand alone / mobile version.
 
-[caption id="" align="aligncenter" width="351"]<a href="https://farm8.staticflickr.com/7637/17066772778_2ae22e6d0d_z_d.jpg"><img src="https://farm8.staticflickr.com/7637/17066772778_2ae22e6d0d_z_d.jpg" alt="" width="351" height="263" /></a> TetraPi, mobile version[/caption]
+<a href="https://farm8.staticflickr.com/7637/17066772778_2ae22e6d0d_z_d.jpg"><img src="https://farm8.staticflickr.com/7637/17066772778_2ae22e6d0d_z_d.jpg" alt="" width="351" height="263" /></a> 
 
-[caption id="" align="aligncenter" width="353"]<img class="" src="https://farm8.staticflickr.com/7588/17252775952_067d3a9b03_z_d.jpg" alt="" width="353" height="467" /> TetraPi, static version[/caption]
+<img class="" src="https://farm8.staticflickr.com/7588/17252775952_067d3a9b03_z_d.jpg" alt="" width="353" height="467" /> TetraPi, static version[/caption]
 
 Both designs are largely finished and might need some cosmetic updates, but by and large these designs work. Features include a provision for four raspberry pi cameras (NOIR or RGB) and a filter holder which accomodates 1" dielectric filters as produced by for example <a href="https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=1001">Thorlabs</a>. This modular design allows for simulateous acquisition of for example a photochemical reflectance index (PRI), a true normalized difference vegetation index (NDVI), as well as a standard RGB image. Multiplexing the cameras is taken care of by an <a href="http://www.ivmech.com/magaza/en/ivmech-m-2/ivport-raspberry-pi-camera-module-multiplexer-p-90">IVMECH raspberry pi shield</a> multiplexer.
 <h5><em>envisioned mobile camera features</em></h5>

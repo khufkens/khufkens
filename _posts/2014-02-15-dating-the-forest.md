@@ -20,7 +20,7 @@ Three samples along a wood core for two tropical humid forest species were selec
 
 Only the  youngest of the three samples for each species was valuable in this exercise. Other samples fell within a region which is hard to date using radio carbon dating as the calibration curve for this region is relatively flat (~1700 - 1950) resulting in large uncertainties when relating 14C-age to calendar years (see examples Figure 1).
 
-[caption id="" align="aligncenter" width="600"]<a href="http://testweb.science.uu.nl/AMS/images/calibration.gif"><img class="  " style="margin: 10px;" alt="" src="http://testweb.science.uu.nl/AMS/images/calibration.gif" width="600" height="369" /></a> Figure 1. - Relationship between 14C-age and calendar years. Example 1 shows a clearly defined date for a given 14C-age. Example 2 shows multiple possible calendar years matching a given 14C-age, complicating accurate dating (courtesy of Utrecht University)[/caption]
+<a href="http://testweb.science.uu.nl/AMS/images/calibration.gif"><img class="  " style="margin: 10px;" alt="" src="http://testweb.science.uu.nl/AMS/images/calibration.gif" width="600" height="369" /></a> 
 
 &nbsp;
 
@@ -30,4 +30,4 @@ Ages of the most recent samples were determined to be 1962 / 1985 and 1966 trans
 
 The slow growth rate of <em>Panda oleosa</em> is not surprise as it is often light limited, being a mid-sized species. The stature of these understory trees pales in comparison to emergent trees such as <em>Petersianthus macrocarpus </em>(Figure 2), their age however might not. Take home message: don't judge a tree's age by it's stature.
 
-[caption id="" align="aligncenter" width="339"]<a href="http://liberianfaunaflora.org/FFI/ImageCache/cache_cleqOBJ_7485.jpeg"><img class=" " style="margin: 10px;" alt="" src="http://liberianfaunaflora.org/FFI/ImageCache/cache_cleqOBJ_7485.jpeg" width="339" height="512" /></a> Figure 2 - Petersianthus macrocarpus, a potentially emergent tree reaching ~45m height with a diameter of ~150cm (courtesy http://liberianfaunaflora.org)[/caption]
+<a href="http://liberianfaunaflora.org/FFI/ImageCache/cache_cleqOBJ_7485.jpeg"><img class=" " style="margin: 10px;" alt="" src="http://liberianfaunaflora.org/FFI/ImageCache/cache_cleqOBJ_7485.jpeg" width="339" height="512" /></a> 

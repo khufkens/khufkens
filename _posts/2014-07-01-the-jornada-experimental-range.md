@@ -10,7 +10,7 @@ tags:
   - PhenoCam
   - research
 ---
-[caption id="" align="alignnone" width="800"]<img src="https://farm4.staticflickr.com/3713/13233346373_faa0b9cf42_c.jpg" alt="" width="800" height="593" /> The Jornada LTER just after a thunderstorm.[/caption]
+<img src="https://farm4.staticflickr.com/3713/13233346373_faa0b9cf42_c.jpg" alt="" width="800" height="593" /> The Jornada LTER just after a thunderstorm.[/caption]
 
 The image above shows a view across the landscape at the<a href="http://jornada-www.nmsu.edu/"> Jornada experimental range or Long Term Ecological Research (LTER) site</a> in the northern Chihuahuan Desert, approximately 25 km northeast of Las Cruces, New Mexico, USA (+32.5 N, -106.8 W, elevation 1188 m), the largest desert in North America and one of the largest deserts in the world.
 

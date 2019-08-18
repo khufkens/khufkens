@@ -24,11 +24,11 @@ The package provides a mapping interface to explore the distribution of the data
 
 In the Data Explorer tab one can plot ecosystem productivity data (GPP / NEE) for a selected site. You can select a plot displaying all data on a daily basis (consecutively) or overlaying data yearly. Note that although all sites are listed, not all of them have accessible data. The plot area will notify you of this.
 
-[caption id="attachment_1227" align="aligncenter" width="768"]<a href="/uploads/2016/03/daily_gpp.png"><img class="wp-image-1227 size-medium_large" src="/uploads/2016/03/daily_gpp-768x487.png" alt="daily_gpp" width="768" height="487" /></a> GPP at Harvard Forest[/caption]
+<a href="/uploads/2016/03/daily_gpp.png"><img class="wp-image-1227 size-medium_large" src="/uploads/2016/03/daily_gpp-768x487.png" alt="daily_gpp" width="768" height="487" /></a> 
 
 &nbsp;
 
-[caption id="attachment_1228" align="aligncenter" width="768"]<a href="/uploads/2016/03/yearly_nee.png"><img class="wp-image-1228 size-medium_large" src="/uploads/2016/03/yearly_nee-768x490.png" alt="yearly_nee" width="768" height="490" /></a> overlaying daily NEE values (together with the long term mean and standard deviation; LTM and SD respectively)[/caption]
+<a href="/uploads/2016/03/yearly_nee.png"><img class="wp-image-1228 size-medium_large" src="/uploads/2016/03/yearly_nee-768x490.png" alt="yearly_nee" width="768" height="490" /></a> 
 
 The package can be conveniently installed using only 3 commands on the R terminal (the first line takes care of dependencies, the second line loads devtools which is required to install from a github repository, line 3).
 <pre class="lang:r decode:true">install.packages(c("rvest","data.table","RCurl","DT","shiny","shinydashboard","leaflet","plotly","devtools"))

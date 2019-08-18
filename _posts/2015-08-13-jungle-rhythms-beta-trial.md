@@ -18,7 +18,7 @@ I've been quietly working on a citizen science project called <a href="http://ww
 
 Below you see an example of a sheet with hand-observations, where on the horizontal grid lines fine pencil marks delineate the timing of life cycle events.
 
-[caption id="attachment_787" align="alignnone" width="300"]<a href="/uploads/2015/08/annotation.png"><img class="wp-image-787 size-medium" src="/uploads/2015/08/annotation-300x225.png" alt="annotation" width="300" height="225" /></a> A historical record of life cycle events - click to enlarge[/caption]
+<a href="/uploads/2015/08/annotation.png"><img class="wp-image-787 size-medium" src="/uploads/2015/08/annotation-300x225.png" alt="annotation" width="300" height="225" /></a> 
 
 In order to test the workflow of the annotation and gather feedback on the content of the project I released a public beta. In under a day the 90 images provided as a test case were viewed by 15 individual users. A big thank you goes out to the mostly anonymous zooniverse user community for annotating this dataset and providing me with the necessary feedback to ensure a high quality project.
 
