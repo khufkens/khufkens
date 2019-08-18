@@ -11,7 +11,7 @@ categories:
 
 I deal with a lot of image processing. This can be within the context of creating a large [composite of aerial photographs](http://cobecore.org/blog/gis/aerial_photographs/aerial-photography-referencing/), [correcting spherical images for lateral shifts](https://khufkens.com/2017/12/25/auto-align-time-series-of-spherical-images/), or [template matching tables](http://cobecore.org/blog/template-matching/) for data digitization and transcription.
 
-However, a lot of these efforts rely in some way or shape in image alignment techniques. As such I thought it would be a nice to list some of the most common techniques in a small python script for further reference.
+However, a lot of these efforts rely in some way or shape on image alignment techniques. As such I thought it would be a nice to list some of the most common techniques in a small python script for further reference.
 
 The python script, [hosted on github](https://github.com/khufkens/align_images), covers three different methods for calculating image registration / alignment transformation information and returning transformed images.
 
