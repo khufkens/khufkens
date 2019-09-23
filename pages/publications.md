@@ -10,6 +10,10 @@ order: 3
 
 <em>2019</em>
 
+<p style="padding-left: 30px;"><strong>43.</strong>
+Schädel, C., A.D. Richardson, K. Hufkens, T. Milliman, B. Seyednasrollah, W.R. Nettles, M.B. Krassovski, and P.J. Hanson. 2019. SPRUCE Vegetation Phenology in Experimental Plots from Phenocam Imagery, 2015-2018. Oak Ridge National Laboratory, TES SFA, U.S. Department of Energy, Oak Ridge, Tennessee, U.S.A.  https://doi.org/10.25581/spruce.071/1556082 
+</p>
+
 <p style="padding-left: 30px;"><strong>42.</strong>
 Fan, L., Wigneron, J.-P., Ciais, P., Chave, J., Brandt, M., Fensholt, R., Saatchi, S., Bastos, A., Al-Yaari, A., <strong>Hufkens K.</strong>, Yuanwei, Q., Xiao, X., Chen, C., Myneni, R., Fernandez-Moran, R., Mialon, A., Rodriguez-Fernandez, N., Kerr, Y., Tian, F., Penuelas, J., (2019) Satellite-observed pantropical carbon dynamics. <strong>Nature Plants </strong> (<a href="https://www.nature.com/articles/s41477-019-0478-9">early online</a>)
 </p>
