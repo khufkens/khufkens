@@ -11,11 +11,11 @@ order: 3
 <em>2019</em>
 
 <p style="padding-left: 30px;"><strong>44.</strong>
-  Keenan T.F., Richardson A.D., <strong>Hufkens K.</strong> (2019) On quantifying the apparent temperature sensitivity of plant phenology. <strong>New Phytologist</strong> (<a href="https://doi.org/10.1111/nph.16114">https://doi.org/10.1111/nph.16114</a>)
+Keenan T.F., Richardson A.D., <strong>Hufkens K.</strong> (2019) On quantifying the apparent temperature sensitivity of plant phenology. <strong>New Phytologist</strong> (<a href="https://doi.org/10.1111/nph.16114">https://doi.org/10.1111/nph.16114</a>)
 </p>
 
 <p style="padding-left: 30px;"><strong>43.</strong>
-Schädel, C., A.D. Richardson, K. Hufkens, T. Milliman, B. Seyednasrollah, W.R. Nettles, M.B. Krassovski, and P.J. Hanson. 2019. SPRUCE Vegetation Phenology in Experimental Plots from Phenocam Imagery, 2015-2018. Oak Ridge National Laboratory, TES SFA, U.S. Department of Energy, Oak Ridge, Tennessee, U.S.A.  (<a href="https://doi.org/10.25581/spruce.071/1556082">https://doi.org/10.25581/spruce.071/1556082</a>)
+Schädel, C., A.D. Richardson, <strong>Hufkens K.</strong>, T. Milliman, B. Seyednasrollah, W.R. Nettles, M.B. Krassovski, and P.J. Hanson. 2019. SPRUCE Vegetation Phenology in Experimental Plots from Phenocam Imagery, 2015-2018. Oak Ridge National Laboratory, TES SFA, U.S. Department of Energy, Oak Ridge, Tennessee, U.S.A.  (<a href="https://doi.org/10.25581/spruce.071/1556082">https://doi.org/10.25581/spruce.071/1556082</a>)
 </p>
 
 <p style="padding-left: 30px;"><strong>42.</strong>
