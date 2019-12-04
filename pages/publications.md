@@ -10,7 +10,7 @@ order: 3
 
 <em>2019</em>
 <p style="padding-left: 30px;"><strong>45.</strong>
-Parkes B., Higginbottom T., <strong>Hufkens K.</strong>, Ceballos F., Kramer B., Foster T. (2019) Weather dataset choice introduces uncertainty to estimates of crop yield responses to climate variability and change (accepted)
+Parkes B., Higginbottom T., <strong>Hufkens K.</strong>, Ceballos F., Kramer B., Foster T. (2019) Weather dataset choice introduces uncertainty to estimates of crop yield responses to climate variability and change <strong>Environmental Research Letters</strong> (accepted)
 </p>
 
 <p style="padding-left: 30px;"><strong>44.</strong>
