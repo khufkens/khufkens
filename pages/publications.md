@@ -9,6 +9,9 @@ order: 3
 ---
 
 <em>2019</em>
+<p style="padding-left: 30px;"><strong>45.</strong>
+Parkes B., Higginbottom T., <strong>Hufkens K.</strong>, Ceballos F., Kramer B., Foster T. (2019) Weather dataset choice introduces uncertainty to estimates of crop yield responses to climate variability and change (accepted)
+</p>
 
 <p style="padding-left: 30px;"><strong>44.</strong>
 Keenan T.F., Richardson A.D., <strong>Hufkens K.</strong> (2019) On quantifying the apparent temperature sensitivity of plant phenology. <strong>New Phytologist</strong> (<a href="https://doi.org/10.1111/nph.16114">https://doi.org/10.1111/nph.16114</a>)
