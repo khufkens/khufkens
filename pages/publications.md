@@ -8,9 +8,16 @@ menu: true
 order: 3
 ---
 
+<em>2020</em>
+
+<p style="padding-left: 30px;"><strong>46.</strong>
+<strong>Hufkens K.</strong>, et al. (2020) Historical Aerial Surveys Map Long-Term Changes of Forest Cover and Structure in the Central Congo Basin. <strong> Remote Sesning</strong>, 12, 638.
+(open access <a href="https://www.mdpi.com/2072-4292/12/4/638/pdf">PDF</a>)
+</p>
+
 <em>2019</em>
 <p style="padding-left: 30px;"><strong>45.</strong>
-Parkes B., Higginbottom T., <strong>Hufkens K.</strong>, Ceballos F., Kramer B., Foster T. (2019) Weather dataset choice introduces uncertainty to estimates of crop yield responses to climate variability and change <strong>Environmental Research Letters</strong> (accepted)
+Parkes B., Higginbottom T., <strong>Hufkens K.</strong>, Ceballos F., Kramer B., Foster T. (2019) Weather dataset choice introduces uncertainty to estimates of crop yield responses to climate variability and change. <strong>Environmental Research Letters</strong>, 14, 124089. (open access <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ab5ebb/pdf">PDF</a>)
 </p>
 
 <p style="padding-left: 30px;"><strong>44.</strong>
