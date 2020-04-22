@@ -11,7 +11,7 @@ order: 3
 <em>2020</em>
 
 <p style="padding-left: 30px;"><strong>46.</strong>
-<strong>Hufkens K.</strong>, et al. (2020) Historical Aerial Surveys Map Long-Term Changes of Forest Cover and Structure in the Central Congo Basin. <strong> Remote Sesning</strong>, 12, 638.
+<strong>Hufkens K.</strong>, et al. (2020) Historical Aerial Surveys Map Long-Term Changes of Forest Cover and Structure in the Central Congo Basin. <strong> Remote Sensing</strong>, 12, 638.
 (open access <a href="https://www.mdpi.com/2072-4292/12/4/638/pdf">PDF</a>)
 </p>
 
