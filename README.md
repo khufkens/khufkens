@@ -1,3 +1,5 @@
-# khufkens.com
+As an earth system scientist and ecologist I model ecosystem processes, such as vegetation growth or drought / disturbance resistance, using various -retrospective- proxy measurements in a model data fusion approach, including among others remote sensing, dendrochronology and recovered historical data records.
 
-Personal website, using the [Hydejack jekyll theme](https://qwtel.com/hydejack/).
+Throughout my career I worked interdisciplinary borrowing heavily from fields, outside of ecology, such as image vision processing (computer science), remote sensing and engineering to assist in either field measurements and/or model driven analysis.
+
+I'm the founder of [BlueGreen Labs](https://github.com/bluegreen-labs) and [Consulting](https://bluegreen.ai/), a company dedicated at making sense of oceans of data and solving data driven environmental questions.
