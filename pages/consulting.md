@@ -17,4 +17,4 @@ All these forms of work will need a form of credit beyond a simple acknowledgeme
 
 - Authorship on manuscripts or other research products resulting from work where I have made these contributions
 - Authorship on grant proposals where applicable
-- An explicit service contract negotiated through [khufkens consulting](https://khufkens.com/about/)
+- An explicit service contract negotiated through [BlueGreen Labs](https://bluegreenlabs.org/)
