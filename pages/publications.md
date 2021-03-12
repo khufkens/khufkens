@@ -8,7 +8,30 @@ menu: true
 order: 3
 ---
 
+<em>2021</em>
+
+<p style="padding-left: 30px;"><strong>51.</strong>
+Afshar M. H. et al. (2021) Improving the Performance of Index Insurance Using Crop Models and Phenological Monitoring. <strong> Remote Sensing</strong>, 13, 924. (open access <a href="https://www.mdpi.com/2072-4292/12/4/638/pdf">PDF</a>)
+</p>
+
 <em>2020</em>
+
+<p style="padding-left: 30px;"><strong>50.</strong>
+Richardson A.D., Aubrecht D.M., Basler D., <strong>Hufkens. K.</strong>, Muir C.D, Hanssen L. (2020) Developmental changes in the reflectance spectra of temperate deciduous tree leaves and implications for thermal emissivity and leaf temperature. <strong> New Phytologist</strong>, 229, 791-804. (open access <a href="https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.16909">PDF</a>)
+</p>
+
+<p style="padding-left: 30px;"><strong>49.</strong>
+Al-Yaari A. et al. (2020) Asymmetric responses of ecosystem productivity to rainfall anomalies vary inversely with mean annual rainfall over the conterminous United States. <strong> Global Change Biology</strong>, 27, 1127-1140.
+(open access <a href="https://www.mdpi.com/2072-4292/12/4/638/pdf">PDF</a>)
+</p>
+
+<p style="padding-left: 30px;"><strong>48.</strong>
+Seyednasrollah B. et al. (2020) Seasonal variation in the canopy color of temperate evergreen conifer forests. <strong>New Phytologist</strong>, 229, 2586-2600. (open access <a href="https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17046">PDF</a>)
+</p>
+
+<p style="padding-left: 30px;"><strong>47.</strong>
+Keenan T.F., Richardson A.D. and <strong>Hufkens K.</strong> (2020) On quantifying the apparent temperature sensitivity of plant phenology. <strong> New Phytologist</strong>, 225, 1033-1040. (open access <a href="https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.16114">PDF</a>)
+</p>
 
 <p style="padding-left: 30px;"><strong>46.</strong>
 <strong>Hufkens K.</strong>, et al. (2020) Historical Aerial Surveys Map Long-Term Changes of Forest Cover and Structure in the Central Congo Basin. <strong> Remote Sensing</strong>, 12, 638.
