@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Koen Hufkens"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/bluegreen-labs/
+      - icon: mastodon
+        href: https://mastodon.social/@koen_hufkens
+format:
+  html:
+    theme: litera
+    css: styles.css
+
+editor: visual
+

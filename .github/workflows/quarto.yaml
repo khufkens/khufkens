@@ -43,12 +43,12 @@ jobs:
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
         with:
-          path: ./book/
+          path: ./blog/
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
-          path: ./book/
+          path: ./blog/
           target: gh-pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
