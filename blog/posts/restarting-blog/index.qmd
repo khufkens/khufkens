@@ -3,7 +3,6 @@ title: "Fresh start"
 author: "Koen Hufkens"
 date: "2023-10-02"
 categories: [news]
-image: ""
 ---
 
 The old framework of my blog was getting stale, so I'll refresh it to quarto. I'm unsure if all posts will be ported over but I'll try to keep the best of them. 

@@ -1,3 +1,3 @@
-# R book template
+# Personal Blog
 
-A quarto project template to use for courses and other documentation separated from the main BlueGreen Labs website
+Writing at airport terminals and train stations of life.
