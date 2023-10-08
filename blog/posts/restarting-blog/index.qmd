@@ -5,6 +5,16 @@ date: "2023-10-02"
 categories: [news]
 ---
 
-The old framework of my blog was getting stale, so I'll refresh it to quarto. I'm unsure if all posts will be ported over but I'll try to keep the best of them. Time for writing extensively is limited these days, so I consider the fresh design a placeholder mostly. I hope this might change in the near future.
+I was unsure if I would take up blogging again, or just forward the domain name to [BlueGreen Labs](https://bluegreenlabs.org). But, a recent [Mastodon post by Carl T. Bergstrom](https://mastodon.social/@ct_bergstrom@fediscience.org/111197897996606862) made me realize the value of continuing after refactoring the website.
 
-Some resources on the old blog might have been useful to some. However, most of these have been integrated in packages and or tutorials currently reported on the BlueGreen Labs [website](https://bluegreenlabs.org) or [github](https://github.com/bluegreen-labs) page. If you find yourself searching for an old post, following a dead link, please consider looking there for answers.
+We are quickly going down the road of total enshitification of the web, due to the convincing nature of Large Language Model (LLM) output (think ChatGPT, Bard etc). The web will soon be filled with reams of auto-generated text not worth reading. To give you some context on where we are headed. Ever look up a recipe online these days? Notice how you had to scroll past pages of text on the life story of the author and why this recipe matters to them, while all you wanted was an ingredients list, food prep instructions and maybe a picture of how pasta puttanesca should look? This will be the web going forward, but EVERYWHERE. Finding trusted sources of information and worthwhile content to read will therefore come at a premium.
+
+I will therefore counter the enshitification of the web, by a handful of platforms, using the approach that made them big, i.e. by linking out.
+
+> "It was perhaps the best encapsulation of a mantra I first heard from web pioneer Dave Winer: The more you send people away, the more they come back." - Philip Bump ([Musk is nearly done destroying what made Twitter twitter - Washington Post](https://www.washingtonpost.com/politics/2023/10/05/musk-twitter-news/))
+
+As such, I'll pivot my old blog to a link blog with commentary and suggested reading links. This resonates with some of the comments I got from friends on some of the reading material I forward. This will also allow me to structure some of my thoughts and keep track of this content myself (as finding it again will increasingly be impossible).
+
+This pivot also serves as a warning. Being a trusted source will become more important than ever. The importance of real life references and quality of the material written or linked to rather than "influencer" presence will dominate again (after a decade of cheap viral content and personalities who ride on it). It never really went away, as life is politics and connection, but for a brief moment one could get away with just being famous online.
+
+> To those landing here looking for old resources on the old blog: most of these have been integrated in packages and or tutorials currently reported on the BlueGreen Labs [website](https://bluegreenlabs.org) or [github](https://github.com/bluegreen-labs) page. If you find yourself searching for an old post, following a dead link, please consider looking there for answers.
