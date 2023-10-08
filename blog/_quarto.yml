@@ -11,6 +11,8 @@ website:
         href: https://github.com/bluegreen-labs/
       - icon: mastodon
         href: https://mastodon.social/@koen_hufkens
+      - icon: rss
+        href: index.xml
 format:
   html:
     theme: litera
