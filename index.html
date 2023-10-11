@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -150,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="academia">academia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="management">management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -177,9 +177,47 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="news" data-listing-date-sort="1696204800000" data-listing-file-modified-sort="1696753908980" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="quarto-post image-right" data-index="0" data-categories="academia,management" data-listing-date-sort="1696896000000" data-listing-file-modified-sort="1697012950905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
 <div class="thumbnail">
-<p><a href="./posts/restarting-blog/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+<p><a href="./posts/building-bridges-science-management/index.html"> <img src="./posts/building-bridges-science-management/featured.jpg" class="thumbnail-image" alt="Photo by Modestas Urbonas on Unsplash"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/building-bridges-science-management/index.html">
+<h3 class="no-anchor listing-title">
+Building bridges
+</h3>
+<div class="listing-subtitle">
+getting to distant places easily
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('academia'); return false;">
+academia
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('management'); return false;">
+management
+</div>
+</div>
+<a href="./posts/building-bridges-science-management/index.html">
+<div class="listing-description">
+This is a quick post of some advice I gave about career development to an early career scientist. Take from it what you want.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/building-bridges-science-management/index.html">
+<div class="listing-date">
+Oct 10, 2023
+</div>
+<div class="listing-author">
+Koen Hufkens
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="news" data-listing-date-sort="1696204800000" data-listing-file-modified-sort="1697012950905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="thumbnail">
+<p><a href="./posts/restarting-blog/index.html"> <img src="./posts/restarting-blog/featured.jpg" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="./posts/restarting-blog/index.html">
@@ -187,7 +225,7 @@ ul.task-list li input[type="checkbox"] {
 Fresh start
 </h3>
 <div class="listing-subtitle">
-
+a new look - fresh content
 </div>
 </a>
 <div class="listing-categories">
