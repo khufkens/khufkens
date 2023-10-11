@@ -1,9 +1,14 @@
 ---
 title: "Fresh start"
+subtitle: "a new look - fresh content"
 author: "Koen Hufkens"
 date: "2023-10-02"
 categories: [news]
+caption: "Photo by Jonas Allert on Unsplash"
+image: "featured.jpg"
 ---
+
+![Photo by Jonas Allert on Unsplash](featured.jpg)
 
 I was unsure if I would take up blogging again, or just forward the domain name to [BlueGreen Labs](https://bluegreenlabs.org). But, a recent [Mastodon post by Carl T. Bergstrom](https://mastodon.social/@ct_bergstrom@fediscience.org/111197897996606862) made me realize the value of continuing after refactoring the website.
 
