@@ -11,21 +11,21 @@
     "href": "posts/how-to-draw-an-owl-advice-from-a-meme/index.html",
     "title": "How to draw an owl",
     "section": "",
-    "text": "Much of project planning resolves around taking an idea, i.e. the badly drawn concept, to a fully detailed drawing (of an owl). However, both images at the beginning only live in your head. The initial idea, and the ideal outcome are separated by what is truly feasible. Most projects fail when they do not account for the practicle difference between what it takes to manifest the idea and realize the ideal solution."
+    "text": "Much of project planning resolves around taking an idea, i.e. the badly drawn concept, to a fully detailed drawing (of an owl). However, both images at the beginning only live in your head. The initial idea, and the ideal outcome are separated by what is truly feasible. Most projects fail when they do not account for the practical difference between what it takes to manifest the idea and realize the ideal solution."
   },
   {
     "objectID": "posts/how-to-draw-an-owl-advice-from-a-meme/index.html#the-process-often-matters-most",
     "href": "posts/how-to-draw-an-owl-advice-from-a-meme/index.html#the-process-often-matters-most",
     "title": "How to draw an owl",
     "section": "The process (often) matters most",
-    "text": "The process (often) matters most\nGiven that no project is free of setbacks of all sorts, it is key to realize that most of the project will be spent not focussing on the final details of the ideal image. Most time will be spent on figuring out ways how to even start drawing (the damn owl). A failure to account for the process and a singular focus on the ideal will run any project into the ground, from a resource or human perspective (causing undue stress).\n[Important note: in some projects there is no room for outright failure, but even high risk projects get revisions!]"
+    "text": "The process (often) matters most\nGiven that no project is free of setbacks of all sorts, it is key to realize that most of the project will be spent not focusing on the final details of the ideal image. Most time will be spent on figuring out ways how to even start drawing (the damn owl). A failure to account for the process and a singular focus on the ideal will run any project into the ground, from a resource or human perspective (causing undue stress).\n[Important note: in some projects there is no room for outright failure, but even high risk projects get revisions!]"
   },
   {
     "objectID": "posts/how-to-draw-an-owl-advice-from-a-meme/index.html#keep-track-of-projects",
     "href": "posts/how-to-draw-an-owl-advice-from-a-meme/index.html#keep-track-of-projects",
     "title": "How to draw an owl",
     "section": "Keep track of projects",
-    "text": "Keep track of projects\nGiven that the project process is more important than the outcome it is key to keep track of progress, more precisely:\n\nwhy you took certain decisions?\nwhat went wrong, and how you resolved it (so others don’t have to repeat this mistake)?\ntrack the physical contraints of an implementation (for Machine Learning this could be GPUs used)?\ntrack limits on scalability (are processes easily parallelizable)?\ndocumentation, documentation, more documentation…\n\nDocument all these things extensively and show where value was added despite setbacks."
+    "text": "Keep track of projects\nGiven that the project process is more important than the outcome it is key to keep track of progress, more precisely:\n\nwhy you took certain decisions?\nwhat went wrong, and how you resolved it (so others don’t have to repeat this mistake)?\ntrack the physical constraints of an implementation (for Machine Learning this could be GPUs used)?\ntrack limits on scalability (are processes easily parallelizable)?\ndocumentation, documentation, more documentation…\n\nDocument all these things extensively and show where value was added despite setbacks."
   },
   {
     "objectID": "posts/how-to-draw-an-owl-advice-from-a-meme/index.html#failing-forward",
