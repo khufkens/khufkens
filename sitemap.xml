@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/khufkens/khufkens/about.html</loc>
-    <lastmod>2023-10-11T08:32:53.762Z</lastmod>
+    <loc>https://khufkens.com/posts/restarting-blog/index.html</loc>
+    <lastmod>2023-10-28T14:03:26.180Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/khufkens/khufkens/posts/building-bridges-science-management/index.html</loc>
-    <lastmod>2023-10-11T08:32:52.930Z</lastmod>
+    <loc>https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme/index.html</loc>
+    <lastmod>2023-10-28T14:03:25.320Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/khufkens/khufkens/index.html</loc>
-    <lastmod>2023-10-11T08:32:52.486Z</lastmod>
+    <loc>https://khufkens.com/about.html</loc>
+    <lastmod>2023-10-28T14:03:24.000Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/khufkens/khufkens/posts/restarting-blog/index.html</loc>
-    <lastmod>2023-10-11T08:32:53.374Z</lastmod>
+    <loc>https://khufkens.com/index.html</loc>
+    <lastmod>2023-10-28T14:03:24.808Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/building-bridges-science-management/index.html</loc>
+    <lastmod>2023-10-28T14:03:25.736Z</lastmod>
   </url>
 </urlset>

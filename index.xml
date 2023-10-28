@@ -6,15 +6,58 @@
       version="2.0">
 <channel>
 <title>Koen Hufkens</title>
-<link>https://github.com/khufkens/khufkens/index.html</link>
-<atom:link href="https://github.com/khufkens/khufkens/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://khufkens.com/index.html</link>
+<atom:link href="https://khufkens.com/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
 <lastBuildDate>Tue, 10 Oct 2023 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>How to draw an owl</title>
+  <dc:creator>Koen Hufkens</dc:creator>
+  <link>https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><img src="https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme/featured.jpg" class="preview-image img-fluid"></p>
+<p>Much of project planning resolves around taking an idea, i.e.&nbsp;the badly drawn concept, to a fully detailed drawing (of an owl). However, both images at the beginning only live in your head. The initial idea, and the ideal outcome are separated by what is truly feasible. Most projects fail when they do not account for the practicle difference between what it takes to manifest the idea and realize the ideal solution.</p>
+<section id="the-process-often-matters-most" class="level2">
+<h2 class="anchored" data-anchor-id="the-process-often-matters-most">The process (often) matters most</h2>
+<p>Given that no project is free of setbacks of all sorts, it is key to realize that most of the project will be spent not focussing on the final details of the ideal image. Most time will be spent on figuring out ways how to even start drawing (the damn owl). A failure to account for the process and a singular focus on the ideal will run any project into the ground, from a resource or human perspective (causing undue stress).</p>
+<p>[Important note: in some projects there is no room for outright failure, but even high risk projects get revisions!]</p>
+</section>
+<section id="keep-track-of-projects" class="level2">
+<h2 class="anchored" data-anchor-id="keep-track-of-projects">Keep track of projects</h2>
+<p>Given that the project process is more important than the outcome it is key to keep track of progress, more precisely:</p>
+<ul>
+<li>why you took certain decisions?</li>
+<li>what went wrong, and how you resolved it (so others don’t have to repeat this mistake)?</li>
+<li>track the physical contraints of an implementation (for Machine Learning this could be GPUs used)?</li>
+<li>track limits on scalability (are processes easily parallelizable)?</li>
+<li>documentation, documentation, more documentation…</li>
+</ul>
+<p>Document all these things extensively and show where value was added despite setbacks.</p>
+</section>
+<section id="failing-forward" class="level2">
+<h2 class="anchored" data-anchor-id="failing-forward">Failing forward</h2>
+<p>Nobody likes to bring bad news, but if your project does not manage to draw (the owl) results finding added value in other aspects of a project is key. This does not only cover lessons learned (as listed above), but also covers proposing ways out of the impasse more generally. You can fail forward by pointing out why things didn’t work out the way it should have happened, but more so, how these issues can be resolved and avoided (and at what cost) in the future.</p>
+<p>Where possible generate added value by providing small tangible products during the project. To continue the owl analogy, you might not be able to draw the fully detailed owl, but you might have put together a method to draw a very nice cartoon owl. This, on its own, has a certain value. Discarding this result because it did not meet the ideal would be foolish.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>project</category>
+  <category>management</category>
+  <guid>https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme/index.html</guid>
+  <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Building bridges</title>
   <dc:creator>Koen Hufkens</dc:creator>
-  <link>https://github.com/khufkens/khufkens/posts/building-bridges-science-management/index.html</link>
+  <link>https://khufkens.com/posts/building-bridges-science-management/index.html</link>
   <description><![CDATA[ 
 
 
@@ -22,7 +65,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://github.com/khufkens/khufkens/posts/building-bridges-science-management/featured.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://khufkens.com/posts/building-bridges-science-management/featured.jpg" class="preview-image img-fluid figure-img"></p>
 <figcaption class="figure-caption">Photo by Modestas Urbonas on Unsplash</figcaption>
 </figure>
 </div>
@@ -30,7 +73,7 @@
 <ol type="1">
 <li><p>Try to build bridges between where you are and where you want to go (this can include people, places, topics, techniques).</p></li>
 <li><p>Touching on building, try to build (multiple) things (lines of research, data, code) which outlast singular projects or span several. This is why I’m relentless on using templates and formalizing code. This allows you to recycle old projects in a new context fast, so you can pivot into a new project quicker.</p></li>
-<li><p>Diversify your portfolio, don’t get painted into a corner. By definition ecology is interdisciplinary and chances are that you will have to do fieldwork / lab work at some point. Getting experience before you need to supervise people doing so (without any true experience) is key. Use early career years to make mistakes which would in a management setting would be unforgivable (as affecting other people’s career - even more than your own).</p></li>
+<li><p>Diversify your portfolio, don’t get painted into a corner. By definition ecology is interdisciplinary and chances are that you will have to do fieldwork / lab work at some point. Getting experience before you need to supervise people doing so (without any true experience) is key. Use early career years to make mistakes which in a management setting would be unforgivable (as affecting other people’s career - even more than your own).</p></li>
 <li><p>Build bridges for other people! The bigger your responsibility (older you are) the more you have the ability to pay it forward (give people opportunities). You shouldn’t cannibalize your own work, but sometimes it is as easy as sending a simple email in support (or letting someone tag along or contribute). Do so!</p></li>
 </ol>
 <p>Build bridges between people, build frameworks (foundations) to work from / upon, build diversity in your skills / interests / people and if possible encourage, and support, others to do the same.</p>
@@ -40,14 +83,14 @@
  ]]></description>
   <category>academia</category>
   <category>management</category>
-  <guid>https://github.com/khufkens/khufkens/posts/building-bridges-science-management/index.html</guid>
+  <guid>https://khufkens.com/posts/building-bridges-science-management/index.html</guid>
   <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/khufkens/khufkens/posts/building-bridges-science-management/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://khufkens.com/posts/building-bridges-science-management/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Fresh start</title>
   <dc:creator>Koen Hufkens</dc:creator>
-  <link>https://github.com/khufkens/khufkens/posts/restarting-blog/index.html</link>
+  <link>https://khufkens.com/posts/restarting-blog/index.html</link>
   <description><![CDATA[ 
 
 
@@ -55,7 +98,7 @@
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://github.com/khufkens/khufkens/posts/restarting-blog/featured.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://khufkens.com/posts/restarting-blog/featured.jpg" class="preview-image img-fluid figure-img"></p>
 <figcaption class="figure-caption">Photo by Jonas Allert on Unsplash</figcaption>
 </figure>
 </div>
@@ -75,9 +118,9 @@
 
  ]]></description>
   <category>news</category>
-  <guid>https://github.com/khufkens/khufkens/posts/restarting-blog/index.html</guid>
+  <guid>https://khufkens.com/posts/restarting-blog/index.html</guid>
   <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://github.com/khufkens/khufkens/posts/restarting-blog/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://khufkens.com/posts/restarting-blog/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
