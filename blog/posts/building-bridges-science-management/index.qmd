@@ -9,7 +9,7 @@ image: "featured.jpg"
 image-alt: "Photo by Modestas Urbonas on Unsplash"
 ---
 
-![Photo by Modestas Urbonas on Unsplash](featured.jpg)
+![Photo by Modestas Urbonas on Unsplash](featured.jpg){.preview-image}
 
 This is a quick post of some advice I gave about career development to an early career scientist. Take from it what you want.
 
