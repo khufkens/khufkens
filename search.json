@@ -7,6 +7,27 @@
     "text": "Photo by Jonas Allert on Unsplash\n\n\nI was unsure if I would take up blogging again, or just forward the domain name to BlueGreen Labs. But, a recent Mastodon post by Carl T. Bergstrom made me realize the value of continuing after refactoring the website.\nWe are quickly going down the road of total enshitification of the web, due to the convincing nature of Large Language Model (LLM) output (think ChatGPT, Bard etc). The web will soon be filled with reams of auto-generated text not worth reading. To give you some context on where we are headed. Ever look up a recipe online these days? Notice how you had to scroll past pages of text on the life story of the author and why this recipe matters to them, while all you wanted was an ingredients list, food prep instructions and maybe a picture of how pasta puttanesca should look? This will be the web going forward, but EVERYWHERE. Finding trusted sources of information and worthwhile content to read will therefore come at a premium.\nI will therefore counter the enshitification of the web, by a handful of platforms, using the approach that made them big, i.e. by linking out.\n\n“It was perhaps the best encapsulation of a mantra I first heard from web pioneer Dave Winer: The more you send people away, the more they come back.” - Philip Bump (Musk is nearly done destroying what made Twitter twitter - Washington Post)\n\nAs such, I’ll pivot my old blog to a link blog with commentary and suggested reading links. This resonates with some of the comments I got from friends on some of the reading material I forward. This will also allow me to structure some of my thoughts and keep track of this content myself (as finding it again will increasingly be impossible).\nThis pivot also serves as a warning. Being a trusted source will become more important than ever. The importance of real life references and quality of the material written or linked to rather than “influencer” presence will dominate again (after a decade of cheap viral content and personalities who ride on it). It never really went away, as life is politics and connection, but for a brief moment one could get away with just being famous online.\n\nTo those landing here looking for old resources on the old blog: most of these have been integrated in packages and or tutorials currently reported on the BlueGreen Labs website or github page. If you find yourself searching for an old post, following a dead link, please consider looking there for answers."
   },
   {
+    "objectID": "posts/building-bridges-science-management/index.html",
+    "href": "posts/building-bridges-science-management/index.html",
+    "title": "Building bridges",
+    "section": "",
+    "text": "Photo by Modestas Urbonas on Unsplash\n\n\nThis is a quick post of some advice I gave about career development to an early career scientist. Take from it what you want.\n\nTry to build bridges between where you are and where you want to go (this can include people, places, topics, techniques).\nTouching on building, try to build (multiple) things (lines of research, data, code) which outlast singular projects or span several. This is why I’m relentless on using templates and formalizing code. This allows you to recycle old projects in a new context fast, so you can pivot into a new project quicker.\nDiversify your portfolio, don’t get painted into a corner. By definition ecology is interdisciplinary and chances are that you will have to do fieldwork / lab work at some point. Getting experience before you need to supervise people doing so (without any true experience) is key. Use early career years to make mistakes which in a management setting would be unforgivable (as affecting other people’s career - even more than your own).\nBuild bridges for other people! The bigger your responsibility (older you are) the more you have the ability to pay it forward (give people opportunities). You shouldn’t cannibalize your own work, but sometimes it is as easy as sending a simple email in support (or letting someone tag along or contribute). Do so!\n\nBuild bridges between people, build frameworks (foundations) to work from / upon, build diversity in your skills / interests / people and if possible encourage, and support, others to do the same."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Torch/Keras in R\n\n\nthe ecosystem moves forward\n\n\n\n\nR\n\n\nmachine learning\n\n\n\n\n\n\n\n\n\n\n\nOct 30, 2023\n\n\nKoen Hufkens\n\n\n\n\n\n\n  \n\n\n\n\nHow to draw an owl\n\n\nwise advice from an internet meme\n\n\n\n\nproject\n\n\nmanagement\n\n\n\n\n\n\n\n\n\n\n\nOct 28, 2023\n\n\nKoen Hufkens\n\n\n\n\n\n\n  \n\n\n\n\nBuilding bridges\n\n\ngetting to distant places easily\n\n\n\n\nacademia\n\n\nmanagement\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2023\n\n\nKoen Hufkens\n\n\n\n\n\n\n  \n\n\n\n\nFresh start\n\n\na new look - fresh content\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 2, 2023\n\n\nKoen Hufkens\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "As an earth system scientist and ecologist I model ecosystem processes. For more information on my scientific work I refer to BlueGreen Labs.\nHere you will find my reading, writing and some observations on work, life, science and academia."
+  },
+  {
     "objectID": "posts/how-to-draw-an-owl-advice-from-a-meme/index.html",
     "href": "posts/how-to-draw-an-owl-advice-from-a-meme/index.html",
     "title": "How to draw an owl",
@@ -35,24 +56,10 @@
     "text": "Failing forward\nNobody likes to bring bad news, but if your project does not manage to draw (the owl) results finding added value in other aspects of a project is key. This does not only cover lessons learned (as listed above), but also covers proposing ways out of the impasse more generally. You can fail forward by pointing out why things didn’t work out the way it should have happened, but more so, how these issues can be resolved and avoided (and at what cost) in the future.\nWhere possible generate added value by providing small tangible products during the project. To continue the owl analogy, you might not be able to draw the fully detailed owl, but you might have put together a method to draw a very nice cartoon owl. This, on its own, has a certain value. Discarding this result because it did not meet the ideal would be foolish."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/machine-learning-torch-R-luz/index.html",
+    "href": "posts/machine-learning-torch-R-luz/index.html",
+    "title": "Torch/Keras in R",
     "section": "",
-    "text": "As an earth system scientist and ecologist I model ecosystem processes. For more information on my scientific work I refer to BlueGreen Labs.\nHere you will find my reading, writing and some observations on work, life, science and academia."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "How to draw an owl\n\n\nwise advice from an internet meme\n\n\n\n\nproject\n\n\nmanagement\n\n\n\n\n\n\n\n\n\n\n\nOct 28, 2023\n\n\nKoen Hufkens\n\n\n\n\n\n\n  \n\n\n\n\nBuilding bridges\n\n\ngetting to distant places easily\n\n\n\n\nacademia\n\n\nmanagement\n\n\n\n\n\n\n\n\n\n\n\nOct 10, 2023\n\n\nKoen Hufkens\n\n\n\n\n\n\n  \n\n\n\n\nFresh start\n\n\na new look - fresh content\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 2, 2023\n\n\nKoen Hufkens\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/building-bridges-science-management/index.html",
-    "href": "posts/building-bridges-science-management/index.html",
-    "title": "Building bridges",
-    "section": "",
-    "text": "Photo by Modestas Urbonas on Unsplash\n\n\nThis is a quick post of some advice I gave about career development to an early career scientist. Take from it what you want.\n\nTry to build bridges between where you are and where you want to go (this can include people, places, topics, techniques).\nTouching on building, try to build (multiple) things (lines of research, data, code) which outlast singular projects or span several. This is why I’m relentless on using templates and formalizing code. This allows you to recycle old projects in a new context fast, so you can pivot into a new project quicker.\nDiversify your portfolio, don’t get painted into a corner. By definition ecology is interdisciplinary and chances are that you will have to do fieldwork / lab work at some point. Getting experience before you need to supervise people doing so (without any true experience) is key. Use early career years to make mistakes which in a management setting would be unforgivable (as affecting other people’s career - even more than your own).\nBuild bridges for other people! The bigger your responsibility (older you are) the more you have the ability to pay it forward (give people opportunities). You shouldn’t cannibalize your own work, but sometimes it is as easy as sending a simple email in support (or letting someone tag along or contribute). Do so!\n\nBuild bridges between people, build frameworks (foundations) to work from / upon, build diversity in your skills / interests / people and if possible encourage, and support, others to do the same."
+    "text": "Photo by British Library on Unsplash\n\n\nRecently, I more formally picked up machine learning again - in a more day-to-day fashion rather than one-off projects. Specifically, I’m trying to use R within the context of deep learning. Given that the dominant ecosystem for machine learning mostly remains python this might come as a surprise.\nThing is, I don’t like pivoting in and out of environments. In particular, data wrangling is much easier in R than in python. Given that a good amount of machine learning is dealing with cleaning data and data wrangling it often seems a better fit to use R rather than python (with the exception being image processing).\nAnyway, I tried such a deep dive a couple of years ago with the excellent book “Deep Learning with R” by Francois Cholet. Sadly, at the time, the R ecosystem of Keras felt very brittle and incomplete. But, revisiting Keras, and Torch, again after a couple of years was a breath of fresh air. The R APIs feel more feature complete and in line with the python one.\nThe last couple of days I’ve really enjoyed the combination of {torch} and {luz} to model ecosystem flux data and phenology. Some key resources have been the Posit.io (rstudio) machine learning blog - which reblogs some of the work in the “Deep Learning and Scientific Computing with R torch” by Sigrid Keydana. Given that the first book by Francois Cholet was brilliant, I assume the second version is better with the increasing ability of TensorFlow and the Keras APIs. Pick up either of these books to get a good handle on machine learning in R. Depending on if and where I find time, I might blog about some tips and tricks."
   }
 ]
