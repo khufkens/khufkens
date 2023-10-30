@@ -1,0 +1,19 @@
+---
+title: "Torch/Keras in R"
+subtitle: "the ecosystem moves forward"
+author: "Koen Hufkens"
+date: "2023-10-30"
+categories: [R, machine learning]
+caption: "Photo by British Library on Unsplash"
+image: "featured.jpg"
+---
+
+![Photo by British Library on Unsplash](featured.jpg){.preview-image}
+
+Recently, I more formally picked up machine learning again - in a more day-to-day fashion rather than one-off projects. Specifically, I'm trying to use R within the context of deep learning. Given that the dominant ecosystem for machine learning mostly remains python this might come as a surprise.
+
+Thing is, I don't like pivoting in and out of environments. In particular, data wrangling is much easier in R than in python. Given that a good amount of machine learning is dealing with cleaning data and data wrangling it often seems a better fit to use R rather than python (with the exception being image processing).
+
+Anyway, I tried such a deep dive a couple of years ago with the excellent book "[Deep Learning with R](https://www.manning.com/books/deep-learning-with-r-second-edition)" by [Francois Cholet](https://fchollet.com/). Sadly, at the time, the R ecosystem of Keras felt very brittle and incomplete. But, revisiting Keras, and Torch, again after a couple of years was a breath of fresh air. The R APIs feel more feature complete and in line with the python one.
+
+The last couple of days I've really enjoyed the combination of [{torch}](https://torch.mlverse.org/) and {luz} to model ecosystem flux data and phenology. Some key resources have been the Posit.io (rstudio) machine learning blog - which reblogs some of the work in the "[Deep Learning and Scientific Computing with R torch](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/)" by [Sigrid Keydana](https://divergences.xyz/). Given that the first book by Francois Cholet was brilliant, I assume the second version is better with the increasing ability of TensorFlow and the Keras APIs. Pick up either of these books to get a good handle on machine learning in R. Depending on if and where I find time, I might blog about some tips and tricks.
