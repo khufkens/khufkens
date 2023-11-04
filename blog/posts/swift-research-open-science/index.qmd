@@ -1,0 +1,29 @@
+---
+title: "On swifts and open science"
+subtitle: "hard won battles in ornithology"
+author: "Koen Hufkens"
+date: "2023-11-04"
+categories: [ornithology, op-ed]
+draft: false
+image: "featured.jpg"
+---
+
+![Photo by Robert Booth](featured.jpg){.preview-image}
+
+The past week some recent work on swift behaviour got published in [The Proceedings of the Royal Society B](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0957). In this research I, together with a splendid team, discuss the influence of moonlight on flight behaviour and foraging tactics during the non-breeding season (across Africa) of three European swift species. This works follows on previous work [in Oikos](https://onlinelibrary.wiley.com/doi/10.1111/oik.08594) along the same research lines and by the same team, but led by Lyndon Kearsley, discussing the influence of atmospheric convergence zones on flight behaviour. Combined, these two studies provide an insight into how swifts optimize their behaviour to their flight environment, let it be wind and/or light.
+
+This ornithology research grew out of the passion of Lyndon Kearsley who, as a long-term amateur ornithologist (50+ years), contributes to academic research on a regular basis but rarely as research lead. During the COVID pandemic he shared some of this passion with me, from which grew the plan to publish some of the insights which came from these discussions and subsequent conversations with other collaborators.
+
+Publishing science from the perspective of a small independent lab is certainly not open, as in easily accessible to all, even if ideas are good, the execution of the analysis spot-on, and the data and code openly available. I'm happy with the progress this team makes, but our largely unaffiliated status does not make our work easier. I think the scientific community, despite "broader impacts", needs to acknowledge and consider outside contributions more seriously. Many fields still struggle with issues surrounding data ownership, proper attribution (of amateurs and citizen scientists), [neo-colonialism](https://en.wikipedia.org/wiki/Neo-colonial_science) and [helicopter science](https://www.nature.com/articles/s41561-022-01010-4) and a publishing system which is increasingly financially out of reach for smaller labs.
+
+Academic research can be decidedly competitive - chasing a vacuous [Red Queen status quo](https://totalinternalreflectionblog.com/2023/10/29/a-riposte-to-the-red-queens/). But, to end in a positive note, in these swift studies we took an explicit community based approach. BlueGreen Labs, through myself and Lyndon, tries to facilitate slower and open science by building knowledge, software, hardware, and a community surrounding all these aspects. We consciously stepped away from the Red Queen rat race of academic publishing, where we try to partner with diverse collaborators (co-authors) on a basis of a shared passion, expertise and trust.
+
+I think our work reflects the fact that one does not necessarily need a large budget to do impactful and fun science, for all involved. Research needs (interdisciplinary) community, foundation frameworks (among others in good software and hardware stacks and support/teaching), and open and honest communication with less careerism and one-upmanship. To end with a platitude: "If you want to go fast, go alone, if you want to go far, go together".
+
+---
+
+### References
+
+Hufkens, K. et al. (2023), Evaluating the effects of moonlight on the vertical flight profiles of three western palaearctic swifts. Royal Society. doi: [https://doi.org/10.1098/rspb.2023.0957](https://doi.org/10.1098/rspb.2023.0957).
+
+Kearsley, L. et al. (2022), The aeroecology of atmospheric convergence zones: the case of pallid swifts. Oikos, 2022: e08594. doi: [https://doi.org/10.1111/oik.08594](https://doi.org/10.1111/oik.08594)
