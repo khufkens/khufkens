@@ -10,7 +10,43 @@
 <atom:link href="https://khufkens.com/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Mon, 30 Oct 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 04 Nov 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>On swifts and open science</title>
+  <dc:creator>Koen Hufkens</dc:creator>
+  <link>https://khufkens.com/posts/swift-research-open-science/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://khufkens.com/posts/swift-research-open-science/featured.jpg" class="preview-image img-fluid figure-img"></p>
+<figcaption class="figure-caption">Photo by Robert Booth</figcaption>
+</figure>
+</div>
+<p>The past week some recent work on swift behaviour got published in <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2023.0957">The Proceedings of the Royal Society B</a>. In this research I, together with a splendid team, discuss the influence of moonlight on flight behaviour and foraging tactics during the non-breeding season (across Africa) of three European swift species. This works follows on previous work <a href="https://onlinelibrary.wiley.com/doi/10.1111/oik.08594">in Oikos</a> along the same research lines and by the same team, but led by Lyndon Kearsley, discussing the influence of atmospheric convergence zones on flight behaviour. Combined, these two studies provide an insight into how swifts optimize their behaviour to their flight environment, let it be wind and/or light.</p>
+<p>This ornithology research grew out of the passion of Lyndon Kearsley who, as a long-term amateur ornithologist (50+ years), contributes to academic research on a regular basis but rarely as research lead. During the COVID pandemic he shared some of this passion with me, from which grew the plan to publish some of the insights which came from these discussions and subsequent conversations with other collaborators.</p>
+<p>Publishing science from the perspective of a small independent lab is certainly not open, as in easily accessible to all, even if ideas are good, the execution of the analysis spot-on, and the data and code openly available. I’m happy with the progress this team makes, but our largely unaffiliated status does not make our work easier. I think the scientific community, despite “broader impacts”, needs to acknowledge and consider outside contributions more seriously. Many fields still struggle with issues surrounding data ownership, proper attribution (of amateurs and citizen scientists), <a href="https://en.wikipedia.org/wiki/Neo-colonial_science">neo-colonialism</a> and <a href="https://www.nature.com/articles/s41561-022-01010-4">helicopter science</a> and a publishing system which is increasingly financially out of reach for smaller labs.</p>
+<p>Academic research can be decidedly competitive - chasing a vacuous <a href="https://totalinternalreflectionblog.com/2023/10/29/a-riposte-to-the-red-queens/">Red Queen status quo</a>. But, to end in a positive note, in these swift studies we took an explicit community based approach. BlueGreen Labs, through myself and Lyndon, tries to facilitate slower and open science by building knowledge, software, hardware, and a community surrounding all these aspects. We consciously stepped away from the Red Queen rat race of academic publishing, where we try to partner with diverse collaborators (co-authors) on a basis of a shared passion, expertise and trust.</p>
+<p>I think our work reflects the fact that one does not necessarily need a large budget to do impactful and fun science, for all involved. Research needs (interdisciplinary) community, foundation frameworks (among others in good software and hardware stacks and support/teaching), and open and honest communication with less careerism and one-upmanship. To end with a platitude: “If you want to go fast, go alone, if you want to go far, go together”.</p>
+<hr>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<p>Hufkens, K. et al.&nbsp;(2023), Evaluating the effects of moonlight on the vertical flight profiles of three western palaearctic swifts. Royal Society. doi: <a href="https://doi.org/10.1098/rspb.2023.0957">https://doi.org/10.1098/rspb.2023.0957</a>.</p>
+<p>Kearsley, L. et al.&nbsp;(2022), The aeroecology of atmospheric convergence zones: the case of pallid swifts. Oikos, 2022: e08594. doi: <a href="https://doi.org/10.1111/oik.08594">https://doi.org/10.1111/oik.08594</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>ornithology</category>
+  <category>op-ed</category>
+  <guid>https://khufkens.com/posts/swift-research-open-science/index.html</guid>
+  <pubDate>Sat, 04 Nov 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://khufkens.com/posts/swift-research-open-science/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Torch/Keras in R</title>
   <dc:creator>Koen Hufkens</dc:creator>
@@ -77,7 +113,6 @@
 </section>
 
  ]]></description>
-  <category>project</category>
   <category>management</category>
   <guid>https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme/index.html</guid>
   <pubDate>Sat, 28 Oct 2023 00:00:00 GMT</pubDate>

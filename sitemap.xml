@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://khufkens.com/posts/machine-learning-torch-R-luz/index.html</loc>
+    <lastmod>2023-11-04T13:42:58.873Z</lastmod>
+  </url>
+  <url>
     <loc>https://khufkens.com/posts/restarting-blog/index.html</loc>
-    <lastmod>2023-10-30T15:56:36.942Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/posts/building-bridges-science-management/index.html</loc>
-    <lastmod>2023-10-30T15:56:36.218Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/index.html</loc>
-    <lastmod>2023-10-30T15:56:35.494Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/about.html</loc>
-    <lastmod>2023-10-30T15:56:34.870Z</lastmod>
+    <lastmod>2023-11-04T13:42:58.137Z</lastmod>
   </url>
   <url>
     <loc>https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme/index.html</loc>
-    <lastmod>2023-10-30T15:56:35.878Z</lastmod>
+    <lastmod>2023-11-04T13:42:57.361Z</lastmod>
   </url>
   <url>
-    <loc>https://khufkens.com/posts/machine-learning-torch-R-luz/index.html</loc>
-    <lastmod>2023-10-30T15:56:36.562Z</lastmod>
+    <loc>https://khufkens.com/index.html</loc>
+    <lastmod>2023-11-04T13:42:56.661Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/about.html</loc>
+    <lastmod>2023-11-04T13:42:56.973Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/swift-research-open-science/index.html</loc>
+    <lastmod>2023-11-04T13:42:57.757Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/building-bridges-science-management/index.html</loc>
+    <lastmod>2023-11-04T13:42:58.517Z</lastmod>
   </url>
 </urlset>
