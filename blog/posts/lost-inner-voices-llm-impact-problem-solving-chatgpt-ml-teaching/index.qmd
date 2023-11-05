@@ -1,0 +1,28 @@
+---
+title: "Lost inner voices"
+subtitle: "the LLM impact on problem-solving"
+author: "Koen Hufkens"
+date: "2023-11-05"
+categories: [machine learning]
+draft: false
+image: "featured.jpg"
+image-alt: ""
+---
+
+![The Simpsons, Old Man and the Key](featured.jpg){.preview-image}
+
+Over the past years I've seen a steady decline in the problem solving ability of students, and I fear large language models (LLMs), such as ChatGPT, might not do them any favour. Now, this might sound like an opinion of an "old man yells at cloud". [Google (search)](https://www.npr.org/2010/06/02/127370598/the-shallows-this-is-your-brain-online) and calculators were also once proposed to cause brain rot. But this cuts even deeper.
+
+Most people have some form of [intrapersonal communication](https://en.wikipedia.org/wiki/Intrapersonal_communication) or inner-dialogue(s). Forms of self-talk underpin a lot of higher decision making such as self-control, self-direction but also problem solving skills. This self-talk can be positive, or negative, despite it being potentially valuable and insightful as written down by the cult classic "[Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)" by Robert M. Pirsig. However, it remains largely a personal inner dialogue.
+
+But, not anymore I would argue. A surprisingly large group of people have long and [winding conversations with LLMs](https://arstechnica.com/information-technology/2023/10/people-are-speaking-with-chatgpt-for-hours-bringing-2013s-her-closer-to-reality/). One can see the sadness that ensues if these LLMs start replacing friendly phone calls, because LLMs are more convenient to talk to as always available and uniquely tuned to your character. But what about our inner-dialogues? 
+
+### outsourcing your inner-dialogue
+
+I think that at least some of us might be in danger of replacing their inner-dialogue with commercial for profit chat bots. These chat bots could make their internal conversation external. Surfacing your self-talk was previously the domain of psychologists or psychiatrists, this is now done under little supervision [at times with deadly consequences](https://www.vice.com/en/article/pkadgm/man-dies-by-suicide-after-talking-with-ai-chatbot-widow-says).
+
+Even without dramatic consequences, erosion of internal self-critical thought seems innocent but isn't. Students, well everybody really, need critical problem solving skills. These problem solving skills are eroding fast, on a very basic level running deeper than Google search or calculators, while being supercharged for others.
+
+For those who consciously use these LLMs, being careful on how to deploy them, might actually increase their self-critical skills as it gives them that additional external perspective previously conjured by [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging), a [Socratic (dialectic) method](https://en.wikipedia.org/wiki/Socratic_method) to problem solving. Much of this technology will further entrench social inequity, between those who unconsciously see their inner-voices replaced by commercial entities (for now without ads), and those that know how to game/use the system and mostly pay for quick access, privacy and an ad-free experience.
+
+I fear teaching critical problem solving skills will become more and more challenging in the years to come.
