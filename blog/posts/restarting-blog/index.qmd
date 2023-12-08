@@ -9,7 +9,7 @@ image: "featured.jpg"
 
 ![Photo by Jonas Allert on Unsplash](featured.jpg){.preview-image}
 
-I was unsure if I would take up blogging again, or just forward the domain name to [BlueGreen Labs](https://bluegreenlabs.org). But, a recent [Mastodon post by Carl T. Bergstrom](https://mastodon.social/@ct_bergstrom@fediscience.org/111197897996606862) made me realize the value of continuing after refactoring the website.
+I was unsure if I would take up personal blogging again. But, a recent [Mastodon post by Carl T. Bergstrom](https://mastodon.social/@ct_bergstrom@fediscience.org/111197897996606862) made me realize the value of continuing after refactoring the website.
 
 We are quickly going down the road of total enshitification of the web, due to the convincing nature of Large Language Model (LLM) output (think ChatGPT, Bard etc). The web will soon be filled with reams of auto-generated text not worth reading. To give you some context on where we are headed. Ever look up a recipe online these days? Notice how you had to scroll past pages of text on the life story of the author and why this recipe matters to them, while all you wanted was an ingredients list, food prep instructions and maybe a picture of how pasta puttanesca should look? This will be the web going forward, but EVERYWHERE. Finding trusted sources of information and worthwhile content to read will therefore come at a premium.
 

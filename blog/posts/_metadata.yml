@@ -24,9 +24,6 @@ execute:
 author:
   - name: Koen Hufkens
     url: https://khufkens.com
-    affiliation: BlueGreen Labs
-    affiliation-url: https://bluegreenlabs.org
-    orcid: 0000-0002-5070-8109
 
 # Default fields for citation
 citation: true
