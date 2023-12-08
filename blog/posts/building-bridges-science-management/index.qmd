@@ -1,7 +1,6 @@
 ---
 title: "Building bridges"
 subtitle: "getting to distant places easily"
-author: "Koen Hufkens"
 date: "2023-10-10"
 categories: [academia, management]
 draft: false

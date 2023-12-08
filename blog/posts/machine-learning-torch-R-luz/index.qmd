@@ -1,7 +1,6 @@
 ---
 title: "Torch/Keras in R"
 subtitle: "the ecosystem moves forward"
-author: "Koen Hufkens"
 date: "2023-10-30"
 categories: [R, machine learning]
 caption: "Photo by British Library on Unsplash"

@@ -1,7 +1,6 @@
 ---
 title: "Lost inner voices"
 subtitle: "the LLM impact on problem-solving"
-author: "Koen Hufkens"
 date: "2023-11-05"
 categories: [machine learning]
 draft: false
@@ -11,7 +10,9 @@ image-alt: ""
 
 ![The Simpsons, Old Man and the Key](featured.jpg){.preview-image}
 
-Over the past years I've seen a steady decline in the problem solving ability of students, and I fear large language models (LLMs), such as ChatGPT, might not do them any favour. Now, this might sound like an opinion of an "old man yells at cloud". [Google (search)](https://www.npr.org/2010/06/02/127370598/the-shallows-this-is-your-brain-online) and calculators were also once proposed to cause brain rot. But this cuts even deeper.
+Over the past years I've seen a steady decline in the problem solving ability of students. I fear large language models (LLMs), such as ChatGPT, might not do them a favour. 
+
+Now, this might sound like an opinion of an "old man yells at cloud". [Google (search)](https://www.npr.org/2010/06/02/127370598/the-shallows-this-is-your-brain-online) and calculators were also once proposed to cause brain rot. But this cuts even deeper.
 
 Most people have some form of [intrapersonal communication](https://en.wikipedia.org/wiki/Intrapersonal_communication) or inner-dialogue(s). Forms of self-talk underpin a lot of higher decision making such as self-control, self-direction but also problem solving skills. This self-talk can be positive, or negative, despite it being potentially valuable and insightful as written down by the cult classic "[Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)" by Robert M. Pirsig. However, it remains largely a personal inner dialogue.
 

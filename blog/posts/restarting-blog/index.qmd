@@ -1,7 +1,6 @@
 ---
 title: "Fresh start"
 subtitle: "a new look - fresh content"
-author: "Koen Hufkens"
 date: "2023-10-02"
 categories: [news]
 caption: "Photo by Jonas Allert on Unsplash"

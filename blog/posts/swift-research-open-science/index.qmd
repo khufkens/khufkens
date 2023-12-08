@@ -1,7 +1,6 @@
 ---
 title: "On swifts and open science"
 subtitle: "hard won battles in ornithology"
-author: "Koen Hufkens"
 date: "2023-11-04"
 categories: [ornithology, op-ed]
 draft: false

@@ -1,7 +1,6 @@
 ---
 title: "How to draw an owl"
 subtitle: "wise advice from an internet meme"
-author: "Koen Hufkens"
 date: "2023-10-28"
 categories: [management]
 draft: false
