@@ -19,14 +19,14 @@
 
 
 
-
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://khufkens.com/posts/lost-inner-voices-llm-impact-problem-solving-chatgpt-ml-teaching/featured.jpg" class="preview-image img-fluid figure-img"></p>
 <figcaption class="figure-caption">The Simpsons, Old Man and the Key</figcaption>
 </figure>
 </div>
-<p>Over the past years I’ve seen a steady decline in the problem solving ability of students, and I fear large language models (LLMs), such as ChatGPT, might not do them any favour. Now, this might sound like an opinion of an “old man yells at cloud”. <a href="https://www.npr.org/2010/06/02/127370598/the-shallows-this-is-your-brain-online">Google (search)</a> and calculators were also once proposed to cause brain rot. But this cuts even deeper.</p>
+<p>Over the past years I’ve seen a steady decline in the problem solving ability of students. I fear large language models (LLMs), such as ChatGPT, might not do them a favour.</p>
+<p>Now, this might sound like an opinion of an “old man yells at cloud”. <a href="https://www.npr.org/2010/06/02/127370598/the-shallows-this-is-your-brain-online">Google (search)</a> and calculators were also once proposed to cause brain rot. But this cuts even deeper.</p>
 <p>Most people have some form of <a href="https://en.wikipedia.org/wiki/Intrapersonal_communication">intrapersonal communication</a> or inner-dialogue(s). Forms of self-talk underpin a lot of higher decision making such as self-control, self-direction but also problem solving skills. This self-talk can be positive, or negative, despite it being potentially valuable and insightful as written down by the cult classic “<a href="https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance">Zen and the Art of Motorcycle Maintenance</a>” by Robert M. Pirsig. However, it remains largely a personal inner dialogue.</p>
 <p>But, not anymore I would argue. A surprisingly large group of people have long and <a href="https://arstechnica.com/information-technology/2023/10/people-are-speaking-with-chatgpt-for-hours-bringing-2013s-her-closer-to-reality/">winding conversations with LLMs</a> or have <a href="https://thehill.com/opinion/technology/4218666-ai-girlfriends-are-ruining-an-entire-generation-of-men/">AI girlfriends</a>. One can see the sadness that ensues if these LLMs start replacing friendly phone calls, because LLMs are more convenient to talk to as always available and uniquely tuned to your character. But what about our inner-dialogues?</p>
 <section id="outsourcing-your-inner-dialogue" class="level3">
@@ -39,7 +39,17 @@
 
 </section>
 
- ]]></description>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2023,
+  author = {Hufkens, Koen},
+  title = {Lost Inner Voices},
+  date = {2023-11-05},
+  url = {https://khufkens.com/posts/lost-inner-voices-llm-impact-problem-solving-chatgpt-ml-teaching},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2023" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2023. <span>“Lost Inner Voices.”</span> November 5, 2023.
+<a href="https://khufkens.com/posts/lost-inner-voices-llm-impact-problem-solving-chatgpt-ml-teaching">https://khufkens.com/posts/lost-inner-voices-llm-impact-problem-solving-chatgpt-ml-teaching</a>.
+</div></div></section></div> ]]></description>
   <category>machine learning</category>
   <guid>https://khufkens.com/posts/lost-inner-voices-llm-impact-problem-solving-chatgpt-ml-teaching/index.html</guid>
   <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
@@ -50,7 +60,6 @@
   <dc:creator>Koen Hufkens</dc:creator>
   <link>https://khufkens.com/posts/swift-research-open-science/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -74,7 +83,17 @@
 
 </section>
 
- ]]></description>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2023,
+  author = {Hufkens, Koen},
+  title = {On Swifts and Open Science},
+  date = {2023-11-04},
+  url = {https://khufkens.com/posts/swift-research-open-science},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2023" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2023. <span>“On Swifts and Open Science.”</span> November
+4, 2023. <a href="https://khufkens.com/posts/swift-research-open-science">https://khufkens.com/posts/swift-research-open-science</a>.
+</div></div></section></div> ]]></description>
   <category>ornithology</category>
   <category>op-ed</category>
   <guid>https://khufkens.com/posts/swift-research-open-science/index.html</guid>
@@ -86,7 +105,6 @@
   <dc:creator>Koen Hufkens</dc:creator>
   <link>https://khufkens.com/posts/machine-learning-torch-R-luz/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -103,7 +121,17 @@
 
 
 
- ]]></description>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2023,
+  author = {Hufkens, Koen},
+  title = {Torch/Keras in {R}},
+  date = {2023-10-30},
+  url = {https://khufkens.com/posts/machine-learning-torch-R-luz},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2023" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2023. <span>“Torch/Keras in R.”</span> October 30, 2023.
+<a href="https://khufkens.com/posts/machine-learning-torch-R-luz">https://khufkens.com/posts/machine-learning-torch-R-luz</a>.
+</div></div></section></div> ]]></description>
   <category>R</category>
   <category>machine learning</category>
   <guid>https://khufkens.com/posts/machine-learning-torch-R-luz/index.html</guid>
@@ -115,7 +143,6 @@
   <dc:creator>Koen Hufkens</dc:creator>
   <link>https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -146,7 +173,17 @@
 
 </section>
 
- ]]></description>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2023,
+  author = {Hufkens, Koen},
+  title = {How to Draw an Owl},
+  date = {2023-10-28},
+  url = {https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2023" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2023. <span>“How to Draw an Owl.”</span> October 28,
+2023. <a href="https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme">https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme</a>.
+</div></div></section></div> ]]></description>
   <category>management</category>
   <guid>https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme/index.html</guid>
   <pubDate>Sat, 28 Oct 2023 00:00:00 GMT</pubDate>
@@ -157,7 +194,6 @@
   <dc:creator>Koen Hufkens</dc:creator>
   <link>https://khufkens.com/posts/building-bridges-science-management/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -178,7 +214,17 @@
 
 
 
- ]]></description>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2023,
+  author = {Hufkens, Koen},
+  title = {Building Bridges},
+  date = {2023-10-10},
+  url = {https://khufkens.com/posts/building-bridges-science-management},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2023" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2023. <span>“Building Bridges.”</span> October 10, 2023.
+<a href="https://khufkens.com/posts/building-bridges-science-management">https://khufkens.com/posts/building-bridges-science-management</a>.
+</div></div></section></div> ]]></description>
   <category>academia</category>
   <category>management</category>
   <guid>https://khufkens.com/posts/building-bridges-science-management/index.html</guid>
@@ -190,7 +236,6 @@
   <dc:creator>Koen Hufkens</dc:creator>
   <link>https://khufkens.com/posts/restarting-blog/index.html</link>
   <description><![CDATA[ 
-
 
 
 
@@ -214,7 +259,16 @@
 
 
 
- ]]></description>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2023,
+  author = {Hufkens, Koen},
+  title = {Fresh Start},
+  date = {2023-10-02},
+  url = {https://khufkens.com/posts/restarting-blog},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2023" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2023. <span>“Fresh Start.”</span> October 2, 2023. <a href="https://khufkens.com/posts/restarting-blog">https://khufkens.com/posts/restarting-blog</a>.
+</div></div></section></div> ]]></description>
   <category>news</category>
   <guid>https://khufkens.com/posts/restarting-blog/index.html</guid>
   <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>

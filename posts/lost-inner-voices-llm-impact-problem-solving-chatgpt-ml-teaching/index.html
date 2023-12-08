@@ -123,47 +123,54 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Lost inner voices</h1>
-            <p class="subtitle lead">the LLM impact on problem-solving</p>
-                                <div class="quarto-categories">
-                <div class="quarto-category">machine learning</div>
-              </div>
-                  </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      <div>
-      <div class="quarto-title-meta-heading">Author</div>
-      <div class="quarto-title-meta-contents">
-               <p>Koen Hufkens </p>
-            </div>
-    </div>
-      
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">November 5, 2023</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Lost inner voices</h1>
+<p class="subtitle lead">the LLM impact on problem-solving</p>
+  <div class="quarto-categories">
+    <div class="quarto-category">machine learning</div>
+  </div>
+  </div>
 
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://khufkens.com">Koen Hufkens</a> <a href="https://orcid.org/0000-0002-5070-8109" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+  </div>
+    <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            <a href="https://bluegreenlabs.org">
+            BlueGreen Labs
+            </a>
+          </p>
+      </div>
+    </div>
 
+<div class="quarto-title-meta">
+
+      
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 5, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
@@ -171,7 +178,8 @@ ul.task-list li input[type="checkbox"] {
 <figcaption class="figure-caption">The Simpsons, Old Man and the Key</figcaption>
 </figure>
 </div>
-<p>Over the past years I’ve seen a steady decline in the problem solving ability of students, and I fear large language models (LLMs), such as ChatGPT, might not do them any favour. Now, this might sound like an opinion of an “old man yells at cloud”. <a href="https://www.npr.org/2010/06/02/127370598/the-shallows-this-is-your-brain-online">Google (search)</a> and calculators were also once proposed to cause brain rot. But this cuts even deeper.</p>
+<p>Over the past years I’ve seen a steady decline in the problem solving ability of students. I fear large language models (LLMs), such as ChatGPT, might not do them a favour.</p>
+<p>Now, this might sound like an opinion of an “old man yells at cloud”. <a href="https://www.npr.org/2010/06/02/127370598/the-shallows-this-is-your-brain-online">Google (search)</a> and calculators were also once proposed to cause brain rot. But this cuts even deeper.</p>
 <p>Most people have some form of <a href="https://en.wikipedia.org/wiki/Intrapersonal_communication">intrapersonal communication</a> or inner-dialogue(s). Forms of self-talk underpin a lot of higher decision making such as self-control, self-direction but also problem solving skills. This self-talk can be positive, or negative, despite it being potentially valuable and insightful as written down by the cult classic “<a href="https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance">Zen and the Art of Motorcycle Maintenance</a>” by Robert M. Pirsig. However, it remains largely a personal inner dialogue.</p>
 <p>But, not anymore I would argue. A surprisingly large group of people have long and <a href="https://arstechnica.com/information-technology/2023/10/people-are-speaking-with-chatgpt-for-hours-bringing-2013s-her-closer-to-reality/">winding conversations with LLMs</a> or have <a href="https://thehill.com/opinion/technology/4218666-ai-girlfriends-are-ruining-an-entire-generation-of-men/">AI girlfriends</a>. One can see the sadness that ensues if these LLMs start replacing friendly phone calls, because LLMs are more convenient to talk to as always available and uniquely tuned to your character. But what about our inner-dialogues?</p>
 <section id="outsourcing-your-inner-dialogue" class="level3">
@@ -184,7 +192,17 @@ ul.task-list li input[type="checkbox"] {
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2023,
+  author = {Hufkens, Koen},
+  title = {Lost Inner Voices},
+  date = {2023-11-05},
+  url = {https://khufkens.com/posts/lost-inner-voices-llm-impact-problem-solving-chatgpt-ml-teaching},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2023" class="csl-entry quarto-appendix-citeas" role="listitem">
+Hufkens, Koen. 2023. <span>“Lost Inner Voices.”</span> November 5, 2023.
+<a href="https://khufkens.com/posts/lost-inner-voices-llm-impact-problem-solving-chatgpt-ml-teaching">https://khufkens.com/posts/lost-inner-voices-llm-impact-problem-solving-chatgpt-ml-teaching</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
