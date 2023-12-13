@@ -1,0 +1,55 @@
+---
+title: "Brittle code"
+subtitle: "code debt and how to avoid it"
+date: "2023-12-13"
+categories: [management, code, archive]
+draft: false
+image: "featured.jpg"
+image-alt: "Photo by Tim Gouw on Unsplash"
+---
+
+![Photo by Paul Melki on Unsplash](featured.jpg){.preview-image}
+
+> From the archive
+
+Brittle code is code which is hard to maintain and or change. Large projects with brittle code accrue a technological / code debt. Depending on the size of the debt this debt will never be fully repaid, and if it escalates will grind a project to a halt.
+
+Brittle code and code debt is most commonly gathered over time due to a focus on features rather than a focus on maintainability and stability. An initial focus on features is common in growth phases, but consolidation and maintainability should be implemented before widespread use (commercially or privately in a lab setting). These are some tips to avoid brittle code.
+
+## Avoiding brittle code
+
+Brittle code is hard to maintain code. A number of factors affect the maintainability of codebases.
+
+- **dependencies**
+    
+    The more dependencies code has the more likely it will break. This situation is critically illustrated by the cartoon below. By extension, never build code on immature external codebases. Maturing code is prone to ad-hoc changes, depreciation of features etc. Keep track of your dependencies!
+    
+- **size vs. functionality**
+    
+    The larger a codebase the harder it is to maintain, the larger the code debt it carries. Keep projects as large as the basic functionality requires. Extra functionality should reside in a new codebase. Large projects can be split up, but again this comes at a large code debt. It is best to not let a codebase grow beyond its basic use.
+    
+
+- **documentation**
+    
+    Document code while you write it, this includes annotations but also formal documentation for users. Putting off writing the documentation and its framework until last will increase your code debt. For formal releases and well documented code consider that up to 50% of your time will be dedicated to documenting user and developer documentation.
+    
+    Yes, this seems tedious and not necessary at the time, and it isn't as sexy as implementing that new feature. BUT, if you return to old code and can't figure out what is going on by reading along you will gather more code debt than it would have cost you to document things up front.
+    
+- **unit tests**
+    
+    Together with documentation unit tests should be written. This validates the functioning of the code, and ensures that any pull requests submitted works as intended. Failing to do so will increase the code debt of a project, if not that of a colleagues by forwarding issues downstream.
+    
+
+- **branches should be short lived**
+    
+    Branches should be short lived and have one particular focus. Stale branches should be deleted. Side development is probably best done in a forked version independent of the main project. Again, long lived branches will gather many functions. These new functions if out of sync with the main branch will create conflicts with other ongoing development. This will generated failed unit tests, and a general brittle state of the codebase. Branch, fix, merge. If a branch is older than two weeks it should probably been a fork (i.e. experimental features - or formal research project, or the assigned taskset is too large - split it up).
+    
+- **code for the reader**
+    
+    Code for the reader of the code. Compiled code (packages) ignores comments. There is no need to be clever and "short". Comment what you do in front of chunks (not in chunks as this will overrun line length constraints and give all kinds of compilation issues). Avoid one-liners (nested / piped functions), in this regard the R {tidyverse} and its piped setup can quickly become painful in terms of readability, as it violates this rule. Use the R {tidyverse} sparingly with short piped sections, as it is hard to read / debug with longer constructs.
+    
+- **personal & team responsibility**
+    
+    As a team you decide to keep code debt low. You don't have the right to break a code base with the expectation that someone else on the team will fix it (see unit tests above).
+    
+![](https://imgs.xkcd.com/comics/dependency.png)
