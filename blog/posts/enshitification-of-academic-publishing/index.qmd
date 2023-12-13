@@ -30,7 +30,7 @@ Increasingly, those same users and business customers are squeezed in other plac
 
 ### A way out of enshitification
 
-One has to question, when will this system break? Currently what gets published [outpaces the admission of new PhDs](https://fediscience.org/@MarkHanson/111147239095599059). One can argue that the vast amount of research published today is either fake or only there to boost someone's h-index, not the creative enterprise which is science. Sadly, most efforts to address this [strong-link problem](https://www.experimental-history.com/p/science-is-a-strong-link-problem) are on the weak and wrong end of the problem. Listing all predatory journals doesn't make the good (society) journals stand out more.
+One has to question, when will this system break? Currently what gets published [outpaces the admission of new PhDs](https://fediscience.org/@MarkHanson/111147239095599059). One can argue that the vast amounts of research published today is either fake or only there to boost someone's h-index, not the creative enterprise which is science. Sadly, most efforts to address this [strong-link problem](https://www.experimental-history.com/p/science-is-a-strong-link-problem) are on the weak and wrong end of the problem. Listing all predatory journals doesn't make the good (society) journals stand out more.
 
 A true measure of excellence would require a contextual analysis of scientific research, not only counting citations. Where the creation of Large Language Models might further pollute academic publishing the underlying Natural Language Processing (NLP) methods could offer solutions to provide contextual analysis. But here metrics might soon become the target once more, rather than a means of fair assessment.
 
