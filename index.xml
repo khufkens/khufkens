@@ -10,7 +10,68 @@
 <atom:link href="https://khufkens.com/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 12 Dec 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 13 Dec 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Brittle code</title>
+  <dc:creator>Koen Hufkens</dc:creator>
+  <link>https://khufkens.com/posts/on-brittle-code-code-debt-and-how-to-avoid-it/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://khufkens.com/posts/on-brittle-code-code-debt-and-how-to-avoid-it/featured.jpg" class="preview-image img-fluid figure-img"></p>
+<figcaption class="figure-caption">Photo by Paul Melki on Unsplash</figcaption>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p>From the archive</p>
+</blockquote>
+<p>Brittle code is code which is hard to maintain and or change. Large projects with brittle code accrue a technological / code debt. Depending on the size of the debt this debt will never be fully repaid, and if it escalates will grind a project to a halt.</p>
+<p>Brittle code and code debt is most commonly gathered over time due to a focus on features rather than a focus on maintainability and stability. An initial focus on features is common in growth phases, but consolidation and maintainability should be implemented before widespread use (commercially or privately in a lab setting). These are some tips to avoid brittle code.</p>
+<section id="avoiding-brittle-code" class="level2">
+<h2 class="anchored" data-anchor-id="avoiding-brittle-code">Avoiding brittle code</h2>
+<p>Brittle code is hard to maintain code. A number of factors affect the maintainability of codebases.</p>
+<ul>
+<li><p><strong>dependencies</strong></p>
+<p>The more dependencies code has the more likely it will break. This situation is critically illustrated by the cartoon below. By extension, never build code on immature external codebases. Maturing code is prone to ad-hoc changes, depreciation of features etc. Keep track of your dependencies!</p></li>
+<li><p><strong>size vs.&nbsp;functionality</strong></p>
+<p>The larger a codebase the harder it is to maintain, the larger the code debt it carries. Keep projects as large as the basic functionality requires. Extra functionality should reside in a new codebase. Large projects can be split up, but again this comes at a large code debt. It is best to not let a codebase grow beyond its basic use.</p></li>
+<li><p><strong>documentation</strong></p>
+<p>Document code while you write it, this includes annotations but also formal documentation for users. Putting off writing the documentation and its framework until last will increase your code debt. For formal releases and well documented code consider that up to 50% of your time will be dedicated to documenting user and developer documentation.</p>
+<p>Yes, this seems tedious and not necessary at the time, and it isn’t as sexy as implementing that new feature. BUT, if you return to old code and can’t figure out what is going on by reading along you will gather more code debt than it would have cost you to document things up front.</p></li>
+<li><p><strong>unit tests</strong></p>
+<p>Together with documentation unit tests should be written. This validates the functioning of the code, and ensures that any pull requests submitted works as intended. Failing to do so will increase the code debt of a project, if not that of a colleagues by forwarding issues downstream.</p></li>
+<li><p><strong>branches should be short lived</strong></p>
+<p>Branches should be short lived and have one particular focus. Stale branches should be deleted. Side development is probably best done in a forked version independent of the main project. Again, long lived branches will gather many functions. These new functions if out of sync with the main branch will create conflicts with other ongoing development. This will generated failed unit tests, and a general brittle state of the codebase. Branch, fix, merge. If a branch is older than two weeks it should probably been a fork (i.e.&nbsp;experimental features - or formal research project, or the assigned taskset is too large - split it up).</p></li>
+<li><p><strong>code for the reader</strong></p>
+<p>Code for the reader of the code. Compiled code (packages) ignores comments. There is no need to be clever and “short”. Comment what you do in front of chunks (not in chunks as this will overrun line length constraints and give all kinds of compilation issues). Avoid one-liners (nested / piped functions), in this regard the R {tidyverse} and its piped setup can quickly become painful in terms of readability, as it violates this rule. Use the R {tidyverse} sparingly with short piped sections, as it is hard to read / debug with longer constructs.</p></li>
+<li><p><strong>personal &amp; team responsibility</strong></p>
+<p>As a team you decide to keep code debt low. You don’t have the right to break a code base with the expectation that someone else on the team will fix it (see unit tests above).</p></li>
+</ul>
+<p><img src="https://khufkens.com/posts/on-brittle-code-code-debt-and-how-to-avoid-it/https:/imgs.xkcd.com/comics/dependency.png" class="img-fluid"></p>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2023,
+  author = {Hufkens, Koen},
+  title = {Brittle Code},
+  date = {2023-12-13},
+  url = {https://khufkens.com/posts/on-brittle-code-code-debt-and-how-to-avoid-it},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2023" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2023. <span>“Brittle Code.”</span> December 13, 2023. <a href="https://khufkens.com/posts/on-brittle-code-code-debt-and-how-to-avoid-it">https://khufkens.com/posts/on-brittle-code-code-debt-and-how-to-avoid-it</a>.
+</div></div></section></div> ]]></description>
+  <category>management</category>
+  <category>code</category>
+  <category>archive</category>
+  <guid>https://khufkens.com/posts/on-brittle-code-code-debt-and-how-to-avoid-it/index.html</guid>
+  <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://khufkens.com/posts/on-brittle-code-code-debt-and-how-to-avoid-it/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Burn the candle at both ends</title>
   <dc:creator>Koen Hufkens</dc:creator>
