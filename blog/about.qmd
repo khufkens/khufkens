@@ -11,6 +11,4 @@ about:
 
 ---
 
-As an earth system scientist and ecologist I model ecosystem processes. For more information on my scientific work I refer to [BlueGreen Labs](https://bluegreenlabs.org).
-
-Here you will find my reading, writing and some observations on work, life, science and academia.
+Here you find my reading, writing and some observations on work, life, science and academia. Most things are written over morning coffee or during my commute/travels. This writing is stream of thought with sparse punctuation. Yet, I hope some of it might inspire others. This writing are my own opinion pieces, although they might serve as foundations for more well researched work. For all my scientific work I refer to [BlueGreen Labs](https://bluegreenlabs.org).
