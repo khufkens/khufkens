@@ -8,7 +8,7 @@ image: "featured.jpg"
 image-alt: "Photo by 2y.kang on Unsplash"
 ---
 
-![Photo by Paul Melki on Unsplash](featured.jpg){.preview-image}
+![Photo by 2y.kang on Unsplash](featured.jpg){.preview-image}
 
 The end of the semester is near and code assignments are due. From what I see I can only be proud of the whole class group, with generally well structured projects and clean code.
 
