@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Koen Hufkens"
+  title: "Morning musings"
   site-url: https://khufkens.com
   open-graph: true
   twitter-card:

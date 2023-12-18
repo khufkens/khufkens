@@ -1,0 +1,27 @@
+---
+title: "The dying light and the impossibly bright"
+subtitle: "the imminent decline of terrestrial astronomy"
+date: "2023-12-18"
+categories: [astronomy, environment]
+draft: false
+image: "featured.jpg"
+image-alt: "Photo by Robson Hatsukami Morgan on Unsplash"
+---
+
+![Photo by Robson Hatsukami Morgan on Unsplash](featured.jpg){.preview-image}
+
+Growing up in Flanders, among the most light polluted areas in the world and the poorest place to attempt to watch the night sky from, I'm keenly aware that light pollution has always plagued visible astronomy observations in more densely populated areas. However, due to the mercury lamps and their narrow spectrum, fixes were available for visible astronomy. 
+
+The trend to replace mercury street lights with the more [energy efficient LED lamps has turned the tables on this fix, and has made light polllution worse](https://www.nationalgeographic.com/science/article/light-pollution-energy-LED-bulbs-spd). The spectrum of these lights is broader, and therefore harder to filter out. The use of proper lamp fixtures, reducing the use of lights on roads after peak rush hours is more important than ever. For these earth-bound light pollution problems policy and engineering solutions can easily be found. Yet, a new breed of light pollution is far harder to fix, namely space bound / satellite based light pollution.
+
+In recent years, large constellations of satellites have been launched in support of satellite based internet providers such as SpaceX's Starlink. Starlink alone doubled the orbiting satellites as of writing, where this does not even represents the full constellation! Many more will follow for a similar project the Amazon's Kuiper project. These platforms, and other private satellites, reflect the Sun's light and brighten the night sky's background ever so slightly. 
+
+Where for the public the effect might be aesthetic, for astronomers, when zooming in on a small fraction of the sky, these reflections will show up as intrusive streaks across astronomical images acquired for research. In an [opinion piece in Nature](https://www.nature.com/articles/d41586-023-03610-5), Dr. Sam Lawler describes the full impact of this satellite based light pollution on terrestrial astronomy observations. The take home is that there is little accountability on these matters.
+
+## No accountability
+
+Currently, at least two billionaires consider space their private playground, with only partially considering pleas on addressing these light pollution (and other environmental) issues. [Changes are considered where technology allows it](https://www.space.com/satellite-megaconstellations-astronomy-dark-skies), but by and large they force a brighter sky on everyone, hampering research but also space security efforts in monitoring near-earth objects. This untouchable position on how to use space is distressing, but not different from the indifference to public resources of these private companies. In an aside, on the social network Mastodon she also documented the full impact of the legal aspects of this problem. Not only was the article tone policed by the lawyers of Nature, in fear of lawsuits, it was also tacitly acknowledged by the editor that terrestrial based astronomy is mostly on the way out.
+
+<iframe src="https://mastodon.social/@sundogplanets/111596415770041004/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
+
+In this context space based astronomy can not replace terrestrial observations due to the limited capacity of space-borne platforms. More so, depending on the orbit these space telescopes might not be free of the same interference either if flying lower than the offending satellite constellations. It is clear that even outer space and orbital trajectories can become congested, if not dangerously so (e.g. [the Kessler syndrome](https://en.wikipedia.org/wiki/Kessler_syndrome)). Let's hope that these platforms will show due diligence in cleaning up their act, as well as properly de-orbiting their satellites after use and decreasing their surface brightness dramatically to save our night sky. Little time is left to show these intentions, if not regulation should guarantee all these aspects.
