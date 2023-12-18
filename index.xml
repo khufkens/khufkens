@@ -5,12 +5,58 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Koen Hufkens</title>
+<title>Morning musings</title>
 <link>https://khufkens.com/index.html</link>
 <atom:link href="https://khufkens.com/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Sat, 16 Dec 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 18 Dec 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>The dying light and the impossibly bright</title>
+  <dc:creator>Koen Hufkens</dc:creator>
+  <link>https://khufkens.com/posts/the-dying-light-the-death-of-terrestrial-astronomy/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://khufkens.com/posts/the-dying-light-the-death-of-terrestrial-astronomy/featured.jpg" class="preview-image img-fluid figure-img"></p>
+<figcaption class="figure-caption">Photo by Robson Hatsukami Morgan on Unsplash</figcaption>
+</figure>
+</div>
+<p>Growing up in Flanders, among the most light polluted areas in the world and the poorest place to attempt to watch the night sky from, I’m keenly aware that light pollution has always plagued visible astronomy observations in more densely populated areas. However, due to the mercury lamps and their narrow spectrum, fixes were available for visible astronomy.</p>
+<p>The trend to replace mercury street lights with the more <a href="https://www.nationalgeographic.com/science/article/light-pollution-energy-LED-bulbs-spd">energy efficient LED lamps has turned the tables on this fix, and has made light polllution worse</a>. The spectrum of these lights is broader, and therefore harder to filter out. The use of proper lamp fixtures, reducing the use of lights on roads after peak rush hours is more important than ever. For these earth-bound light pollution problems policy and engineering solutions can easily be found. Yet, a new breed of light pollution is far harder to fix, namely space bound / satellite based light pollution.</p>
+<p>In recent years, large constellations of satellites have been launched in support of satellite based internet providers such as SpaceX’s Starlink. Starlink alone doubled the orbiting satellites as of writing, where this does not even represents the full constellation! Many more will follow for a similar project the Amazon’s Kuiper project. These platforms, and other private satellites, reflect the Sun’s light and brighten the night sky’s background ever so slightly.</p>
+<p>Where for the public the effect might be aesthetic, for astronomers, when zooming in on a small fraction of the sky, these reflections will show up as intrusive streaks across astronomical images acquired for research. In an <a href="https://www.nature.com/articles/d41586-023-03610-5">opinion piece in Nature</a>, Dr.&nbsp;Sam Lawler describes the full impact of this satellite based light pollution on terrestrial astronomy observations. The take home is that there is little accountability on these matters.</p>
+<section id="no-accountability" class="level2">
+<h2 class="anchored" data-anchor-id="no-accountability">No accountability</h2>
+<p>Currently, at least two billionaires consider space their private playground, with only partially considering pleas on addressing these light pollution (and other environmental) issues. <a href="https://www.space.com/satellite-megaconstellations-astronomy-dark-skies">Changes are considered where technology allows it</a>, but by and large they force a brighter sky on everyone, hampering research but also space security efforts in monitoring near-earth objects. This untouchable position on how to use space is distressing, but not different from the indifference to public resources of these private companies. In an aside, on the social network Mastodon she also documented the full impact of the legal aspects of this problem. Not only was the article tone policed by the lawyers of Nature, in fear of lawsuits, it was also tacitly acknowledged by the editor that terrestrial based astronomy is mostly on the way out.</p>
+<iframe src="https://mastodon.social/@sundogplanets/111596415770041004/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen">
+</iframe>
+<script src="https://mastodon.social/embed.js" async="async"></script>
+<p>In this context space based astronomy can not replace terrestrial observations due to the limited capacity of space-borne platforms. More so, depending on the orbit these space telescopes might not be free of the same interference either if flying lower than the offending satellite constellations. It is clear that even outer space and orbital trajectories can become congested, if not dangerously so (e.g.&nbsp;<a href="https://en.wikipedia.org/wiki/Kessler_syndrome">the Kessler syndrome</a>). Let’s hope that these platforms will show due diligence in cleaning up their act, as well as properly de-orbiting their satellites after use and decreasing their surface brightness dramatically to save our night sky. Little time is left to show these intentions, if not regulation should guarantee all these aspects.</p>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2023,
+  author = {Hufkens, Koen},
+  title = {The Dying Light and the Impossibly Bright},
+  date = {2023-12-18},
+  url = {https://khufkens.com/posts/the-dying-light-the-death-of-terrestrial-astronomy},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2023" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2023. <span>“The Dying Light and the Impossibly
+Bright.”</span> December 18, 2023. <a href="https://khufkens.com/posts/the-dying-light-the-death-of-terrestrial-astronomy">https://khufkens.com/posts/the-dying-light-the-death-of-terrestrial-astronomy</a>.
+</div></div></section></div> ]]></description>
+  <category>astronomy</category>
+  <category>environment</category>
+  <guid>https://khufkens.com/posts/the-dying-light-the-death-of-terrestrial-astronomy/index.html</guid>
+  <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://khufkens.com/posts/the-dying-light-the-death-of-terrestrial-astronomy/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>End of semester lessons</title>
   <dc:creator>Koen Hufkens</dc:creator>
