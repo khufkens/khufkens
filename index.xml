@@ -10,7 +10,47 @@
 <atom:link href="https://khufkens.com/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Wed, 13 Dec 2023 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 16 Dec 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>End of semester lessons</title>
+  <dc:creator>Koen Hufkens</dc:creator>
+  <link>https://khufkens.com/posts/end-of-semester-and-reflections-on-data-management/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://khufkens.com/posts/end-of-semester-and-reflections-on-data-management/featured.jpg" class="preview-image img-fluid figure-img"></p>
+<figcaption class="figure-caption">Photo by Paul Melki on Unsplash</figcaption>
+</figure>
+</div>
+<p>The end of the semester is near and code assignments are due. From what I see I can only be proud of the whole class group, with generally well structured projects and clean code.</p>
+<p>We live in a world of search and ChatGPT, which make the task of <a href="https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z">teaching data science</a> at times difficult. There is the obvious proliferation of the poor code snippets, but at the heart of it all this sits the ability to easily search unstructured data.</p>
+<p>All students have known a world without effective digital search, with <a href="https://en.wikipedia.org/wiki/Google">Google launching in ~1998</a>. Search dominates everything from laptop menus and smartphones alike. Incentives to sort or structure data are far and few between in their digital world. Yet, in absence of effective search unstructured data is the curse of anyone who needs to curate it - or when collaborating in a team setting. The assumption that effective search will always be available is also a flawed one.</p>
+<p>Current advances in LLM now have the ability to expand search past mere indexing into the domain of context aware classification and prompt-based interrogation of digital documents. For example <a href="https://www.bing.com/search?q=Bing+AI&amp;showconv=1&amp;FORM=hpcodx">Bing co-pilot</a> now offers Retrieval-Augmented Generation abilities for free in their search (where search queries “read” webpages and other documents). However, searching through increasing amounts of unstructured data in need of contextualization is predicated on vast amounts of computational power, and does not provide a solution for sharing these searched collections with others.</p>
+<p>I’ve always taken the position that small upfront investments in decreasing the cognitive load can vastly improve the ability to search/order data yourself. This is reflected in my data science approaches, providing <a href="https://github.com/bluegreen-labs#teaching-workflows-books">templates</a> for writing software, managing data and organizing research. These techniques are far from new, <a href="https://en.wikipedia.org/wiki/Zettelkasten">as any librarian will tell you</a>. Libraries used to operate on principles of indexed systems. Everything needs its place and an index structure to be easily searched, without search algorithms.</p>
+<p>This semester the students managed to expand their skills both in data science coding, but most importantly in my opinion, in managing their projects cleanly in order to more easily collaborate with others (and their future selves). I think the approach suggested was a gentle introduction on why structure matters, without going full Marie Kondo. I hope these skills serve them well.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div id="quarto-reuse" class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></div></div></section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2023,
+  author = {Hufkens, Koen},
+  title = {End of Semester Lessons},
+  date = {2023-12-16},
+  url = {https://khufkens.com/posts/end-of-semester-and-reflections-on-data-management},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2023" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2023. <span>“End of Semester Lessons.”</span> December
+16, 2023. <a href="https://khufkens.com/posts/end-of-semester-and-reflections-on-data-management">https://khufkens.com/posts/end-of-semester-and-reflections-on-data-management</a>.
+</div></div></section></div> ]]></description>
+  <category>teaching</category>
+  <category>code</category>
+  <guid>https://khufkens.com/posts/end-of-semester-and-reflections-on-data-management/index.html</guid>
+  <pubDate>Sat, 16 Dec 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://khufkens.com/posts/end-of-semester-and-reflections-on-data-management/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Brittle code</title>
   <dc:creator>Koen Hufkens</dc:creator>
