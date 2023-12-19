@@ -10,7 +10,9 @@ image-alt: "Photo by Robson Hatsukami Morgan on Unsplash"
 
 ![Photo by Robson Hatsukami Morgan on Unsplash](featured.jpg){.preview-image}
 
-Growing up in Flanders, among the most light polluted areas in the world and the poorest place to attempt to watch the night sky from, I'm keenly aware that light pollution has always plagued visible astronomy observations in more densely populated areas. However, due to the mercury lamps and their narrow spectrum, fixes were available for visible astronomy. 
+Terrestrial astronomy, and the cultural heritage which is our night sky, is being threatened by new sources of light pollution. These new sources of light pollution stem from developing technologies and are harder to mitigate, due to physics and the lack of accountability.
+
+Growing up in Flanders, among the most light polluted areas in the world and the poorest place to attempt to watch the night sky from, I'm keenly aware that light pollution has always plagued visible astronomy observations in more densely populated areas. However, due to the mercury lamps and their narrow spectrum, fixes were available for visible astronomy.
 
 The trend to replace mercury street lights with the more [energy efficient LED lamps has turned the tables on this fix, and has made light polllution worse](https://www.nationalgeographic.com/science/article/light-pollution-energy-LED-bulbs-spd). The spectrum of these lights is broader, and therefore harder to filter out. The use of proper lamp fixtures, reducing the use of lights on roads after peak rush hours is more important than ever. For these earth-bound light pollution problems policy and engineering solutions can easily be found. Yet, a new breed of light pollution is far harder to fix, namely space bound / satellite based light pollution.
 
