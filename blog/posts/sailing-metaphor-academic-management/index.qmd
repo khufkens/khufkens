@@ -1,0 +1,36 @@
+---
+title: "How to sail and crew a lab"
+subtitle: "staying the course in research"
+date: "2023-12-21"
+categories: [academia, management]
+draft: true
+image: "featured.jpg"
+---
+
+![Photo by insung yoon on Unsplash](featured.jpg){.preview-image}
+
+There are lots of commonalities between running a small lab and running a sailboat. These are some lessons from sailing which apply to a general management context of small to medium sized labs / ventures. Most of this advice, which relies a lot on systems thinking, can be found elsewhere stripped of the sailing context - but given the sink or swim consequences of a failing sailboat these examples might be more convincing.
+
+## What is a captain?
+
+Moving into a leadership position is a big step. But, one has to remember, captains don't sail. Captains set a course, and only helm the rough waters. Their job is to oversee the whole boat, put people in their strongest position (harm reduction), lift people above their own perceived capacity through selective exposure (mentoring), and foster mutual aid and redundancy in skills. Above all, final responsibility and duty of care always sits with the captain ([this is the law](https://en.wikipedia.org/wiki/Sea_captain)).
+
+It is often said that the most important person on a sailboat is the cook, here long distance sailors [Lin and Larry Pardey agree](https://cardinalpub.com/product/care-feeding-sailing-crew/). However, if the cook gets sea-sick below deck the first week off-shore it is up to the captain to rotate the cook out of this position to a place on deck, until they find their footing. It is better to have some -ok- food, than a cook throwing up all over a galley. A failure to protect the crew is a failure as a captain. The price will be paid in the form of a lack of security, trust and performance.
+
+## Stay the course
+
+You can't sail directly upwind, you have to [tack](https://en.wikipedia.org/wiki/Tacking_(sailing)). But, getting to a goal along the shortest route therefore isn't always the fastest. There is an inherent cost to course corrections. Know when to act (tack) fast, and when to stay the course for longer. Factoring in the cost of short tacking upwind makes the difference between an exhausted crew and a well rested one which can make up for the distance by making less mistakes.
+
+More so, don't sail to where the best wind is (it will be gone by the time you get there). Sail your own race, i.e. don't run after the latest fad or hype. Does anyone still remember [NFTs](https://web3isgoinggreat.com/)?
+
+## Think upside down
+
+Things can and will go sideways, that's life, and you can get broadsided by [freak waves](https://en.wikipedia.org/wiki/Rogue_wave). If you get impaled by cutlery flying through the galley is however your own fault. Think about scenarios before they unfold. Especially single points of failure need to be recognized well beforehand, so strap down cutlery when you don't need it.
+
+## Mind the weather and your environment
+
+The context of where you (will) sail determines how you sail. Read the weather charts, and don't rush through bad weather. Few boats weather storms well, avoid trouble when you see it coming and skirt along side it. Similarly, not knowing your surroundings well can be a disaster. Always prepare yourself before you set sail, or make sure that the circumstances are good enough to navigate. Entering an unknown reef or harbour by night is a recipe for disaster.
+
+## The tipping jar
+
+Invest in maintaining your crew and vessel when you have capacity to spare (deposit in the tip jar), only to rely on it when things get rough (withdrawals from the tip jar). If the jar is continuously empty you will have no capacity in rough times. You will have mutiny on your hands and might walk the plank. It pays to invest in infrastructure and crew. Overdrafts are not allowed.
