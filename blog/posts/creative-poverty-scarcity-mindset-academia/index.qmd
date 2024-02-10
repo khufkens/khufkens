@@ -3,7 +3,7 @@ title: "Creative and intellectual poverty"
 subtitle: "On the scarcity mindset in academia"
 date: "2024-01-18"
 categories: [academia, management, op-ed]
-draft: true
+draft: false
 image: "featured.jpg"
 image-alt: "Photo by Renzo D'souza on Unsplash"
 ---
