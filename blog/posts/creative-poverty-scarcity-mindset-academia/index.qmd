@@ -8,7 +8,7 @@ image: "featured.jpg"
 image-alt: "Photo by Renzo D'souza on Unsplash"
 ---
 
-Academia suffers from cognitive and intellectual poverty due to a persistent scarcity mindset (imposed by poor incentives). It is well documented that financially poor people [suffer from a scarcity mindset](https://www.apa.org/monitor/2014/02/scarcity), which erodes core cognitive functions. This scarcity mindsets clouds decisions, prioritizing small short-term gains over long-term larger profits by affecting planning ability.
+Academia suffers from cognitive and intellectual poverty due to a persistent (time) scarcity mindset (imposed by poor incentives). It is well documented that financially poor people [suffer from a scarcity mindset](https://www.apa.org/monitor/2014/02/scarcity), which erodes core cognitive functions. This scarcity mindsets clouds decisions, prioritizing small short-term gains over long-term larger profits by affecting planning ability.
 
 A recent studies highlighted the decline in [disruptive science](https://www.nature.com/articles/d41586-022-04577-5) (Kozlov, Nature 2023) and [record number of paper retractions](https://www.nature.com/articles/d41586-023-03974-8) (Van Noorden, Nature 2023). I would argue that this, in part, is driven by a scarcity mindset leading to creative and intellectual poverty.
 
