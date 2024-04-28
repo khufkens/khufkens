@@ -1,63 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://khufkens.com/posts/from-the-archive-the-sharing-economy/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.645Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/posts/restarting-blog/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.649Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/posts/on-brittle-code-code-debt-and-how-to-avoid-it/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.649Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/posts/enshitification-of-academic-publishing/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.645Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/posts/swift-research-open-science/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.649Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/posts/lost-inner-voices-llm-impact-problem-solving-chatgpt-ml-teaching/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.649Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/about.html</loc>
-    <lastmod>2024-02-10T11:57:40.645Z</lastmod>
-  </url>
-  <url>
     <loc>https://khufkens.com/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.645Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/posts/creative-poverty-scarcity-mindset-academia/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.645Z</lastmod>
+    <lastmod>2024-04-28T17:26:23.614Z</lastmod>
   </url>
   <url>
     <loc>https://khufkens.com/posts/poor-failure-modes-climate-change/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.649Z</lastmod>
+    <lastmod>2024-04-28T17:26:23.618Z</lastmod>
   </url>
   <url>
-    <loc>https://khufkens.com/posts/machine-learning-torch-R-luz/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.649Z</lastmod>
+    <loc>https://khufkens.com/posts/swift-research-open-science/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.618Z</lastmod>
   </url>
   <url>
-    <loc>https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.649Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/posts/the-dying-light-the-death-of-terrestrial-astronomy/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.649Z</lastmod>
-  </url>
-  <url>
-    <loc>https://khufkens.com/posts/end-of-semester-and-reflections-on-data-management/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.645Z</lastmod>
+    <loc>https://khufkens.com/posts/good-AI-bad-AI/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.618Z</lastmod>
   </url>
   <url>
     <loc>https://khufkens.com/posts/building-bridges-science-management/index.html</loc>
-    <lastmod>2024-02-10T11:57:40.645Z</lastmod>
+    <lastmod>2024-04-28T17:26:23.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/from-the-archive-the-sharing-economy/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/lost-inner-voices-llm-impact-problem-solving-chatgpt-ml-teaching/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.618Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/about.html</loc>
+    <lastmod>2024-04-28T17:26:23.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/enshitification-of-academic-publishing/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/creative-poverty-scarcity-mindset-academia/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/the-dying-light-the-death-of-terrestrial-astronomy/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.622Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/restarting-blog/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.618Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/how-to-draw-an-owl-advice-from-a-meme/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.618Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/machine-learning-torch-R-luz/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.618Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/end-of-semester-and-reflections-on-data-management/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://khufkens.com/posts/on-brittle-code-code-debt-and-how-to-avoid-it/index.html</loc>
+    <lastmod>2024-04-28T17:26:23.618Z</lastmod>
   </url>
 </urlset>

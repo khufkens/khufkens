@@ -9,8 +9,55 @@
 <link>https://khufkens.com/</link>
 <atom:link href="https://khufkens.com/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.549</generator>
-<lastBuildDate>Sat, 10 Feb 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.553</generator>
+<lastBuildDate>Sun, 28 Apr 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Good AI, Bad AI</title>
+  <dc:creator>Koen Hufkens</dc:creator>
+  <link>https://khufkens.com/posts/good-AI-bad-AI/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://khufkens.com/posts/good-AI-bad-AI/featured.jpg" class="preview-image img-fluid figure-img"></p>
+<figcaption>Photo by Kevin Ku on Unsplash</figcaption>
+</figure>
+</div>
+<p>Research could greatly benefit from machine learning (these days called AI ). But, as always automation begs the question ‘cui bono’, who benefits. In this context two barriers for equitable AI crystallize. On the one hand the question of fair and well compensated labour, on the other hand the issue of monopolization and concentration of AI power.</p>
+<p>In a recent piece in PNAS the advantages of AI in a lab setting are outlined. This editorial is wildly enthousiastic about the potential of AI to increase research outputs, deal with drudgery of lab work and reduce costs by pooling resources.</p>
+<p><a href="https://www.pnas.org/doi/10.1073/pnas.2406320121">https://www.pnas.org/doi/10.1073/pnas.2406320121</a></p>
+<p>Although some of these talking points are valid, and efficiency gains can be beneficial it is all too clear that the human perspective in this context was lost. These AI lab machines will most likely, but not necessarily, decrease the number of jobs. However, for they sure will create poor quality jobs. Amazon has recently shown that <a href="https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116">AI cosplay has been a front for outsourcing cashier jobs to “mechanical turks” abroad</a>.</p>
+<p>Having worked in (wet) labs myself, technicians are critical to the functioning of a lab and provide strategic feedback on experimental design. However, technicians are often overlooked - deemed easily replaced and or automated away - and the ultimate target of the PNAS article.</p>
+<p>At a most basic level the future of a lab, as described in the article, is one where the lab technician is relegated to the basement to tend to a zoo of buzzing machines, churning jobs to the demand of a ticketing system while having even less social interaction than a line worker in an auto plant. This is a rather bleak future of what a lab could look like. More so, it is disingenuous and hides the fact that this isn’t an AI revolution, it is a way to justify debasing someone’s work conditions using the threat of AI.</p>
+<blockquote class="blockquote">
+<p>As noted in the PNAS article “At Emerald Cloud Lab, researchers and students can order experiments online. A combination of robotic instrumentation and <strong>trained technicians</strong> will perform the experiments as specified.” (emphasis my own)</p>
+</blockquote>
+<p>People could always be put in a central facility with a ticketing system and a slew of machines to tend to. Until now, that argument wasn’t nearly as appealing if you can’t threaten the lab techs involved with the argument that they should shut up, abandon their unions, or they will be replaced completely by machines - tomorrow. AI as blackmail. During every technological revolution jobs were created, but ultimately many were destroyed as well with people’s livelihoods put on the line - here and now. Many more jobs decreased in quality and compensation.</p>
+<p>Many researchers think they will be able to escape this precarity dance, if not gain some edge. I would agree, AI will increase the speed of some tasks significantly and open research avenues. I’ve leveraged some of this in the past myself. However, what many people have lost sight of is that most of these tools are (already) being centralized (in monopolies). Large foundation models, underpinning “cutting edge” research, can only be produced by very large commercial labs. To be of note in such a research environment requires money, connections or both. This further dispels the myth of merit in research, and shows the clear hand of capital while the invisible hand will slap you into oppression.</p>
+<p>In short, this cuts short any ability of smaller labs to make sizable contributions. The current AI gold rush will lead to the further stratification of an already hierarchical academic research system of have and have nots. The created models will be “open”, but only the fortunate few will be able to fully exploit them (i.e.&nbsp;reproduce and built upon the theory and data - if provided). This will concentrate research and capital. The future of research will not be determined by how many post-docs you let sleep under their desk, but how much cloud compute you can squeeze from large vendors with your grant.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2024,
+  author = {Hufkens, Koen},
+  title = {Good {AI,} {Bad} {AI}},
+  date = {2024-04-28},
+  url = {https://khufkens.com/posts/good-AI-bad-AI},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2024" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2024. <span>“Good AI, Bad AI.”</span> April 28, 2024. <a href="https://khufkens.com/posts/good-AI-bad-AI">https://khufkens.com/posts/good-AI-bad-AI</a>.
+</div></div></section></div> ]]></description>
+  <category>academia</category>
+  <category>machine learning</category>
+  <category>op-ed</category>
+  <guid>https://khufkens.com/posts/good-AI-bad-AI/</guid>
+  <pubDate>Sun, 28 Apr 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://khufkens.com/posts/good-AI-bad-AI/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Poor failure modes</title>
   <dc:creator>Koen Hufkens</dc:creator>
