@@ -1,0 +1,31 @@
+---
+title: "Good AI, Bad AI"
+subtitle: "ML/AI centralizes academic research power"
+date: "2024-04-28"
+categories: [academia, machine learning, op-ed]
+draft: false
+image: "featured.jpg"
+image-alt: "Photo by Kevin Ku on Unsplash"
+---
+
+![Photo by Kevin Ku on Unsplash](featured.jpg){.preview-image}
+
+Research could greatly benefit from machine learning (these days called AI ). But, as always automation begs the question 'cui bono', who benefits. In this context two barriers for equitable AI crystallize. On the one hand the question of fair and well compensated labour, on the other hand the issue of monopolization and concentration of AI power.
+
+In a recent piece in PNAS the advantages of AI in a lab setting are outlined. This editorial is wildly enthousiastic about the potential of AI to increase research outputs, deal with drudgery of lab work and reduce costs by pooling resources.
+
+[https://www.pnas.org/doi/10.1073/pnas.2406320121](https://www.pnas.org/doi/10.1073/pnas.2406320121)
+
+Although some of these talking points are valid, and efficiency gains can be beneficial it is all too clear that the human perspective in this context was lost. These AI lab machines will most likely, but not necessarily, decrease the number of jobs. However, for they sure will create poor quality jobs. Amazon has recently shown that [AI cosplay has been a front for outsourcing cashier jobs to "mechanical turks" abroad](https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116).
+
+Having worked in (wet) labs myself, technicians are critical to the functioning of a lab and provide strategic feedback on experimental design. However, technicians are often overlooked - deemed easily replaced and or automated away - and the ultimate target of the PNAS article.
+
+At a most basic level the future of a lab, as described in the article, is one where the lab technician is relegated to the basement to tend to a zoo of buzzing machines, churning jobs to the demand of a ticketing system while having even less social interaction than a line worker in an auto plant. This is a rather bleak future of what a lab could look like. More so, it is disingenuous and hides the fact that this isn't an AI revolution, it is a way to justify debasing someone's work conditions using the threat of AI.
+
+> As noted in the PNAS article "At Emerald Cloud Lab, researchers and students can order experiments online. A combination of robotic instrumentation and **trained technicians** will perform the experiments as specified." (emphasis my own)
+
+People could always be put in a central facility with a ticketing system and a slew of machines to tend to. Until now, that argument wasn't nearly as appealing if you can't threaten the lab techs involved with the argument that they should shut up, abandon their unions, or they will be replaced completely by machines - tomorrow. AI as blackmail. During every technological revolution jobs were created, but ultimately many were destroyed as well with people's livelihoods put on the line - here and now. Many more jobs decreased in quality and compensation.
+
+Many researchers think they will be able to escape this precarity dance, if not gain some edge. I would agree, AI will increase the speed of some tasks significantly and open research avenues. I've leveraged some of this in the past myself. However, what many people have lost sight of is that most of these tools are (already) being centralized (in monopolies). Large foundation models, underpinning "cutting edge" research, can only be produced by very large commercial labs. To be of note in such a research environment requires money, connections or both. This further dispels the myth of merit in research, and shows the clear hand of capital while the invisible hand will slap you into oppression.
+
+In short, this cuts short any ability of smaller labs to make sizable contributions. The current AI gold rush will lead to the further stratification of an already hierarchical academic research system of have and have nots. The created models will be "open", but only the fortunate few will be able to fully exploit them (i.e. reproduce and built upon the theory and data - if provided). This will concentrate research and capital. The future of research will not be determined by how many post-docs you let sleep under their desk, but how much cloud compute you can squeeze from large vendors with your grant.
