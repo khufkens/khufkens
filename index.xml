@@ -9,8 +9,50 @@
 <link>https://khufkens.com/</link>
 <atom:link href="https://khufkens.com/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.553</generator>
-<lastBuildDate>Sun, 28 Apr 2024 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>The lack of consent</title>
+  <dc:creator>Koen Hufkens</dc:creator>
+  <link>https://khufkens.com/posts/contempt-consent-AI-culture/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://khufkens.com/posts/contempt-consent-AI-culture/featured.jpg" class="preview-image img-fluid figure-img"></p>
+<figcaption>Photo by Erik Mclean on Unsplash</figcaption>
+</figure>
+</div>
+<p>Too late, I finally picked up “<a href="https://en.wikipedia.org/wiki/Braiding_Sweetgrass">Braiding Sweetgrass</a>” by Robin Wall Kimmerer. Although the book talks about natural history, the one thing that really stuck was the idea of a gift culture, a culture of gratitude. This culture of gratitude is rooted in asking for consent, from people and the material world alike.</p>
+<p>This culture runs counter to how business, politics, life is run throughout most of the Western world. Our Western culture is permeated by the age old adage: “It is easier to ask for forgiveness than to get permission (consent) - anonymous”. In a supreme demonstration of this principle, OpenAI launched their voice assistant Sky using a voice which was <a href="https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her">eerily close to that of Scarlett Johansson</a>. They tried to get Johansson’s consent, did not get it, and pushed ahead anyway. Obviously a public outcry followed, Johansson lawyered up and OpenAI had to back track. Mea-culpa, all is forgiven?</p>
+<p>Yet, all too often such actions result in a “fait accompli” situation, where a situation can’t be undone after the fact, or legal action is slow and ineffective, or both. Mostly, this is exactly what is desired and not a mistake. OpenAI’s ChatGPT model is for example driven of reams of copyrighted material, for which they did not ask permission, only to force upon us this technology (fait accompli copyright infringements included, with a sue me if you can attitude). This culture, where a particular idea/product/political decision is the end-all be-all, is a culture of contempt and to me seems mostly rooted in a lack of asking for (democratic) consent.</p>
+<p>An example close to home resulted in ignoring the environmental impact of PFAS pollution around the Antwerp 3M plant. This contempt of the health of the local population, <a href="https://www.vrt.be/vrtnws/en/2023/05/16/_nuisance-neighbour-3m-order-to-compensate-family/">within the context of new road construction</a>, resulted in a <a href="https://apache.be/2021/08/27/als-chemiebedrijf-3m-vraagt-draait-provincie-antwerpen">political bargain with 3M</a> while sidelining popular concerns and their consent on any (in) action.</p>
+<p>More often than not, Western culture doesn’t ask for consent from people or in the indigenous context from all beings around us. It should be acknowledged that there are (environmental) impact studies. But, all too often, these are seen as mere bureaucratic obstacles which can be sidelined by legalese or outright ignoring them to force a “fait accompli” end-game. Our culture is not one of asking for consent, and then only taking half what we desire to safeguard regeneration, as is the indigenous one. To our own detriment, Western culture has lost this consent culture, and the connection with the land, a long time ago in favour of a Machiavellist winner take all philosophy.</p>
+<p>“<a href="https://en.wikipedia.org/wiki/Apr%C3%A8s_moi,_le_d%C3%A9luge">Après nous, le déluge</a>”, and a belated ‘mea culpa’ for all which was lost.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2024,
+  author = {Hufkens, Koen},
+  title = {The Lack of Consent},
+  date = {2024-05-21},
+  url = {https://khufkens.com/posts/contempt-consent-AI-culture},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2024" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2024. <span>“The Lack of Consent.”</span> May 21, 2024.
+<a href="https://khufkens.com/posts/contempt-consent-AI-culture">https://khufkens.com/posts/contempt-consent-AI-culture</a>.
+</div></div></section></div> ]]></description>
+  <category>culture</category>
+  <category>machine learning</category>
+  <category>op-ed</category>
+  <guid>https://khufkens.com/posts/contempt-consent-AI-culture/</guid>
+  <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://khufkens.com/posts/contempt-consent-AI-culture/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Good AI, Bad AI</title>
   <dc:creator>Koen Hufkens</dc:creator>
