@@ -6,10 +6,10 @@
       version="2.0">
 <channel>
 <title>Morning musings</title>
-<link>https://khufkens.com/</link>
-<atom:link href="https://khufkens.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://khufkens.com/blog.html</link>
+<atom:link href="https://khufkens.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.4.554</generator>
+<generator>quarto-1.4.555</generator>
 <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>The lack of consent</title>
