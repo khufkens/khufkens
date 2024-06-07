@@ -1,17 +1,14 @@
 ---
-title: "Blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: grid
-  categories: true
-  sort-ui: false
-  filter-ui: false
-  fields: [image, date, title, subtitle, author, reading-time]
-  feed: true
-  max-description-length: 80
-page-layout: full
-title-block-banner: false
+title: "Home"
+image: profile.jpg
+about:
+  template: solana
+  links:
+      - icon: github
+        href: https://github.com/bluegreen-labs/
+      - icon: mastodon
+        href: https://mastodon.social/@koen_hufkens
+
 ---
 
-
+Here you find my reading, writing and some observations on work, life, science and academia. Most things are written over morning coffee or during my commute/travels. This writing is stream of thought with sparse punctuation. Yet, I hope some of it might inspire others. This writing are my own opinion pieces, although they might serve as foundations for more well researched work. For all my scientific work I refer to [BlueGreen Labs](https://bluegreenlabs.org).

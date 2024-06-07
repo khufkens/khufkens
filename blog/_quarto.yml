@@ -9,8 +9,8 @@ website:
     creator: "@koen_hufkens@mastodon.social"
   navbar:
     right:
-      - about.qmd
       - index.qmd
+      - blog.qmd
       - icon: github
         href: https://github.com/bluegreen-labs/
       - icon: mastodon
