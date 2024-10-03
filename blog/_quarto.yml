@@ -5,9 +5,6 @@ website:
   title: "Morning musings"
   site-url: https://khufkens.com
   open-graph: true
-  categories: true
-  feed:
-    categories: [posts]
   twitter-card:
     creator: "@koen_hufkens@mastodon.social"
   navbar:
