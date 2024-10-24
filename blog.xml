@@ -10,7 +10,49 @@
 <atom:link href="https://khufkens.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Oct 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>On reviewing, publons and privacy</title>
+  <dc:creator>Koen Hufkens</dc:creator>
+  <link>https://khufkens.com/posts/publons-peer-review-badges/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://khufkens.com/posts/publons-peer-review-badges/featured.jpg" class="preview-image img-fluid figure-img"></p>
+<figcaption>Photo by Paul Melki on Unsplash</figcaption>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p>from the archive on popular request, first published on 2017-03-31</p>
+</blockquote>
+<p>Recently I came across Publons as a way to get credit for your reviewing efforts. At first I was rather intrigued. It does sound like a good idea as I often bemoan the burden which is reviewing at times, and the little reward it brings (often because of the quality of the work). I was even more intrigued as five years ago I was runner-up in <a href="https://www.elsevier.com/en-in/connect/peer-review-challenge">Elsevier’s peer-review challenge</a>, trying to resolve the ailing peer-review system. The winner suggested something along the lines of Publons.</p>
+<p>However, Publons or any badge system want to make you believe that your review is worth something outside it’s academic context. Yet, it does not contribute to a workable solution for the core problem of the academic peer-review process which is <strong>ease-of-use</strong> and <strong>the quality of the review</strong>. It perverts the peer-review system with false incentives and a race to the bottom if poorly executed. Publons claims for publishers state a decrease in review times and accepted reviews. This suggests that Publons change incentives to accept reviews, and potentially the number of accepted manuscripts. Assuming that time is a limited resource for most scientists, increasing the number of reviews should decrease the time spend on them, letting errors slip through.</p>
+<p>Even less surprising is that given that this is a for profit venture and they do not go lightly when it comes to privacy. Checking the privacy statement (below) basically states that all the data you submit (full reviews if possible) can be used for data mining, and reselling to advertisers or publishers alike.</p>
+<p>In short, <strong>Publons is a niche data broker</strong>, contrary to sweeping approach Google and Facebook use. Added value is generated in the form of a virtual badge, with little or no real world value, providing only an extra account to track and performance anxiety that goes with it and the privacy you sign away. The badges potentially shift the reviewer acceptance rates due to time restrictions and moral hazard. We should not be speeding up science, we should be increasing rigour, reproducibility and quality.</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2024,
+  author = {Hufkens, Koen},
+  title = {On Reviewing, Publons and Privacy},
+  date = {2024-10-24},
+  url = {https://khufkens.com/posts/publons-peer-review-badges/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2024" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2024. <span>“On Reviewing, Publons and Privacy.”</span>
+October 24, 2024. <a href="https://khufkens.com/posts/publons-peer-review-badges/">https://khufkens.com/posts/publons-peer-review-badges/</a>.
+</div></div></section></div> ]]></description>
+  <category>academia</category>
+  <category>publishing</category>
+  <guid>https://khufkens.com/posts/publons-peer-review-badges/</guid>
+  <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://khufkens.com/posts/publons-peer-review-badges/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>The lack of consent</title>
   <dc:creator>Koen Hufkens</dc:creator>
