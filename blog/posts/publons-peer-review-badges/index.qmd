@@ -1,0 +1,21 @@
+---
+title: "On reviewing, publons and privacy"
+subtitle: "the current state of academic publishing"
+date: "2024-10-24"
+categories: [academia, publishing]
+draft: false
+image: "featured.jpg"
+image-alt: "Photo by Modestas Urbonas on Unsplash"
+---
+
+![Photo by Paul Melki on Unsplash](featured.jpg){.preview-image}
+
+> from the archive on popular request, first published on 2017-03-31
+
+Recently I came across Publons as a way to get credit for your reviewing efforts. At first I was rather intrigued. It does sound like a good idea as I often bemoan the burden which is reviewing at times, and the little reward it brings (often because of the quality of the work). I was even more intrigued as five years ago I was runner-up in [Elsevier's peer-review challenge](https://www.elsevier.com/en-in/connect/peer-review-challenge), trying to resolve the ailing peer-review system. The winner suggested something along the lines of Publons.
+
+However, Publons or any badge system want to make you believe that your review is worth something outside it's academic context. Yet, it does not contribute to a workable solution for the core problem of the academic peer-review process which is **ease-of-use** and **the quality of the review**. It perverts the peer-review system with false incentives and a race to the bottom if poorly executed. Publons claims for publishers state a decrease in review times and accepted reviews. This suggests that Publons change incentives to accept reviews, and potentially the number of accepted manuscripts. Assuming that time is a limited resource for most scientists, increasing the number of reviews should decrease the time spend on them, letting errors slip through.
+
+Even less surprising is that given that this is a for profit venture and they do not go lightly when it comes to privacy. Checking the privacy statement (below) basically states that all the data you submit (full reviews if possible) can be used for data mining, and reselling to advertisers or publishers alike.
+
+In short, **Publons is a niche data broker**, contrary to sweeping approach Google and Facebook use. Added value is generated in the form of a virtual badge, with little or no real world value, providing only an extra account to track and performance anxiety that goes with it and the privacy you sign away. The badges potentially shift the reviewer acceptance rates due to time restrictions and moral hazard. We should not be speeding up science, we should be increasing rigour, reproducibility and quality.
