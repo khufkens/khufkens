@@ -1,0 +1,29 @@
+---
+title: "The power of failure"
+subtitle: "failing in an age of perfection and LLM mediocrity"
+date: "2025-01-22"
+categories: [machine learning, LLM, coding, failure, philosphy]
+draft: false
+image: "featured.jpg"
+image-alt: ""
+---
+
+> This is a rant, long form gripes on a post by AI6YR Ben on Mastodon regarding a hiring interview - check the conversation for more context.
+
+<iframe src="https://m.ai6yr.org/@ai6yr/113873340581322537/embed" width="600" height="300" allowfullscreen="allowfullscreen" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms"></iframe>
+
+I code, a lot, but I'm not formally trained in this in any way. What I do know is problem solving (from nerding around in linux mostly). And what I see, increasingly, is a total lack of problem solving skills (with students). I can code up things and at some point realize there is too much friction - which triggers the "spider" sense that there must be a better way. Then you hunt, in known literature, or reconsider the whole thing. That last bit, today, is completely missing for many.
+
+That last bit is engineering, that last bit is science in the abstract, or any creative enterprise. That last bit is digging up more than boiler plate generative AI stuff, that last bit is connecting all the dots. And for now, this is beyond reach for these LLM models (as it is an out of distribution problem). And if it can be solved by "agents", it still is tremendously wasteful of energy for what is just sitting down and problem solving (also called thinking).
+
+A key part of the problem of problem solving is that, increasingly, for many students failure is hard. Not that it is easy for anyone, but if you are never taught that this is part of the process it really bites. In this context, teaching to the test (not doing open ended messy work) is doing a lot of students a great disservice.
+
+If students ask me how I can sense of code or data quickly, or generally figure out things, I've never seen before I tell them I fail faster (in my head) and read manuals. Teaching failure, and the acceptance of it, and owning those mistakes is really important and a life skill. Some of this comes with age, but much can be learned, taught if you are in such a position.
+
+Failure is important as it keeps you humble, second it is key to a safety culture. And this bit is actually really important if you are dealing with people in wet labs (stuff that does boom), workshops (sharp stuff that cuts), or real life (politics). And, this makes the whole Big Tech thing of "move fast and break things" utterly bonkers. Yes, failure is always acceptable, if you don't intentionally create collateral damage. If you do, sit down and think long and hard.
+
+Failure teaches what your limits are, but also allows you to push past them. Not acknowledging failure doesn't leave an opening for growth. Dealing with failure also requires intrinsic motivation, rather than extrinsic one. Failure can be lonely, dispiriting and just plain hard. Having to deal with failure, even in absence of recognition, is a life skill that will lift you to new heights. This strong headed willpower, to come back to things time after time is something you can learn. It is a mental flex, and superpower.
+
+However, when you never experience breaking through failure in a sprint which is learning and mastering a new skill (mostly on your own) you will not chase this excellence and all too quickly settle for good enough. If the spell of failure is broken you will keep chasing learning, learning to become a specialist, or learning many things by connecting ideas as a generalist. But, whatever you decide to chase you will need to come to terms with failure to excel.
+
+> learn to live with the mistakes
