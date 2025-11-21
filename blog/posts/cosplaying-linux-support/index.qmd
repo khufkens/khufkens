@@ -1,0 +1,129 @@
+---
+title: "Dioss eID middleware .deb failure"
+subtitle: "Cosplaying linux support"
+date: "2025-11-21"
+categories: [coding, failure, infosec, clusterfuck]
+draft: false
+image: "featured.jpg"
+image-alt: ""
+---
+
+Recently, I was confronted with a platform which uses the Dias Identity Hub by Dioss. This piece of software needs their **Dioss eID middleware**. Being a linux only person I was forced to content myself with their proposed Ubuntu debian `.deb` download (I guess I should have been happy that there was a Linux package to begin with). 
+
+With a certain reluctance, as no check sums for the package were provided, I tried to install the package on my Pop OS! Ubuntu laptop. Sadly, this quickly ended with this particular error message:
+
+> This package can only be installed on Ubuntu
+> dpkg: error processing archive dioss-eidmw_ubuntu_22_amd64.deb (--install):
+> new dioss-eidmw package pre-installation script subprocess returned error exit status 1
+> Errors were encountered while processing:
+> dioss-eidmw_ubuntu_22_amd64.deb
+
+Now, I run a variety of Ubuntu flavours depending on my hardware needs. Pop OS! for example provides good NVidia support on laptops with hybrid (mobile) GPUs, while XUbuntu is lean for older hardware which I use on burner laptops for fieldwork and travel. Stock Ubuntu I often use on server / workstation hardware. Linux Mint is a large and popular distro. All these flavours have Ubuntu as their base. So, why wouldn't the software install? 
+
+Since `.deb` files are compressed archives you can actually look under the hood. So, I decompressed the deb file
+
+```bash
+ar x dioss-eidmw_ubuntu_22_amd64.deb  --output=/tmp
+```
+
+This will result three (3) files:
+
+ * control.tar.gz
+ * data.tar.gz
+ * debian-binary
+
+Here, the control archive contains package setup details, the data archive contains the actual software and the debian-binary specifies the version of the deb package system. I then unzipped the control archive once more to read along what gets run during the pre-installation routine, as specified in a `preinst` file.
+
+```bash
+# unzip the control archive, print the preinst file
+cd /tmp
+tar -xvf control.tar.gz
+cat preinst
+```
+
+The first 14 lines of the `preinst` script show this:
+
+```bash
+#!/bin/bash
+
+PATH=$PATH:/usr/bin:/usr/sbin
+export PATH
+
+set -e
+
+case "$1" in
+install|upgrade)
+	DISTRO_ID=$(lsb_release -i | sed -r 's/^[^:]+:\s*//')
+	if [ "${DISTRO_ID}" != "Ubuntu" ]; then
+		echo "This package can only be installed on Ubuntu" 1>&2
+		exit 1
+	fi
+```
+
+For those not familiar with bash code, it checks if the ID is "Ubuntu". Therefore the software will only support stock Ubuntu as the distribution ID can be nothing but "Ubuntu". A query for the distribution ID on my particular system, as:
+
+```bash
+lsb_release -i
+Distributor ID:	Pop
+```
+would return "Pop".
+
+In short, any Ubuntu flavour is unsupported despite being compatible. To fix the problem, I decided to repackage the debian package (to see if this was enough).
+
+## Repackaging a .deb package file
+
+### fixing the offending file
+
+To fix the issue I commented out the lines as shown above (the "if statement"). In addition, I calculated the md5sum of the new `preinst` file and replaced the line in the `md5sums` file (for good measure). These are the only edits required.
+
+### packaging
+
+A debian `.deb` package can not be quickly repackaged, as the file structure is different in the `.deb` file as compared to the directory you would build such a package from. You need to shuffle some files around to repackage the whole thing, adhering to the package building tools. 
+
+To repackage the data, create a new folder (e.g. `dioss`) and move all the files from the `control.tar.gz` archive in to a new sub-folder called `DEBIAN`. Copy the `debian-binary` file to the new directory, as well as all directories extracted from the `data.tar.gz` archive. Your new package directory structure should look like this:
+
+```
+dioss
+├── DEBIAN
+│   ├── conffiles
+│   ├── control
+│   ├── md5sums
+│   ├── postinst
+│   ├── postrm
+│   ├── preinst
+│   └── prerm
+├── debian-binary
+├── etc
+├── lib
+├── opt
+└── usr
+```
+
+You can then rebuild the package using:
+
+```bash
+dpkg-deb --build ./dioss/
+```
+
+This will build a package called `dioss.deb` in your working directory.
+
+FINALLY, you can now install the package per usual with:
+
+```bash
+sudo dpkg -i dioss.deb
+```
+With this I ended with a working copy of the Dioss eID middleware software on my computer. 
+
+## Closing remarks
+
+Well, frankly, this is a f-ck up on part of Dioss. Although Ubuntu is a popular flavour of linux it has also many many popular derivatives. The fact that a hard-coded check is in place in the "Ubuntu" software release shows that they do not take Linux support seriously - this has been implemented as an afterthought by someone who didn't test this broadly. This was a trivial mistake caused by a lack of awareness of the linux distribution landscape. 
+
+A forum post on the [Linux Mint from 2023](https://forums.linuxmint.com/viewtopic.php?p=2407019&sid=20a16b7a5383f07d3097c63208c98eaf#p2407019) highlights the problem, and shows the lack of interest towards the linux community. Dioss respons to a user request with a non-answer, and middle finger to the user, while the answer or fix should have been what I've proposed above.
+
+The fix proposed above is also FAR outside the scope of what can be expected from linux users, even though which might be a bit more familiar with the command line and software development. This is broken software. Furthermore, the fact that no check-sums were provided for the package as a whole further makes me question how serious they take a privacy sensitive topic such as (government) ID verification. Binary software which does not deal with privacy sensitive authentication even provide this, e.g. [RStudio](https://posit.co/download/rstudio-desktop/).
+
+So, advice for companies doing linux support:
+
+ 1. Know the Linux distribution landscape
+ 2. Don't peg your software onto one distribution ID (this isn't Windows or MacOS, see 1.)
+ 3. Clean up your code-singing keys or check-sum game
