@@ -9,8 +9,273 @@
 <link>https://khufkens.com/blog.html</link>
 <atom:link href="https://khufkens.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Wed, 22 Jan 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Fri, 21 Nov 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Dioss eID middleware .deb failure</title>
+  <dc:creator>Koen Hufkens</dc:creator>
+  <link>https://khufkens.com/posts/cosplaying-linux-support/</link>
+  <description><![CDATA[ 
+
+
+
+
+<blockquote class="blockquote">
+<p>This post points out a long-standing issue with non-functional eID software on linux systems. Although the situation with the FedICT eID middleware software has improved it, too, historically was a pain to get working properly. Sadly, response times of private and government software providers has been poor. At the same time citizens using linux are forced by the government to increasingly rely on this non-functioing eID verification. I hope this post might solve this issue for some, and call out the providers on their lack of responsibility and ownership.</p>
+</blockquote>
+<p>Recently, I was confronted with a platform which uses the Dias Identity Hub by Dioss. This piece of software needs their <strong>Dioss eID middleware</strong>. Being a linux only person I was forced to content myself with their proposed Ubuntu debian <code>.deb</code> download (I guess I should have been happy that there was a linux package to begin with).</p>
+<p>With a certain reluctance, as no check sums for the package were provided, I tried to install the package on my Pop OS! Ubuntu laptop. Sadly, this quickly ended with this particular error message:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">This</span> package can only be installed on Ubuntu</span>
+<span id="cb1-2"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">dpkg:</span> error processing archive dioss-eidmw_ubuntu_22_amd64.deb <span class="er" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">(</span><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">--install</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">)</span><span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">:</span></span>
+<span id="cb1-3"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">new</span> dioss-eidmw package pre-installation script subprocess returned error exit status 1</span>
+<span id="cb1-4"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">Errors</span> were encountered while processing:</span>
+<span id="cb1-5"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">dioss-eidmw_ubuntu_22_amd64.deb</span></span></code></pre></div></div>
+<p>Now, I run a variety of Ubuntu flavours depending on my hardware needs. Pop OS! for example provides good NVidia support on laptops with hybrid (mobile) GPUs, while XUbuntu is lean for older hardware which I use on burner laptops for fieldwork and travel. Stock Ubuntu I often use on server / workstation hardware. linux Mint is a large and popular distro. All these flavours have Ubuntu as their base. So, why wouldn’t the software install?</p>
+<p>Since <code>.deb</code> files are compressed archives you can actually look under the hood. So, I decompressed the deb file</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ar</span> x dioss-eidmw_ubuntu_22_amd64.deb  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">--output</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span>/tmp</span></code></pre></div></div>
+<p>This will result three (3) files:</p>
+<ul>
+<li>control.tar.gz</li>
+<li>data.tar.gz</li>
+<li>debian-binary</li>
+</ul>
+<p>Here, the control archive contains package setup details, the data archive contains the actual software and the debian-binary specifies the version of the deb package system. I then unzipped the control archive once more to read along what gets run during the pre-installation routine, as specified in a <code>preinst</code> file.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># unzip the control archive, print the preinst file</span></span>
+<span id="cb3-2"><span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">cd</span> /tmp</span>
+<span id="cb3-3"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">tar</span> <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">-xvf</span> control.tar.gz</span>
+<span id="cb3-4"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">cat</span> preinst</span></code></pre></div></div>
+<p>The first 14 lines of the <code>preinst</code> script show this:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#!/bin/bash</span></span>
+<span id="cb4-2"></span>
+<span id="cb4-3"><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">PATH</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">$PATH</span>:/usr/bin:/usr/sbin</span>
+<span id="cb4-4"><span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">export</span> <span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">PATH</span></span>
+<span id="cb4-5"></span>
+<span id="cb4-6"><span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">set</span> <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">-e</span></span>
+<span id="cb4-7"></span>
+<span id="cb4-8"><span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">case</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"</span><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">$1</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"</span> <span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">in</span></span>
+<span id="cb4-9"><span class="ss" style="color: #20794D;
+background-color: null;
+font-style: inherit;">install</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">|</span><span class="ss" style="color: #20794D;
+background-color: null;
+font-style: inherit;">upgrade</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">)</span></span>
+<span id="cb4-10">    <span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">DISTRO_ID</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">=</span><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">$(</span><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">lsb_release</span> <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">-i</span> <span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">|</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">sed</span> <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">-r</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'s/^[^:]+:\s*//'</span><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">)</span></span>
+<span id="cb4-11">    <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">if</span> <span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">[</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"</span><span class="va" style="color: #111111;
+background-color: null;
+font-style: inherit;">${DISTRO_ID}</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"</span> <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">!=</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Ubuntu"</span> <span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">]</span><span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">;</span> <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">then</span></span>
+<span id="cb4-12">        <span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">echo</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"This package can only be installed on Ubuntu"</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span><span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">&gt;&amp;</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span></span>
+<span id="cb4-13">        <span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">exit</span> 1</span>
+<span id="cb4-14">    <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">fi</span></span></code></pre></div></div>
+<p>For those not familiar with bash code, it checks if the ID is “Ubuntu”. Therefore the software will only support stock Ubuntu as the distribution ID can be nothing but “Ubuntu”. A query for the distribution ID on my particular system, as:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb5-1"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">lsb_release</span> <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">-i</span></span>
+<span id="cb5-2"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">Distributor</span> ID: Pop</span></code></pre></div></div>
+<p>would return “Pop”.</p>
+<p>In short, any Ubuntu flavour is unsupported despite being compatible. To fix the problem, I decided to repackage the debian package (to see if this was enough).</p>
+<section id="repackaging-a-.deb-package-file" class="level2">
+<h2 class="anchored" data-anchor-id="repackaging-a-.deb-package-file">Repackaging a .deb package file</h2>
+<section id="fixing-the-offending-file" class="level3">
+<h3 class="anchored" data-anchor-id="fixing-the-offending-file">fixing the offending file</h3>
+<p>To fix the issue I commented out the lines as shown above (the “if statement”). In addition, I calculated the md5sum of the new <code>preinst</code> file and replaced the line in the <code>md5sums</code> file (for good measure). These are the only edits required.</p>
+</section>
+<section id="packaging" class="level3">
+<h3 class="anchored" data-anchor-id="packaging">packaging</h3>
+<p>A debian <code>.deb</code> package can not be quickly repackaged, as the file structure is different in the <code>.deb</code> file as compared to the directory you would build such a package from. You need to shuffle some files around to repackage the whole thing, adhering to the package building tools.</p>
+<p>To repackage the data, create a new folder (e.g.&nbsp;<code>dioss</code>) and move all the files from the <code>control.tar.gz</code> archive in to a new sub-folder called <code>DEBIAN</code>. Copy the <code>debian-binary</code> file to the new directory, as well as all directories extracted from the <code>data.tar.gz</code> archive. Your new package directory structure should look like this:</p>
+<pre><code>dioss
+├── DEBIAN
+│&nbsp;&nbsp; ├── conffiles
+│&nbsp;&nbsp; ├── control
+│&nbsp;&nbsp; ├── md5sums
+│&nbsp;&nbsp; ├── postinst
+│&nbsp;&nbsp; ├── postrm
+│&nbsp;&nbsp; ├── preinst
+│&nbsp;&nbsp; └── prerm
+├── debian-binary
+├── etc
+├── lib
+├── opt
+└── usr</code></pre>
+<p>You can then rebuild the package using:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb7-1"><span class="ex" style="color: null;
+background-color: null;
+font-style: inherit;">dpkg-deb</span> <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">--build</span> ./dioss/</span></code></pre></div></div>
+<p>This will build a package called <code>dioss.deb</code> in your working directory.</p>
+<p>FINALLY, you can now install the package per usual with:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">sudo</span> dpkg <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">-i</span> dioss.deb</span></code></pre></div></div>
+<p>With this I ended with a working copy of the Dioss eID middleware software on my computer.</p>
+</section>
+</section>
+<section id="closing-remarks" class="level2">
+<h2 class="anchored" data-anchor-id="closing-remarks">Closing remarks</h2>
+<p>Well, frankly, this is a f-ck up on part of Dioss. Although Ubuntu is a popular flavour of linux it has also many many popular derivatives. The fact that a hard-coded check is in place in the “Ubuntu” software release shows that they do not take linux support seriously - this has been implemented as an afterthought by someone who didn’t test this broadly. This was a trivial mistake caused by a lack of awareness of the linux distribution landscape.</p>
+<p>A post on the <a href="https://forums.linuxmint.com/viewtopic.php?p=2407019&amp;sid=20a16b7a5383f07d3097c63208c98eaf#p2407019">Linux Mint forum from 2023</a> highlights the problem, and shows the lack of interest towards the linux community. Dioss response to a user request with a non-answer, while the answer should have been what I’ve proposed above.</p>
+<p>The fix proposed above, although trivial from an expert perspective, is also FAR outside the scope of what can be expected from even above average linux users to find and craft on their own. Furthermore, the fact that no check-sums were provided for the package as a whole further makes me question how serious they take a privacy sensitive topic such as (government) ID verification. Binary software which does not deal with privacy sensitive authentication even provide this, e.g.&nbsp;<a href="https://posit.co/download/rstudio-desktop/">RStudio</a> and other linux binary blobs.</p>
+<p>So, advice for companies doing linux support:</p>
+<ol type="1">
+<li>Know the linux distribution landscape</li>
+<li>Don’t peg your software onto one distribution ID (this isn’t Windows or MacOS, see 1.) and provide transparent error messages</li>
+<li>Clean up your code-singing keys or check-sum game</li>
+</ol>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{hufkens2025,
+  author = {Hufkens, Koen},
+  title = {Dioss {eID} Middleware .deb Failure},
+  date = {2025-11-21},
+  url = {https://khufkens.com/posts/cosplaying-linux-support/},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-hufkens2025" class="csl-entry quarto-appendix-citeas">
+Hufkens, Koen. 2025. <span>“Dioss eID Middleware .deb Failure.”</span>
+November 21, 2025. <a href="https://khufkens.com/posts/cosplaying-linux-support/">https://khufkens.com/posts/cosplaying-linux-support/</a>.
+</div></div></section></div> ]]></description>
+  <category>coding</category>
+  <category>failure</category>
+  <category>infosec</category>
+  <category>clusterfuck</category>
+  <guid>https://khufkens.com/posts/cosplaying-linux-support/</guid>
+  <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://khufkens.com/posts/cosplaying-linux-support/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>The power of failure</title>
   <dc:creator>Koen Hufkens</dc:creator>
