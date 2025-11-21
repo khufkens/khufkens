@@ -8,17 +8,21 @@ image: "featured.jpg"
 image-alt: ""
 ---
 
-Recently, I was confronted with a platform which uses the Dias Identity Hub by Dioss. This piece of software needs their **Dioss eID middleware**. Being a linux only person I was forced to content myself with their proposed Ubuntu debian `.deb` download (I guess I should have been happy that there was a Linux package to begin with). 
+> This post points out a long-standing issue with non-functional eID software on linux systems. Although the situation with the FedICT eID middleware software has improved it, too, historically was a pain to get working properly. Sadly, response times of private and government software providers has been poor. At the same time citizens using linux are forced by the government to increasingly rely on this non-functioing eID verification. I hope this post might solve this issue for some, and call out the providers on their lack of responsibility and ownership.
+
+Recently, I was confronted with a platform which uses the Dias Identity Hub by Dioss. This piece of software needs their **Dioss eID middleware**. Being a linux only person I was forced to content myself with their proposed Ubuntu debian `.deb` download (I guess I should have been happy that there was a linux package to begin with). 
 
 With a certain reluctance, as no check sums for the package were provided, I tried to install the package on my Pop OS! Ubuntu laptop. Sadly, this quickly ended with this particular error message:
 
-> This package can only be installed on Ubuntu
-> dpkg: error processing archive dioss-eidmw_ubuntu_22_amd64.deb (--install):
-> new dioss-eidmw package pre-installation script subprocess returned error exit status 1
-> Errors were encountered while processing:
-> dioss-eidmw_ubuntu_22_amd64.deb
+```bash
+This package can only be installed on Ubuntu
+dpkg: error processing archive dioss-eidmw_ubuntu_22_amd64.deb (--install):
+new dioss-eidmw package pre-installation script subprocess returned error exit status 1
+Errors were encountered while processing:
+dioss-eidmw_ubuntu_22_amd64.deb
+```
 
-Now, I run a variety of Ubuntu flavours depending on my hardware needs. Pop OS! for example provides good NVidia support on laptops with hybrid (mobile) GPUs, while XUbuntu is lean for older hardware which I use on burner laptops for fieldwork and travel. Stock Ubuntu I often use on server / workstation hardware. Linux Mint is a large and popular distro. All these flavours have Ubuntu as their base. So, why wouldn't the software install? 
+Now, I run a variety of Ubuntu flavours depending on my hardware needs. Pop OS! for example provides good NVidia support on laptops with hybrid (mobile) GPUs, while XUbuntu is lean for older hardware which I use on burner laptops for fieldwork and travel. Stock Ubuntu I often use on server / workstation hardware. linux Mint is a large and popular distro. All these flavours have Ubuntu as their base. So, why wouldn't the software install? 
 
 Since `.deb` files are compressed archives you can actually look under the hood. So, I decompressed the deb file
 
@@ -116,14 +120,14 @@ With this I ended with a working copy of the Dioss eID middleware software on my
 
 ## Closing remarks
 
-Well, frankly, this is a f-ck up on part of Dioss. Although Ubuntu is a popular flavour of linux it has also many many popular derivatives. The fact that a hard-coded check is in place in the "Ubuntu" software release shows that they do not take Linux support seriously - this has been implemented as an afterthought by someone who didn't test this broadly. This was a trivial mistake caused by a lack of awareness of the linux distribution landscape. 
+Well, frankly, this is a f-ck up on part of Dioss. Although Ubuntu is a popular flavour of linux it has also many many popular derivatives. The fact that a hard-coded check is in place in the "Ubuntu" software release shows that they do not take linux support seriously - this has been implemented as an afterthought by someone who didn't test this broadly. This was a trivial mistake caused by a lack of awareness of the linux distribution landscape. 
 
-A forum post on the [Linux Mint from 2023](https://forums.linuxmint.com/viewtopic.php?p=2407019&sid=20a16b7a5383f07d3097c63208c98eaf#p2407019) highlights the problem, and shows the lack of interest towards the linux community. Dioss respons to a user request with a non-answer, and middle finger to the user, while the answer or fix should have been what I've proposed above.
+A post on the [Linux Mint forum from 2023](https://forums.linuxmint.com/viewtopic.php?p=2407019&sid=20a16b7a5383f07d3097c63208c98eaf#p2407019) highlights the problem, and shows the lack of interest towards the linux community. Dioss response to a user request with a non-answer, while the answer should have been what I've proposed above.
 
-The fix proposed above is also FAR outside the scope of what can be expected from linux users, even though which might be a bit more familiar with the command line and software development. This is broken software. Furthermore, the fact that no check-sums were provided for the package as a whole further makes me question how serious they take a privacy sensitive topic such as (government) ID verification. Binary software which does not deal with privacy sensitive authentication even provide this, e.g. [RStudio](https://posit.co/download/rstudio-desktop/).
+The fix proposed above, although trivial from an expert perspective, is also FAR outside the scope of what can be expected from even above average linux users to find and craft on their own. Furthermore, the fact that no check-sums were provided for the package as a whole further makes me question how serious they take a privacy sensitive topic such as (government) ID verification. Binary software which does not deal with privacy sensitive authentication even provide this, e.g. [RStudio](https://posit.co/download/rstudio-desktop/) and other linux binary blobs.
 
 So, advice for companies doing linux support:
 
- 1. Know the Linux distribution landscape
- 2. Don't peg your software onto one distribution ID (this isn't Windows or MacOS, see 1.)
+ 1. Know the linux distribution landscape
+ 2. Don't peg your software onto one distribution ID (this isn't Windows or MacOS, see 1.) and provide transparent error messages
  3. Clean up your code-singing keys or check-sum game
